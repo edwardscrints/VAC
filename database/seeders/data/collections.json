@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Arte",
+        "description": "Colección de productos de arte."
+    },
+    {
+        "name": "La Revista",
+        "description": "Colección de nuestra revista."
+    },
+    {
+        "name": "Tecnología",
+        "description": "Colección de productos de tecnología."
+    },
+    {
+        "name": "Belleza",
+        "description": "Colección de productos de belleza."
+    }
+]

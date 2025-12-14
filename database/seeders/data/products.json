@@ -1,0 +1,69 @@
+    [
+        {
+            "attributes": {
+                "name": "Cuadro Moderno Abstracto",
+                "description": "Obra de arte contemporáneo en acrílico sobre lienzo, ideal para decoración de salas y oficinas."
+            },
+            "brand": "ArteVivo",
+            "collections": ["arte"],
+            "sku": "ART-001",
+            "price": "350000",
+            "image": "placeholder.jpg"
+        },
+        {
+            "attributes": {
+                "name": "Impresora 3D Creativa",
+                "description": "Impresora 3D de alta precisión para proyectos de tecnología, educación y diseño."
+            },
+            "brand": "TechPrint",
+            "collections": ["tecnologia"],
+            "sku": "TEC-002",
+            "price": "1200000",
+            "image": "placeholder.jpg"
+        },
+        {
+            "attributes": {
+                "name": "Set de Brochas Profesionales",
+                "description": "Kit de brochas de maquillaje de alta calidad para un acabado perfecto."
+            },
+            "brand": "BellezaPro",
+            "collections": ["belleza"],
+            "sku": "BEL-003",
+            "price": "85000",
+            "image": "placeholder.jpg"
+        },
+        {
+            "attributes": {
+                "name": "Escultura Minimalista",
+                "description": "Escultura decorativa de resina, estilo minimalista, perfecta para espacios modernos."
+            },
+            "brand": "ArteVivo",
+            "collections": ["arte"],
+            "sku": "ART-004",
+            "price": "210000",
+            "image": "placeholder.jpg"
+        },
+        {
+            "attributes": {
+                "name": "Auriculares Inalámbricos HiFi",
+                "description": "Auriculares bluetooth con cancelación de ruido y sonido de alta fidelidad."
+            },
+            "brand": "SoundTech",
+            "collections": ["tecnologia"],
+            "sku": "TEC-005",
+            "price": "320000",
+            "image": "placeholder.jpg"
+        },
+        {
+            "attributes": {
+                "name": "Secador de Cabello Iónico",
+                "description": "Secador profesional con tecnología iónica para un cabello suave y brillante."
+            },
+            "brand": "BellezaPro",
+            "collections": ["belleza"],
+            "sku": "BEL-006",
+            "price": "110000",
+            "image": "placeholder.jpg"
+        }
+    ]
+

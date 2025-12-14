@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Name",
+        "handle": "name",
+        "type": "Lunar\\FieldTypes\\TranslatedText",
+        "attribute_type": "Lunar\\Models\\Product",
+        "configuration": {}
+    },
+    {
+        "name": "Description",
+        "handle": "description",
+        "type": "Lunar\\FieldTypes\\TranslatedText",
+        "attribute_type": "Lunar\\Models\\Product",
+        "configuration": {}
+    },
+    {
+        "name": "Details",
+        "handle": "details",
+        "type": "Lunar\\FieldTypes\\ListField",
+        "attribute_type": "Lunar\\Models\\Product",
+        "configuration": {}
+    }
+]
