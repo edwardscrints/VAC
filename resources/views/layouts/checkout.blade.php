@@ -18,7 +18,7 @@
     >
     <link
         rel="icon"
-        href="{{ asset('favicon.svg') }}"
+        href="{{ asset('favicon.jpg') }}"
     >
     @livewireStyles
     @stripeScripts
