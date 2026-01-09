@@ -23,9 +23,15 @@ class Dashboard extends Component
 
     public function getCategoriesProperty()
     {
-        return \Lunar\Models\Collection::with('products')
-            ->whereHas('products')
-            ->get();
+        $collections = \Lunar\Models\Collection::with(['products' => function($query) {
+            $query->limit(4);
+        }])
+        ->whereHas('products')
+        ->inRandomOrder()
+        ->limit(4)
+        ->get();
+        
+        return $collections;
     }
 
     public function render()

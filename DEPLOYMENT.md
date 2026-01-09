@@ -73,7 +73,19 @@ En el servidor, los archivos deben estar así:
 
 El servidor debe apuntar a: `/home/u193853464/domains/vidaarteycultura.com/public`
 
-## Paso 3: Ejecutar el script de despliegue
+## Paso 3: Configurar PHP 8.3
+
+El servidor requiere PHP 8.3 o superior. Cambia la versión en hPanel o usa el binario específico:
+
+```bash
+# Crear alias para esta sesión
+alias php83='/opt/alt/php83/usr/bin/php'
+
+# O usa la ruta completa en cada comando
+/opt/alt/php83/usr/bin/php artisan [comando]
+```
+
+## Paso 4: Ejecutar el script de despliegue
 
 Conéctate por SSH y ejecuta:
 ```bash
@@ -82,15 +94,29 @@ chmod +x deploy.sh
 ./deploy.sh
 ```
 
-## Paso 4: Verificar configuración
-
-1. Verificar .env:
+**Nota:** Si usas PHP 8.3 manualmente, ejecuta:
 ```bash
-cat .env | grep APP_ENV
-# Debe mostrar: APP_ENV=production
+/opt/alt/php83/usr/bin/php artisan optimize:clear
+/opt/alt/php83/usr/bin/php artisan config:cache
+/opt/alt/php83/usr/bin/php artisan view:cache
+/opt/alt/php83/usr/bin/php artisan route:cache
 ```
 
-2. Verificar permisos:
+## Paso 5: Verificar configuración
+
+1. Verificar versión PHP:
+```bash
+php -v
+# Debe mostrar PHP 8.3.x o superior
+```
+
+3. Verificar permisos:
+```bash
+ls -la storage/
+ls -la bootstrap/cache/
+```
+
+4. Verificar permisos:
 ```bash
 ls -la storage/
 ls -la bootstrap/cache/

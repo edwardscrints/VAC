@@ -1,0 +1,85 @@
+LEHIT - URLs de Imágenes de Productos Nuevos (LEH-042 a LEH-065)
+====================================================================
+
+LEH-042 - Perfume Para Cabello Green
+https://exitocol.vtexassets.com/arquivos/ids/24544530/perfume-para-cabello-green-lehit-7707240010022.jpg
+
+LEH-043 - Gotas De Aceite De Argán
+https://exitocol.vtexassets.com/arquivos/ids/24543803/gotas-de-aceite-de-argan-lehit-7707240010114.jpg
+
+LEH-044 - Tratamiento Acondicionador Capilar Kids
+https://exitocol.vtexassets.com/arquivos/ids/24543805/tratamiento-acondicionador-capilar-kids-lehit-7707240010343.jpg
+
+LEH-045 - Tratamiento Acondicionador Capilar Termoprotector
+https://exitocol.vtexassets.com/arquivos/ids/24543806/tratamiento-acondicionador-capilar-termoprotector-lehit-7707240010367.jpg
+
+LEH-046 - Gotas Aceite De Coco
+https://exitocol.vtexassets.com/arquivos/ids/24543807/gotas-de-aceite-de-coco-lehit-7707240010381.jpg
+
+LEH-047 - Shampoo Cebolla Y Jengibre
+https://exitocol.vtexassets.com/arquivos/ids/24543808/shampoo-cebolla-y-jengibre-lehit-7707240010428.jpg
+
+LEH-048 - Shampoo Sin Sal Kids
+https://exitocol.vtexassets.com/arquivos/ids/24543809/shampoo-sin-sal-kids-lehit-7707240010442.jpg
+
+LEH-049 - Tratamiento Keracrece 10
+https://exitocol.vtexassets.com/arquivos/ids/24543811/tratamiento-keracrece-10-lehit-7707240010497.jpg
+
+LEH-050 - Tratamiento Capilar De Aceite De Argán
+https://exitocol.vtexassets.com/arquivos/ids/24543812/tratamiento-capilar-de-aceite-de-argan-lehit-7707240010503.jpg
+
+LEH-051 - Perfume Para El Cabello Golden
+https://exitocol.vtexassets.com/arquivos/ids/24543813/perfume-para-el-cabello-golden-lehit-7707240010534.jpg
+
+LEH-052 - Semillas De Lino Shampoo Luminoso
+https://exitocol.vtexassets.com/arquivos/ids/24543815/semillas-de-lino-shampoo-luminoso-lehit-7707240010558.jpg
+
+LEH-053 - Tratamiento Acondicionador Capilar Óleos 5
+https://exitocol.vtexassets.com/arquivos/ids/24543817/tratamiento-acondicionador-capilar-oleos-5-lehit-7707240010619.jpg
+
+LEH-054 - Crema Para Peinar Rizos
+https://exitocol.vtexassets.com/arquivos/ids/24543818/crema-para-peinar-rizos-lehit-7707240010633.jpg
+
+LEH-055 - Aceite De Cebolla Tratamiento Capilar
+https://exitocol.vtexassets.com/arquivos/ids/24543819/aceite-de-cebolla-tratamiento-capilar-lehit-7707240010664.jpg
+
+LEH-056 - Tratamiento Acondicionador Gusano De Seda
+https://exitocol.vtexassets.com/arquivos/ids/24543820/tratamiento-acondicionador-gusano-de-seda-lehit-7707240010688.jpg
+
+LEH-057 - Shampoo Afrofrizz
+https://exitocol.vtexassets.com/arquivos/ids/24543821/shampoo-afrofrizz-lehit-7707240010701.jpg
+
+LEH-058 - Shampoo Sin Sal Queratina
+https://exitocol.vtexassets.com/arquivos/ids/24543823/shampoo-sin-sal-queratina-lehit-7707240010756.jpg
+
+LEH-059 - Tratamiento Acondicionador Ortiga, Limón, Menta
+https://exitocol.vtexassets.com/arquivos/ids/24543825/tratamiento-acondicionador-ortiga-limon-menta-lehit-7707240010817.jpg
+
+LEH-060 - Repolarizador Capilar Keratine C Botrox In
+https://exitocol.vtexassets.com/arquivos/ids/24543826/repolarizador-capilar-keratine-c-botrox-in-lehit-7707240010848.jpg
+
+LEH-061 - Serum Nutri Gloss Omega Plus
+https://exitocol.vtexassets.com/arquivos/ids/24543827/serum-nutri-gloss-omega-plus-lehit-7707240010862.jpg
+
+LEH-062 - Shampoo Ortiga, Limón, Menta
+https://exitocol.vtexassets.com/arquivos/ids/24543828/shampoo-ortiga-limon-menta-lehit-7707240010909.jpg
+
+LEH-063 - Tratamiento Aceite De Aguacate
+https://exitocol.vtexassets.com/arquivos/ids/24543829/tratamiento-aceite-de-aguacate-lehit-7707240010923.jpg
+
+LEH-064 - Shampoo Gusano De Seda
+https://exitocol.vtexassets.com/arquivos/ids/24543830/shampoo-gusano-de-seda-lehit-7707240010947.jpg
+
+LEH-065 - Perfume Para Cabello Violet 120ml
+https://exitocol.vtexassets.com/arquivos/ids/24543831/perfume-para-cabello-violet-lehit-7707240010961.jpg
+
+====================================================================
+Total: 24 productos Lehit nuevos
+Formato de imagen: JPG
+Fuente: Exito Colombia
+
+INSTRUCCIONES PARA DESCARGAR:
+1. Estas son las URLs de los 24 productos adicionales de Lehit (LEH-042 a LEH-065)
+2. Para los productos LEH-001 a LEH-041, necesitarías los HTMLs originales
+3. Las imágenes están en el CDN de Exito (exitocol.vtexassets.com)
+4. Guarda las imágenes con el nombre del SKU para facilitar la identificación

@@ -1,9 +1,5 @@
 <!-- Estilo Cyberpunk: neones, colores vibrantes, efectos de brillo -->
-<div class="min-h-screen py-12 px-2 relative overflow-hidden" style="background-color: rgb(5 7 17 / 41%);">
-    <!-- Efectos de fondo cyberpunk -->
-    <div class="absolute inset-0 bg-cyber-gradient"></div>
-    <div class="absolute top-0 left-1/4 w-96 h-96 bg-cyber-pink rounded-full filter blur-[150px] animate-pulse"></div>
-    <div class="absolute bottom-0 right-1/4 w-96 h-96 bg-cyber-yellow rounded-full filter blur-[150px] animate-pulse" style="animation-delay: 1s;"></div>
+<div class="min-h-screen py-12 px-2 relative overflow-hidden">
     
     <div class="w-full max-w-[1920px] mx-auto relative z-10">
         <div class="flex flex-col md:flex-row gap-10 mb-12">
@@ -19,24 +15,24 @@
                         <div class="flex-1 min-w-0 relative group cyber-glow">
                             <div class="relative">
                                 <h3 class="text-lg font-bold text-cyber-yellow mb-2 text-center drop-shadow-cyber-yellow uppercase">EDICION 00</h3>
-                                <div class="overflow-hidden rounded-xl border-2 border-cyber-yellow shadow-lg shadow-cyber-yellow/30">
-                                    <iframe src="/storage/Revista_00.pdf#view=FitH" class="w-full" style="height: 800px;" frameborder="0" scrolling="no"></iframe>
+                                <div class="relative rounded-xl border-2 border-cyber-yellow shadow-lg shadow-cyber-yellow/30" style="height: 800px; overflow: auto; -webkit-overflow-scrolling: touch;">
+                                    <iframe src="/storage/Revista_00.pdf#view=FitH" class="w-full h-full" frameborder="0" allow="fullscreen"></iframe>
                                 </div>
                             </div>
                         </div>
                         <div class="flex-1 min-w-0 relative group cyber-glow">
                             <div class="relative">
                                 <h3 class="text-lg font-bold text-cyber-pink mb-2 text-center drop-shadow-cyber-pink uppercase">EDICION 01</h3>
-                                <div class="overflow-hidden rounded-xl border-2 border-cyber-pink shadow-lg shadow-cyber-pink/30">
-                                    <iframe src="/storage/Revista_01.pdf#view=FitH" class="w-full" style="height: 800px;" frameborder="0" scrolling="no"></iframe>
+                                <div class="relative rounded-xl border-2 border-cyber-pink shadow-lg shadow-cyber-pink/30" style="height: 800px; overflow: auto; -webkit-overflow-scrolling: touch;">
+                                    <iframe src="/storage/Revista_01.pdf#view=FitH" class="w-full h-full" frameborder="0" allow="fullscreen"></iframe>
                                 </div>
                             </div>
                         </div>
                         <div class="flex-1 min-w-0 relative group cyber-glow">
                             <div class="relative">
                                 <h3 class="text-lg font-bold text-cyber-bright-yellow mb-2 text-center drop-shadow-cyber-bright uppercase">EDICION 02</h3>
-                                <div class="overflow-hidden rounded-xl border-2 border-cyber-bright-yellow shadow-lg shadow-cyber-bright-yellow/30">
-                                    <iframe src="/storage/Revista_02.pdf#view=FitH" class="w-full" style="height: 800px;" frameborder="0" scrolling="no"></iframe>
+                                <div class="relative rounded-xl border-2 border-cyber-bright-yellow shadow-lg shadow-cyber-bright-yellow/30" style="height: 800px; overflow: auto; -webkit-overflow-scrolling: touch;">
+                                    <iframe src="/storage/Revista_02.pdf#view=FitH" class="w-full h-full" frameborder="0" allow="fullscreen"></iframe>
                                 </div>
                             </div>
                         </div>
@@ -56,12 +52,12 @@
                         <div class="grid grid-cols-1 sm:grid-cols-3 gap-6">
                             @foreach($category->products as $product)
                             <div class="relative group cyber-glow">
-                                <div class="relative bg-cyber-dark border-2 border-cyber-yellow rounded-2xl p-4 flex flex-col items-center shadow-xl transform hover:scale-105 hover:rotate-1 transition duration-300">
+                                <div class="relative bg-white/95 border-2 border-cyber-yellow rounded-2xl p-4 flex flex-col items-center shadow-xl transform hover:scale-105 hover:rotate-1 transition duration-300">
                                     <div class="w-20 h-20 rounded-xl mb-2 overflow-hidden border-2 border-cyber-pink shadow-cyber-glow-pink">
                                         <img src="{{ $product->thumbnail?->getUrl('medium') ?? asset('storage/placeholder.jpg') }}" alt="{{ $product->translateAttribute('name') }}" class="w-full h-full object-cover group-hover:scale-110 transition duration-300">
                                     </div>
-                                    <span class="font-bold text-cyber-yellow text-center drop-shadow-cyber-yellow">{{ $product->translateAttribute('name') }}</span>
-                                    <span class="text-cyber-bright-yellow font-bold drop-shadow-cyber-bright">${{ number_format($product->prices->first()->price->value ?? 0, 0, ',', '.') }}</span>
+                                    <span class="font-bold text-cyber-yellow text-center drop-shadow-cyber-yellow text-sm">{{ $product->translateAttribute('name') }}</span>
+                                    <span class="text-cyber-pink font-bold drop-shadow-cyber-pink">${{ number_format($product->prices->first()->price->value ?? 0, 0, ',', '.') }}</span>
                                 </div>
                             </div>
                             @endforeach

@@ -5,10 +5,7 @@
             "description": "Shampoo reparador intensivo con fórmula enriquecida que devuelve la vida al cabello dañado. Repara profundamente las fibras capilares."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-capilar",
-            "reparacion"
-        ],
+        "collections": ["cuidado-capilar", "reparacion"],
         "sku": "LIS-001",
         "price": "35000",
         "image": "placeholder.jpg"
@@ -19,10 +16,7 @@
             "description": "Tratamiento reparador profundo que restaura el cabello maltratado. Fórmula revolucionaria para cabello extremadamente dañado."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-capilar",
-            "reparacion"
-        ],
+        "collections": ["cuidado-capilar", "reparacion"],
         "sku": "LIS-002",
         "price": "42000",
         "image": "placeholder.jpg"
@@ -33,10 +27,7 @@
             "description": "Shampoo reparador con sábila, keratina y colágeno que fortalece y restaura el cabello desde la raíz."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-capilar",
-            "reparacion"
-        ],
+        "collections": ["cuidado-capilar", "reparacion"],
         "sku": "LIS-003",
         "price": "32000",
         "image": "placeholder.jpg"
@@ -47,10 +38,7 @@
             "description": "Tratamiento intensivo que combina sábila, keratina y colágeno para reparar profundamente el cabello maltratado."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-capilar",
-            "reparacion"
-        ],
+        "collections": ["cuidado-capilar", "reparacion"],
         "sku": "LIS-004",
         "price": "38000",
         "image": "placeholder.jpg"
@@ -61,10 +49,7 @@
             "description": "Tratamiento repolarizante que sella la cutícula sin calor. Ideal para cabello sensible al calor."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-capilar",
-            "reparacion"
-        ],
+        "collections": ["cuidado-capilar", "reparacion"],
         "sku": "LIS-005",
         "price": "45000",
         "image": "placeholder.jpg"
@@ -75,10 +60,7 @@
             "description": "Shampoo reparador con keratina y silicona que alisa y repara el cabello dañado."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-capilar",
-            "reparacion"
-        ],
+        "collections": ["cuidado-capilar", "reparacion"],
         "sku": "LIS-006",
         "price": "33000",
         "image": "placeholder.jpg"
@@ -89,10 +71,7 @@
             "description": "Tratamiento intensivo con keratina y silicona para cabello liso y sedoso sin frizz."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-capilar",
-            "reparacion"
-        ],
+        "collections": ["cuidado-capilar", "reparacion"],
         "sku": "LIS-007",
         "price": "39000",
         "image": "placeholder.jpg"
@@ -103,10 +82,7 @@
             "description": "Shampoo reparador con extracto de cacao y keratina que nutre y repara el cabello profundamente."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-capilar",
-            "reparacion"
-        ],
+        "collections": ["cuidado-capilar", "reparacion"],
         "sku": "LIS-008",
         "price": "34000",
         "image": "placeholder.jpg"
@@ -117,10 +93,7 @@
             "description": "Tratamiento con chocolate y keratina que restaura la vitalidad del cabello maltratado."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-capilar",
-            "reparacion"
-        ],
+        "collections": ["cuidado-capilar", "reparacion"],
         "sku": "LIS-009",
         "price": "40000",
         "image": "placeholder.jpg"
@@ -131,10 +104,7 @@
             "description": "Sellador que cierra la cutícula capilar para mantener la hidratación y brillo del cabello."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-capilar",
-            "reparacion"
-        ],
+        "collections": ["cuidado-capilar", "reparacion"],
         "sku": "LIS-010",
         "price": "36000",
         "image": "placeholder.jpg"
@@ -145,10 +115,7 @@
             "description": "Shampoo hidratante con ácido hialurónico que retiene la humedad y proporciona hidratación profunda."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-capilar",
-            "hidratacion"
-        ],
+        "collections": ["cuidado-capilar", "hidratacion"],
         "sku": "LIS-011",
         "price": "37000",
         "image": "placeholder.jpg"
@@ -159,10 +126,7 @@
             "description": "Tratamiento hidratante intensivo con ácido hialurónico para cabello sedoso y manejable."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-capilar",
-            "hidratacion"
-        ],
+        "collections": ["cuidado-capilar", "hidratacion"],
         "sku": "LIS-012",
         "price": "43000",
         "image": "placeholder.jpg"
@@ -173,10 +137,7 @@
             "description": "Shampoo hidratante con jengibre y miel que nutre y suaviza el cabello desde la raíz."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-capilar",
-            "hidratacion"
-        ],
+        "collections": ["cuidado-capilar", "hidratacion"],
         "sku": "LIS-013",
         "price": "31000",
         "image": "placeholder.jpg"
@@ -187,10 +148,7 @@
             "description": "Tratamiento nutritivo con jengibre y miel para cabello hidratado y brillante."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-capilar",
-            "hidratacion"
-        ],
+        "collections": ["cuidado-capilar", "hidratacion"],
         "sku": "LIS-014",
         "price": "37000",
         "image": "placeholder.jpg"
@@ -201,10 +159,7 @@
             "description": "Shampoo con aceite de argán y sábila que hidrata y nutre profundamente el cabello seco."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-capilar",
-            "hidratacion"
-        ],
+        "collections": ["cuidado-capilar", "hidratacion"],
         "sku": "LIS-015",
         "price": "33000",
         "image": "placeholder.jpg"
@@ -215,10 +170,7 @@
             "description": "Tratamiento hidratante con argán y sábila para cabello suave y sedoso."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-capilar",
-            "hidratacion"
-        ],
+        "collections": ["cuidado-capilar", "hidratacion"],
         "sku": "LIS-016",
         "price": "39000",
         "image": "placeholder.jpg"
@@ -229,10 +181,7 @@
             "description": "Shampoo hidratante con coco y açai que nutre y protege el cabello de daños ambientales."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-capilar",
-            "hidratacion"
-        ],
+        "collections": ["cuidado-capilar", "hidratacion"],
         "sku": "LIS-017",
         "price": "32000",
         "image": "placeholder.jpg"
@@ -243,10 +192,7 @@
             "description": "Tratamiento antioxidante con coco y açai para cabello hidratado y protegido."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-capilar",
-            "hidratacion"
-        ],
+        "collections": ["cuidado-capilar", "hidratacion"],
         "sku": "LIS-018",
         "price": "38000",
         "image": "placeholder.jpg"
@@ -257,10 +203,7 @@
             "description": "Shampoo especial para rizos que define, hidrata y controla el frizz."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-capilar",
-            "hidratacion"
-        ],
+        "collections": ["cuidado-capilar", "hidratacion"],
         "sku": "LIS-019",
         "price": "34000",
         "image": "placeholder.jpg"
@@ -271,10 +214,7 @@
             "description": "Tratamiento para rizos que hidrata, define y proporciona movimiento natural."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-capilar",
-            "hidratacion"
-        ],
+        "collections": ["cuidado-capilar", "hidratacion"],
         "sku": "LIS-020",
         "price": "40000",
         "image": "placeholder.jpg"
@@ -285,10 +225,7 @@
             "description": "Shampoo con biotina que fortalece y estimula el crecimiento del cabello."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-capilar",
-            "hidratacion"
-        ],
+        "collections": ["cuidado-capilar", "hidratacion"],
         "sku": "LIS-021",
         "price": "35000",
         "image": "placeholder.jpg"
@@ -299,10 +236,7 @@
             "description": "Tratamiento con biotina que fortalece y previene la caída del cabello."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-capilar",
-            "hidratacion"
-        ],
+        "collections": ["cuidado-capilar", "hidratacion"],
         "sku": "LIS-022",
         "price": "41000",
         "image": "placeholder.jpg"
@@ -313,10 +247,7 @@
             "description": "Shampoo con keratina que hidrata y fortalece el cabello débil."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-capilar",
-            "hidratacion"
-        ],
+        "collections": ["cuidado-capilar", "hidratacion"],
         "sku": "LIS-023",
         "price": "33000",
         "image": "placeholder.jpg"
@@ -327,10 +258,7 @@
             "description": "Tratamiento hidratante con keratina para cabello fuerte y saludable."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-capilar",
-            "hidratacion"
-        ],
+        "collections": ["cuidado-capilar", "hidratacion"],
         "sku": "LIS-024",
         "price": "39000",
         "image": "placeholder.jpg"
@@ -341,10 +269,7 @@
             "description": "Shampoo anti-caída con extracto de ajo y biotina que fortalece las raíces y previene la pérdida de cabello."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-capilar",
-            "anti-caida"
-        ],
+        "collections": ["cuidado-capilar", "anti-caida"],
         "sku": "LIS-025",
         "price": "36000",
         "image": "placeholder.jpg"
@@ -355,10 +280,7 @@
             "description": "Tratamiento intensivo anti-caída con ajo y biotina que estimula el crecimiento capilar."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-capilar",
-            "anti-caida"
-        ],
+        "collections": ["cuidado-capilar", "anti-caida"],
         "sku": "LIS-026",
         "price": "42000",
         "image": "placeholder.jpg"
@@ -369,10 +291,7 @@
             "description": "Shampoo nutritivo con vitaminas y minerales que alimentan el cabello desde la raíz."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-capilar",
-            "anti-caida"
-        ],
+        "collections": ["cuidado-capilar", "anti-caida"],
         "sku": "LIS-027",
         "price": "38000",
         "image": "placeholder.jpg"
@@ -383,10 +302,7 @@
             "description": "Tratamiento nutritivo que aporta vitaminas esenciales para fortalecer el cabello débil."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-capilar",
-            "anti-caida"
-        ],
+        "collections": ["cuidado-capilar", "anti-caida"],
         "sku": "LIS-028",
         "price": "44000",
         "image": "placeholder.jpg"
@@ -397,10 +313,7 @@
             "description": "Shampoo con proteína equina que fortalece y estimula el crecimiento del cabello."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-capilar",
-            "anti-caida"
-        ],
+        "collections": ["cuidado-capilar", "anti-caida"],
         "sku": "LIS-029",
         "price": "35000",
         "image": "placeholder.jpg"
@@ -411,10 +324,7 @@
             "description": "Tratamiento con proteína equina para cabello más fuerte y abundante."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-capilar",
-            "anti-caida"
-        ],
+        "collections": ["cuidado-capilar", "anti-caida"],
         "sku": "LIS-030",
         "price": "41000",
         "image": "placeholder.jpg"
@@ -425,10 +335,7 @@
             "description": "Shampoo con extracto de embrión de pato que previene la caída y estimula el crecimiento."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-capilar",
-            "anti-caida"
-        ],
+        "collections": ["cuidado-capilar", "anti-caida"],
         "sku": "LIS-031",
         "price": "37000",
         "image": "placeholder.jpg"
@@ -439,10 +346,7 @@
             "description": "Tratamiento anti-caída con embrión de pato para cabello más denso y saludable."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-capilar",
-            "anti-caida"
-        ],
+        "collections": ["cuidado-capilar", "anti-caida"],
         "sku": "LIS-032",
         "price": "43000",
         "image": "placeholder.jpg"
@@ -453,10 +357,7 @@
             "description": "Shampoo con colágeno de mano de res que fortalece y nutre el cabello débil."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-capilar",
-            "anti-caida"
-        ],
+        "collections": ["cuidado-capilar", "anti-caida"],
         "sku": "LIS-033",
         "price": "34000",
         "image": "placeholder.jpg"
@@ -467,10 +368,7 @@
             "description": "Tratamiento con colágeno de mano de res para cabello fuerte y resistente."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-capilar",
-            "anti-caida"
-        ],
+        "collections": ["cuidado-capilar", "anti-caida"],
         "sku": "LIS-034",
         "price": "40000",
         "image": "placeholder.jpg"
@@ -481,10 +379,7 @@
             "description": "Shampoo especializado para cabello crespo que define y controla el volumen."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-capilar",
-            "especializados"
-        ],
+        "collections": ["cuidado-capilar", "especializados"],
         "sku": "LIS-035",
         "price": "33000",
         "image": "placeholder.jpg"
@@ -495,10 +390,7 @@
             "description": "Tratamiento para cabello crespo que hidrata y define los rizos naturales."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-capilar",
-            "especializados"
-        ],
+        "collections": ["cuidado-capilar", "especializados"],
         "sku": "LIS-036",
         "price": "39000",
         "image": "placeholder.jpg"
@@ -509,10 +401,7 @@
             "description": "Shampoo con extracto de petróleo que limpia profundamente y controla la grasa."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-capilar",
-            "especializados"
-        ],
+        "collections": ["cuidado-capilar", "especializados"],
         "sku": "LIS-037",
         "price": "31000",
         "image": "placeholder.jpg"
@@ -523,10 +412,7 @@
             "description": "Shampoo anti-caspa que elimina la descamación y alivia la picazón del cuero cabelludo."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-capilar",
-            "especializados"
-        ],
+        "collections": ["cuidado-capilar", "especializados"],
         "sku": "LIS-038",
         "price": "32000",
         "image": "placeholder.jpg"
@@ -537,10 +423,7 @@
             "description": "Tratamiento anti-caspa que previene la descamación y mantiene el cuero cabelludo saludable."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-capilar",
-            "especializados"
-        ],
+        "collections": ["cuidado-capilar", "especializados"],
         "sku": "LIS-039",
         "price": "38000",
         "image": "placeholder.jpg"
@@ -551,10 +434,7 @@
             "description": "Shampoo estimulante que acelera el crecimiento del cabello naturalmente."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-capilar",
-            "especializados"
-        ],
+        "collections": ["cuidado-capilar", "especializados"],
         "sku": "LIS-040",
         "price": "36000",
         "image": "placeholder.jpg"
@@ -565,10 +445,7 @@
             "description": "Tratamiento que estimula el crecimiento capilar y fortalece el cabello nuevo."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-capilar",
-            "especializados"
-        ],
+        "collections": ["cuidado-capilar", "especializados"],
         "sku": "LIS-041",
         "price": "42000",
         "image": "placeholder.jpg"
@@ -579,10 +456,7 @@
             "description": "Loción con minoxidil al 5% para tratamiento de alopecia y crecimiento capilar."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-capilar",
-            "especializados"
-        ],
+        "collections": ["cuidado-capilar", "especializados"],
         "sku": "LIS-042",
         "price": "65000",
         "image": "placeholder.jpg"
@@ -593,10 +467,7 @@
             "description": "Loción capilar con hidroxidil que estimula el crecimiento y fortalece las raíces."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-capilar",
-            "especializados"
-        ],
+        "collections": ["cuidado-capilar", "especializados"],
         "sku": "LIS-043",
         "price": "58000",
         "image": "placeholder.jpg"
@@ -607,10 +478,7 @@
             "description": "Aceite natural de romero que estimula el crecimiento y mejora la circulación del cuero cabelludo."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-capilar",
-            "aceites-capilares"
-        ],
+        "collections": ["cuidado-capilar", "aceites-capilares"],
         "sku": "LIS-044",
         "price": "28000",
         "image": "placeholder.jpg"
@@ -621,10 +489,7 @@
             "description": "Aceite de ricino puro que fortalece el cabello y estimula su crecimiento."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-capilar",
-            "aceites-capilares"
-        ],
+        "collections": ["cuidado-capilar", "aceites-capilares"],
         "sku": "LIS-045",
         "price": "26000",
         "image": "placeholder.jpg"
@@ -635,10 +500,7 @@
             "description": "Aceite nutritivo con almendras y semillas de uva para cabello suave y brillante."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-capilar",
-            "aceites-capilares"
-        ],
+        "collections": ["cuidado-capilar", "aceites-capilares"],
         "sku": "LIS-046",
         "price": "27000",
         "image": "placeholder.jpg"
@@ -649,10 +511,7 @@
             "description": "Aceite con extracto de cebolla y biotina que fortalece y previene la caída."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-capilar",
-            "aceites-capilares"
-        ],
+        "collections": ["cuidado-capilar", "aceites-capilares"],
         "sku": "LIS-047",
         "price": "29000",
         "image": "placeholder.jpg"
@@ -663,10 +522,7 @@
             "description": "Aceite con colágeno de mano de res que nutre y fortalece profundamente."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-capilar",
-            "aceites-capilares"
-        ],
+        "collections": ["cuidado-capilar", "aceites-capilares"],
         "sku": "LIS-048",
         "price": "28000",
         "image": "placeholder.jpg"
@@ -677,10 +533,7 @@
             "description": "Aceite de aguacate puro que hidrata y nutre el cabello seco y maltratado."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-capilar",
-            "aceites-capilares"
-        ],
+        "collections": ["cuidado-capilar", "aceites-capilares"],
         "sku": "LIS-049",
         "price": "25000",
         "image": "placeholder.jpg"
@@ -691,10 +544,7 @@
             "description": "Aceite de coco virgen que hidrata profundamente y protege el cabello."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-capilar",
-            "aceites-capilares"
-        ],
+        "collections": ["cuidado-capilar", "aceites-capilares"],
         "sku": "LIS-050",
         "price": "24000",
         "image": "placeholder.jpg"
@@ -705,9 +555,7 @@
             "description": "Shampoo masculino con embrión de pato que fortalece y previene la caída."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-capilar"
-        ],
+        "collections": ["cuidado-capilar"],
         "sku": "LIS-051",
         "price": "34000",
         "image": "placeholder.jpg"
@@ -718,9 +566,7 @@
             "description": "Shampoo masculino anti-caspa con fórmula especializada para hombres."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-capilar"
-        ],
+        "collections": ["cuidado-capilar"],
         "sku": "LIS-052",
         "price": "32000",
         "image": "placeholder.jpg"
@@ -731,9 +577,7 @@
             "description": "Cera moldeadora con fijación fuerte para estilos masculinos duraderos."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-capilar"
-        ],
+        "collections": ["cuidado-capilar"],
         "sku": "LIS-053",
         "price": "22000",
         "image": "placeholder.jpg"
@@ -744,10 +588,7 @@
             "description": "Finalizador con efecto seda que controla el frizz y aporta brillo instantáneo."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-capilar",
-            "finalizadores"
-        ],
+        "collections": ["cuidado-capilar", "finalizadores"],
         "sku": "LIS-054",
         "price": "30000",
         "image": "placeholder.jpg"
@@ -758,10 +599,7 @@
             "description": "Crema finalizadora para cabello liso que controla el frizz y facilita el peinado."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-capilar",
-            "finalizadores"
-        ],
+        "collections": ["cuidado-capilar", "finalizadores"],
         "sku": "LIS-055",
         "price": "28000",
         "image": "placeholder.jpg"
@@ -772,10 +610,7 @@
             "description": "Shampoo relajante con extracto de cannabis que calma el cuero cabelludo."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-capilar",
-            "relajante"
-        ],
+        "collections": ["cuidado-capilar", "relajante"],
         "sku": "LIS-056",
         "price": "35000",
         "image": "placeholder.jpg"
@@ -786,10 +621,7 @@
             "description": "Tratamiento con cannabis que relaja y suaviza el cabello naturalmente."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-capilar",
-            "relajante"
-        ],
+        "collections": ["cuidado-capilar", "relajante"],
         "sku": "LIS-057",
         "price": "41000",
         "image": "placeholder.jpg"
@@ -800,10 +632,7 @@
             "description": "Shampoo antioxidante con cebolla y biotina que protege y fortalece el cabello."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-capilar",
-            "antioxidante"
-        ],
+        "collections": ["cuidado-capilar", "antioxidante"],
         "sku": "LIS-058",
         "price": "33000",
         "image": "placeholder.jpg"
@@ -814,10 +643,7 @@
             "description": "Tratamiento antioxidante que previene el envejecimiento prematuro del cabello."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-capilar",
-            "antioxidante"
-        ],
+        "collections": ["cuidado-capilar", "antioxidante"],
         "sku": "LIS-059",
         "price": "39000",
         "image": "placeholder.jpg"
@@ -828,9 +654,7 @@
             "description": "Tratamiento alisador progresivo que alisa el cabello de forma gradual y natural."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-capilar"
-        ],
+        "collections": ["cuidado-capilar"],
         "sku": "LIS-060",
         "price": "55000",
         "image": "placeholder.jpg"
@@ -841,10 +665,7 @@
             "description": "Shampoo suave para bebés con fórmula libre de lágrimas e hipoalergénica."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-capilar",
-            "baby-puchini"
-        ],
+        "collections": ["cuidado-capilar", "baby-puchini"],
         "sku": "LIS-061",
         "price": "25000",
         "image": "placeholder.jpg"
@@ -855,10 +676,7 @@
             "description": "Colonia suave para bebé con fragancia delicada y duradera."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-capilar",
-            "baby-puchini"
-        ],
+        "collections": ["cuidado-capilar", "baby-puchini"],
         "sku": "LIS-062",
         "price": "22000",
         "image": "placeholder.jpg"
@@ -869,10 +687,7 @@
             "description": "Ampolleta intensiva que estimula el crecimiento y fortalece el cabello."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-capilar",
-            "ampolletas"
-        ],
+        "collections": ["cuidado-capilar", "ampolletas"],
         "sku": "LIS-063",
         "price": "18000",
         "image": "placeholder.jpg"
@@ -883,10 +698,7 @@
             "description": "Ampolleta concentrada que previene la caída y fortalece las raíces."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-capilar",
-            "ampolletas"
-        ],
+        "collections": ["cuidado-capilar", "ampolletas"],
         "sku": "LIS-064",
         "price": "18000",
         "image": "placeholder.jpg"
@@ -897,10 +709,7 @@
             "description": "Crema corporal hidratante con extracto de avena para piel suave y nutrida."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-corporal",
-            "cremas"
-        ],
+        "collections": ["cuidado-corporal", "cremas"],
         "sku": "LIS-065",
         "price": "32000",
         "image": "placeholder.jpg"
@@ -911,10 +720,7 @@
             "description": "Crema corporal con extracto de cannabis que hidrata y calma la piel."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-corporal",
-            "cremas"
-        ],
+        "collections": ["cuidado-corporal", "cremas"],
         "sku": "LIS-066",
         "price": "35000",
         "image": "placeholder.jpg"
@@ -925,10 +731,7 @@
             "description": "Crema corporal con embrión de pato que nutre profundamente la piel."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-corporal",
-            "cremas"
-        ],
+        "collections": ["cuidado-corporal", "cremas"],
         "sku": "LIS-067",
         "price": "38000",
         "image": "placeholder.jpg"
@@ -939,10 +742,7 @@
             "description": "Crema corporal hidratante de gran tamaño para toda la familia."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-corporal",
-            "cremas"
-        ],
+        "collections": ["cuidado-corporal", "cremas"],
         "sku": "LIS-068",
         "price": "42000",
         "image": "placeholder.jpg"
@@ -953,10 +753,7 @@
             "description": "Crema perfumada con pantenol que hidrata y deja fragancia duradera."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-corporal",
-            "cremas"
-        ],
+        "collections": ["cuidado-corporal", "cremas"],
         "sku": "LIS-069",
         "price": "34000",
         "image": "placeholder.jpg"
@@ -967,10 +764,7 @@
             "description": "Crema refrescante que alivia la sensación de piernas cansadas y pesadas."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-corporal",
-            "cremas"
-        ],
+        "collections": ["cuidado-corporal", "cremas"],
         "sku": "LIS-070",
         "price": "36000",
         "image": "placeholder.jpg"
@@ -981,10 +775,7 @@
             "description": "Crema anti-edad con coenzima Q10 que combate los signos del envejecimiento."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-corporal",
-            "cremas"
-        ],
+        "collections": ["cuidado-corporal", "cremas"],
         "sku": "LIS-071",
         "price": "40000",
         "image": "placeholder.jpg"
@@ -995,10 +786,7 @@
             "description": "Crema iluminadora que proporciona un brillo radiante a la piel."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-corporal",
-            "cremas"
-        ],
+        "collections": ["cuidado-corporal", "cremas"],
         "sku": "LIS-072",
         "price": "37000",
         "image": "placeholder.jpg"
@@ -1009,10 +797,7 @@
             "description": "Crema corporal con fragancia a rosas para hidratación duradera."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-corporal",
-            "cremas"
-        ],
+        "collections": ["cuidado-corporal", "cremas"],
         "sku": "LIS-073",
         "price": "43000",
         "image": "placeholder.jpg"
@@ -1023,10 +808,7 @@
             "description": "Desodorante en roll-on con protección 48 horas y fragancia femenina."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-corporal",
-            "desodorantes"
-        ],
+        "collections": ["cuidado-corporal", "desodorantes"],
         "sku": "LIS-074",
         "price": "15000",
         "image": "placeholder.jpg"
@@ -1037,10 +819,7 @@
             "description": "Desodorante masculino en roll-on con protección duradera."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-corporal",
-            "desodorantes"
-        ],
+        "collections": ["cuidado-corporal", "desodorantes"],
         "sku": "LIS-075",
         "price": "15000",
         "image": "placeholder.jpg"
@@ -1051,10 +830,7 @@
             "description": "Talco perfumado que mantiene la piel seca y fresca todo el día."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-corporal",
-            "talcos"
-        ],
+        "collections": ["cuidado-corporal", "talcos"],
         "sku": "LIS-076",
         "price": "12000",
         "image": "placeholder.jpg"
@@ -1065,10 +841,7 @@
             "description": "Talco suave e hipoalergénico especialmente formulado para bebés."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-corporal",
-            "talcos"
-        ],
+        "collections": ["cuidado-corporal", "talcos"],
         "sku": "LIS-077",
         "price": "14000",
         "image": "placeholder.jpg"
@@ -1079,9 +852,7 @@
             "description": "Tratamiento nutritivo que fortalece las uñas débiles y quebradizas."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-de-unas"
-        ],
+        "collections": ["cuidado-de-unas"],
         "sku": "LIS-078",
         "price": "16000",
         "image": "placeholder.jpg"
@@ -1092,9 +863,7 @@
             "description": "Endurecedor de uñas que proporciona resistencia y dureza."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-de-unas"
-        ],
+        "collections": ["cuidado-de-unas"],
         "sku": "LIS-079",
         "price": "17000",
         "image": "placeholder.jpg"
@@ -1105,9 +874,7 @@
             "description": "Base fortalecedora para uñas con fórmula reparadora intensiva."
         },
         "brand": "Lissia",
-        "collections": [
-            "cuidado-de-unas"
-        ],
+        "collections": ["cuidado-de-unas"],
         "sku": "LIS-080",
         "price": "18000",
         "image": "placeholder.jpg"
@@ -1118,10 +885,7 @@
             "description": "Producto que prepara las canas para una mejor absorción del tinte."
         },
         "brand": "Lissia",
-        "collections": [
-            "color",
-            "tintes"
-        ],
+        "collections": ["color", "tintes"],
         "sku": "LIS-081",
         "price": "14000",
         "image": "placeholder.jpg"
@@ -1132,10 +896,7 @@
             "description": "Tinte permanente en crema color negro natural con cobertura total."
         },
         "brand": "Lissia",
-        "collections": [
-            "color",
-            "tintes"
-        ],
+        "collections": ["color", "tintes"],
         "sku": "LIS-082",
         "price": "19000",
         "image": "placeholder.jpg"
@@ -1146,10 +907,7 @@
             "description": "Tinte permanente color castaño oscuro con brillo intenso."
         },
         "brand": "Lissia",
-        "collections": [
-            "color",
-            "tintes"
-        ],
+        "collections": ["color", "tintes"],
         "sku": "LIS-083",
         "price": "19000",
         "image": "placeholder.jpg"
@@ -1160,10 +918,7 @@
             "description": "Tinte permanente color castaño claro para un look natural."
         },
         "brand": "Lissia",
-        "collections": [
-            "color",
-            "tintes"
-        ],
+        "collections": ["color", "tintes"],
         "sku": "LIS-084",
         "price": "19000",
         "image": "placeholder.jpg"
@@ -1174,10 +929,7 @@
             "description": "Tinte permanente rubio con protección del color."
         },
         "brand": "Lissia",
-        "collections": [
-            "color",
-            "tintes"
-        ],
+        "collections": ["color", "tintes"],
         "sku": "LIS-085",
         "price": "19000",
         "image": "placeholder.jpg"
@@ -1188,10 +940,7 @@
             "description": "Tinte semi-permanente color rojo intenso que dura hasta 20 lavados."
         },
         "brand": "Lissia",
-        "collections": [
-            "color",
-            "tintes"
-        ],
+        "collections": ["color", "tintes"],
         "sku": "LIS-086",
         "price": "22000",
         "image": "placeholder.jpg"
@@ -1202,10 +951,7 @@
             "description": "Tinte semi-permanente violeta vibrante de larga duración."
         },
         "brand": "Lissia",
-        "collections": [
-            "color",
-            "tintes"
-        ],
+        "collections": ["color", "tintes"],
         "sku": "LIS-087",
         "price": "22000",
         "image": "placeholder.jpg"
@@ -1216,10 +962,7 @@
             "description": "Tinte semi-permanente azul fantasía para looks atrevidos."
         },
         "brand": "Lissia",
-        "collections": [
-            "color",
-            "tintes"
-        ],
+        "collections": ["color", "tintes"],
         "sku": "LIS-088",
         "price": "22000",
         "image": "placeholder.jpg"
@@ -1230,10 +973,7 @@
             "description": "Tinte permanente sin amoniaco color negro, suave con el cabello."
         },
         "brand": "Lissia",
-        "collections": [
-            "color",
-            "tintes"
-        ],
+        "collections": ["color", "tintes"],
         "sku": "LIS-089",
         "price": "24000",
         "image": "placeholder.jpg"
@@ -1244,10 +984,7 @@
             "description": "Tinte sin amoniaco color castaño con fórmula nutritiva."
         },
         "brand": "Lissia",
-        "collections": [
-            "color",
-            "tintes"
-        ],
+        "collections": ["color", "tintes"],
         "sku": "LIS-090",
         "price": "24000",
         "image": "placeholder.jpg"
@@ -1258,10 +995,7 @@
             "description": "Tinte en polvo color negro para mezclar con oxidante."
         },
         "brand": "Lissia",
-        "collections": [
-            "color",
-            "tintes"
-        ],
+        "collections": ["color", "tintes"],
         "sku": "LIS-091",
         "price": "16000",
         "image": "placeholder.jpg"
@@ -1272,10 +1006,7 @@
             "description": "Tinte en polvo castaño ideal para profesionales."
         },
         "brand": "Lissia",
-        "collections": [
-            "color",
-            "tintes"
-        ],
+        "collections": ["color", "tintes"],
         "sku": "LIS-092",
         "price": "16000",
         "image": "placeholder.jpg"
@@ -1286,10 +1017,7 @@
             "description": "Tinte rápido color negro, listo en solo 5 minutos."
         },
         "brand": "Lissia",
-        "collections": [
-            "color",
-            "tintes"
-        ],
+        "collections": ["color", "tintes"],
         "sku": "LIS-093",
         "price": "21000",
         "image": "placeholder.jpg"
@@ -1300,10 +1028,7 @@
             "description": "Tinte express castaño con aplicación ultra rápida."
         },
         "brand": "Lissia",
-        "collections": [
-            "color",
-            "tintes"
-        ],
+        "collections": ["color", "tintes"],
         "sku": "LIS-094",
         "price": "21000",
         "image": "placeholder.jpg"
@@ -1314,10 +1039,7 @@
             "description": "Polvo decolorante con pigmento azul anti-amarillo para aclarar hasta 7 tonos."
         },
         "brand": "Lissia",
-        "collections": [
-            "color",
-            "decoloracion"
-        ],
+        "collections": ["color", "decoloracion"],
         "sku": "LIS-095",
         "price": "25000",
         "image": "placeholder.jpg"
@@ -1328,10 +1050,7 @@
             "description": "Polvo decolorante profesional para aclaración intensa."
         },
         "brand": "Lissia",
-        "collections": [
-            "color",
-            "decoloracion"
-        ],
+        "collections": ["color", "decoloracion"],
         "sku": "LIS-096",
         "price": "23000",
         "image": "placeholder.jpg"
@@ -1342,10 +1061,7 @@
             "description": "Shampoo protector del color que prolonga la duración del tinte."
         },
         "brand": "Lissia",
-        "collections": [
-            "color",
-            "cuidado-color"
-        ],
+        "collections": ["color", "cuidado-color"],
         "sku": "LIS-097",
         "price": "32000",
         "image": "placeholder.jpg"
@@ -1356,10 +1072,7 @@
             "description": "Tratamiento que sella el color y aporta brillo intenso."
         },
         "brand": "Lissia",
-        "collections": [
-            "color",
-            "cuidado-color"
-        ],
+        "collections": ["color", "cuidado-color"],
         "sku": "LIS-098",
         "price": "38000",
         "image": "placeholder.jpg"
@@ -1370,10 +1083,7 @@
             "description": "Fijador que sella la cutícula y prolonga la intensidad del color."
         },
         "brand": "Lissia",
-        "collections": [
-            "color",
-            "cuidado-color"
-        ],
+        "collections": ["color", "cuidado-color"],
         "sku": "LIS-099",
         "price": "29000",
         "image": "placeholder.jpg"
@@ -1384,10 +1094,7 @@
             "description": "Shampoo matizador que neutraliza tonos amarillos en cabellos rubios."
         },
         "brand": "Lissia",
-        "collections": [
-            "color",
-            "cuidado-color"
-        ],
+        "collections": ["color", "cuidado-color"],
         "sku": "LIS-100",
         "price": "34000",
         "image": "placeholder.jpg"
@@ -1398,10 +1105,7 @@
             "description": "Shampoo violeta que neutraliza tonos naranjas en cabellos castaños."
         },
         "brand": "Lissia",
-        "collections": [
-            "color",
-            "cuidado-color"
-        ],
+        "collections": ["color", "cuidado-color"],
         "sku": "LIS-101",
         "price": "34000",
         "image": "placeholder.jpg"
@@ -1412,10 +1116,7 @@
             "description": "Tratamiento matizador platino para mantener el rubio perfecto."
         },
         "brand": "Lissia",
-        "collections": [
-            "color",
-            "cuidado-color"
-        ],
+        "collections": ["color", "cuidado-color"],
         "sku": "LIS-102",
         "price": "40000",
         "image": "placeholder.jpg"
@@ -1426,10 +1127,7 @@
             "description": "Tratamiento matizador violeta para cabellos castaños y cobrizos."
         },
         "brand": "Lissia",
-        "collections": [
-            "color",
-            "cuidado-color"
-        ],
+        "collections": ["color", "cuidado-color"],
         "sku": "LIS-103",
         "price": "40000",
         "image": "placeholder.jpg"
@@ -1440,9 +1138,7 @@
             "description": "Kit completo con shampoo, tratamiento y aceite para hidratación profunda."
         },
         "brand": "Lissia",
-        "collections": [
-            "kit"
-        ],
+        "collections": ["kit"],
         "sku": "LIS-104",
         "price": "85000",
         "image": "placeholder.jpg"
@@ -1453,9 +1149,7 @@
             "description": "Kit completo anti-caída con shampoo, tratamiento, loción y ampolletas."
         },
         "brand": "Lissia",
-        "collections": [
-            "kit"
-        ],
+        "collections": ["kit"],
         "sku": "LIS-105",
         "price": "95000",
         "image": "placeholder.jpg"
@@ -1466,9 +1160,7 @@
             "description": "Kit La Bomba con shampoo, tratamiento y aceite reparador."
         },
         "brand": "Lissia",
-        "collections": [
-            "kit"
-        ],
+        "collections": ["kit"],
         "sku": "LIS-106",
         "price": "98000",
         "image": "placeholder.jpg"
@@ -1479,9 +1171,7 @@
             "description": "Kit con tinte, oxidante, ablandador de canas y tratamiento post-color."
         },
         "brand": "Lissia",
-        "collections": [
-            "kit"
-        ],
+        "collections": ["kit"],
         "sku": "LIS-107",
         "price": "55000",
         "image": "placeholder.jpg"
@@ -1492,9 +1182,7 @@
             "description": "Kit completo reactivador capilar con extracto de remolacha que fortalece y revitaliza el cabello desde la raíz."
         },
         "brand": "Pal Pluss",
-        "collections": [
-            "linea-capilar"
-        ],
+        "collections": ["linea-capilar"],
         "sku": "PAL-001",
         "price": "116437",
         "image": "placeholder.jpg"
@@ -1505,9 +1193,7 @@
             "description": "Loción capilar con extracto de embrión de pato y D-Pantenol que estimula el crecimiento y fortalece el cabello."
         },
         "brand": "Pal Pluss",
-        "collections": [
-            "linea-lociones-capilares"
-        ],
+        "collections": ["linea-lociones-capilares"],
         "sku": "PAL-002",
         "price": "49000",
         "image": "placeholder.jpg"
@@ -1518,9 +1204,7 @@
             "description": "Caja con 10 ampollas de loción capilar con embrión de pato y D-Pantenol para tratamiento intensivo."
         },
         "brand": "Pal Pluss",
-        "collections": [
-            "linea-lociones-capilares"
-        ],
+        "collections": ["linea-lociones-capilares"],
         "sku": "PAL-003",
         "price": "159375",
         "image": "placeholder.jpg"
@@ -1531,9 +1215,7 @@
             "description": "Shampoo con extracto natural de remolacha que revitaliza y aporta nutrientes esenciales al cabello."
         },
         "brand": "Pal Pluss",
-        "collections": [
-            "linea-shampoo"
-        ],
+        "collections": ["linea-shampoo"],
         "sku": "PAL-004",
         "price": "26500",
         "image": "placeholder.jpg"
@@ -1544,9 +1226,7 @@
             "description": "Tónico capilar con remolacha que fortalece y revitaliza el cuero cabelludo, estimulando el crecimiento."
         },
         "brand": "Pal Pluss",
-        "collections": [
-            "linea-capilar"
-        ],
+        "collections": ["linea-capilar"],
         "sku": "PAL-005",
         "price": "38500",
         "image": "placeholder.jpg"
@@ -1557,9 +1237,7 @@
             "description": "Tratamiento intensivo con extracto de remolacha que nutre profundamente y revitaliza el cabello dañado."
         },
         "brand": "Pal Pluss",
-        "collections": [
-            "linea-capilar"
-        ],
+        "collections": ["linea-capilar"],
         "sku": "PAL-006",
         "price": "43750",
         "image": "placeholder.jpg"
@@ -1570,9 +1248,7 @@
             "description": "Loción capilar con keratina y proteína de trigo que repara y fortalece la fibra capilar."
         },
         "brand": "Pal Pluss",
-        "collections": [
-            "linea-lociones-capilares"
-        ],
+        "collections": ["linea-lociones-capilares"],
         "sku": "PAL-007",
         "price": "49000",
         "image": "placeholder.jpg"
@@ -1583,9 +1259,7 @@
             "description": "Caja con 10 ampollas de loción capilar con keratina y proteína de trigo para reparación intensiva."
         },
         "brand": "Pal Pluss",
-        "collections": [
-            "linea-lociones-capilares"
-        ],
+        "collections": ["linea-lociones-capilares"],
         "sku": "PAL-008",
         "price": "159375",
         "image": "placeholder.jpg"
@@ -1596,9 +1270,7 @@
             "description": "Loción capilar con extracto de cebolla y vitamina B que previene la caída y estimula el crecimiento."
         },
         "brand": "Pal Pluss",
-        "collections": [
-            "linea-lociones-capilares"
-        ],
+        "collections": ["linea-lociones-capilares"],
         "sku": "PAL-009",
         "price": "49000",
         "image": "placeholder.jpg"
@@ -1609,9 +1281,7 @@
             "description": "Caja con 10 ampollas de loción capilar con cebolla y vitamina B para prevenir la caída del cabello."
         },
         "brand": "Pal Pluss",
-        "collections": [
-            "linea-lociones-capilares"
-        ],
+        "collections": ["linea-lociones-capilares"],
         "sku": "PAL-010",
         "price": "159375",
         "image": "placeholder.jpg"
@@ -1622,9 +1292,7 @@
             "description": "Loción capilar con placenta de cordero y vitamina E que nutre y regenera profundamente el cabello."
         },
         "brand": "Pal Pluss",
-        "collections": [
-            "linea-lociones-capilares"
-        ],
+        "collections": ["linea-lociones-capilares"],
         "sku": "PAL-011",
         "price": "49000",
         "image": "placeholder.jpg"
@@ -1635,9 +1303,7 @@
             "description": "Caja con 10 ampollas de loción capilar con placenta de cordero y vitamina E para regeneración capilar."
         },
         "brand": "Pal Pluss",
-        "collections": [
-            "linea-lociones-capilares"
-        ],
+        "collections": ["linea-lociones-capilares"],
         "sku": "PAL-012",
         "price": "159375",
         "image": "placeholder.jpg"
@@ -1648,9 +1314,7 @@
             "description": "Laca fijadora de fijación normal para peinados naturales con acabado flexible y duradero."
         },
         "brand": "Pal Pluss",
-        "collections": [
-            "linea-fijadores"
-        ],
+        "collections": ["linea-fijadores"],
         "sku": "PAL-013",
         "price": "9375",
         "image": "placeholder.jpg"
@@ -1661,9 +1325,7 @@
             "description": "Laca fijadora de fijación normal en presentación grande para uso profesional o frecuente."
         },
         "brand": "Pal Pluss",
-        "collections": [
-            "linea-fijadores"
-        ],
+        "collections": ["linea-fijadores"],
         "sku": "PAL-014",
         "price": "52250",
         "image": "placeholder.jpg"
@@ -1674,9 +1336,7 @@
             "description": "Shampoo profesional con fragancia a kiwi para limpieza profunda y aroma fresco duradero."
         },
         "brand": "Pal Pluss",
-        "collections": [
-            "linea-profesional"
-        ],
+        "collections": ["linea-profesional"],
         "sku": "PAL-015",
         "price": "28875",
         "image": "placeholder.jpg"
@@ -1687,9 +1347,7 @@
             "description": "Caja con 30 unidades de shampoo profesional con fragancia a kiwi para uso en salones de belleza."
         },
         "brand": "Pal Pluss",
-        "collections": [
-            "linea-profesional"
-        ],
+        "collections": ["linea-profesional"],
         "sku": "PAL-016",
         "price": "243125",
         "image": "placeholder.jpg"
@@ -1700,9 +1358,7 @@
             "description": "Shampoo anticaspa que elimina la descamación y alivia la picazón del cuero cabelludo."
         },
         "brand": "Pal Pluss",
-        "collections": [
-            "linea-shampoo"
-        ],
+        "collections": ["linea-shampoo"],
         "sku": "PAL-017",
         "price": "24500",
         "image": "placeholder.jpg"
@@ -1713,9 +1369,7 @@
             "description": "Shampoo con aloe vera natural que hidrata y suaviza el cabello desde la raíz."
         },
         "brand": "Pal Pluss",
-        "collections": [
-            "linea-shampoo"
-        ],
+        "collections": ["linea-shampoo"],
         "sku": "PAL-018",
         "price": "22500",
         "image": "placeholder.jpg"
@@ -1726,9 +1380,7 @@
             "description": "Shampoo con extracto de manzanilla que aclara y da brillo natural al cabello."
         },
         "brand": "Pal Pluss",
-        "collections": [
-            "linea-shampoo"
-        ],
+        "collections": ["linea-shampoo"],
         "sku": "PAL-019",
         "price": "22500",
         "image": "placeholder.jpg"
@@ -1739,9 +1391,7 @@
             "description": "Shampoo con keratina que repara y fortalece el cabello dañado y maltratado."
         },
         "brand": "Pal Pluss",
-        "collections": [
-            "linea-shampoo"
-        ],
+        "collections": ["linea-shampoo"],
         "sku": "PAL-020",
         "price": "25500",
         "image": "placeholder.jpg"
@@ -1752,9 +1402,7 @@
             "description": "Tratamiento capilar intensivo que restaura profundamente el cabello dañado por químicos."
         },
         "brand": "Pal Pluss",
-        "collections": [
-            "linea-capilar"
-        ],
+        "collections": ["linea-capilar"],
         "sku": "PAL-021",
         "price": "38900",
         "image": "placeholder.jpg"
@@ -1765,9 +1413,7 @@
             "description": "Mascarilla hidratante con aceite de argán que nutre y suaviza el cabello seco."
         },
         "brand": "Pal Pluss",
-        "collections": [
-            "linea-capilar"
-        ],
+        "collections": ["linea-capilar"],
         "sku": "PAL-022",
         "price": "42000",
         "image": "placeholder.jpg"
@@ -1778,9 +1424,7 @@
             "description": "Crema para peinar sin enjuague que controla el frizz y facilita el peinado diario."
         },
         "brand": "Pal Pluss",
-        "collections": [
-            "linea-capilar"
-        ],
+        "collections": ["linea-capilar"],
         "sku": "PAL-023",
         "price": "28500",
         "image": "placeholder.jpg"
@@ -1791,9 +1435,7 @@
             "description": "Serum concentrado que repara las puntas abiertas y sella la cutícula capilar."
         },
         "brand": "Pal Pluss",
-        "collections": [
-            "linea-capilar"
-        ],
+        "collections": ["linea-capilar"],
         "sku": "PAL-024",
         "price": "35000",
         "image": "placeholder.jpg"
@@ -1804,9 +1446,7 @@
             "description": "Tinte permanente color negro natural con cobertura 100% de canas y brillo intenso."
         },
         "brand": "Pal Pluss",
-        "collections": [
-            "linea-colors"
-        ],
+        "collections": ["linea-colors"],
         "sku": "PAL-025",
         "price": "18500",
         "image": "placeholder.jpg"
@@ -1817,9 +1457,7 @@
             "description": "Tinte permanente color castaño oscuro con fórmula enriquecida que protege el cabello."
         },
         "brand": "Pal Pluss",
-        "collections": [
-            "linea-colors"
-        ],
+        "collections": ["linea-colors"],
         "sku": "PAL-026",
         "price": "18500",
         "image": "placeholder.jpg"
@@ -1830,9 +1468,7 @@
             "description": "Tinte permanente color castaño claro para un look natural y luminoso."
         },
         "brand": "Pal Pluss",
-        "collections": [
-            "linea-colors"
-        ],
+        "collections": ["linea-colors"],
         "sku": "PAL-027",
         "price": "18500",
         "image": "placeholder.jpg"
@@ -1843,9 +1479,7 @@
             "description": "Tinte permanente rubio dorado con reflejos cálidos para cabello radiante."
         },
         "brand": "Pal Pluss",
-        "collections": [
-            "linea-colors"
-        ],
+        "collections": ["linea-colors"],
         "sku": "PAL-028",
         "price": "18500",
         "image": "placeholder.jpg"
@@ -1856,9 +1490,7 @@
             "description": "Polvo decolorante profesional que aclara hasta 7 tonos con protección del cabello."
         },
         "brand": "Pal Pluss",
-        "collections": [
-            "linea-colors"
-        ],
+        "collections": ["linea-colors"],
         "sku": "PAL-029",
         "price": "22000",
         "image": "placeholder.jpg"
@@ -1869,9 +1501,7 @@
             "description": "Oxidante de 20 volúmenes para activar tintes y decolorantes con control del aclaramiento."
         },
         "brand": "Pal Pluss",
-        "collections": [
-            "linea-colors"
-        ],
+        "collections": ["linea-colors"],
         "sku": "PAL-030",
         "price": "12500",
         "image": "placeholder.jpg"
@@ -1882,9 +1512,7 @@
             "description": "Oxidante de 30 volúmenes para aclaramiento medio y cobertura de canas."
         },
         "brand": "Pal Pluss",
-        "collections": [
-            "linea-colors"
-        ],
+        "collections": ["linea-colors"],
         "sku": "PAL-031",
         "price": "12500",
         "image": "placeholder.jpg"
@@ -1895,9 +1523,7 @@
             "description": "Crema facial antiarrugas con ingredientes activos que reducen líneas de expresión."
         },
         "brand": "Pal Pluss",
-        "collections": [
-            "linea-facial"
-        ],
+        "collections": ["linea-facial"],
         "sku": "PAL-032",
         "price": "45000",
         "image": "placeholder.jpg"
@@ -1908,9 +1534,7 @@
             "description": "Crema facial hidratante de día con protección solar y antioxidantes."
         },
         "brand": "Pal Pluss",
-        "collections": [
-            "linea-facial"
-        ],
+        "collections": ["linea-facial"],
         "sku": "PAL-033",
         "price": "38500",
         "image": "placeholder.jpg"
@@ -1921,9 +1545,7 @@
             "description": "Crema facial nutritiva de noche que regenera la piel mientras duermes."
         },
         "brand": "Pal Pluss",
-        "collections": [
-            "linea-facial"
-        ],
+        "collections": ["linea-facial"],
         "sku": "PAL-034",
         "price": "42000",
         "image": "placeholder.jpg"
@@ -1934,9 +1556,7 @@
             "description": "Serum facial con vitamina C que ilumina y unifica el tono de la piel."
         },
         "brand": "Pal Pluss",
-        "collections": [
-            "linea-facial"
-        ],
+        "collections": ["linea-facial"],
         "sku": "PAL-035",
         "price": "52000",
         "image": "placeholder.jpg"
@@ -1947,9 +1567,7 @@
             "description": "Contorno de ojos que reduce ojeras, bolsas y líneas de expresión en el área delicada."
         },
         "brand": "Pal Pluss",
-        "collections": [
-            "linea-facial"
-        ],
+        "collections": ["linea-facial"],
         "sku": "PAL-036",
         "price": "39500",
         "image": "placeholder.jpg"
@@ -1960,9 +1578,7 @@
             "description": "Shampoo masculino 2 en 1 que limpia y acondiciona el cabello en un solo paso."
         },
         "brand": "Pal Pluss",
-        "collections": [
-            "linea-hombres"
-        ],
+        "collections": ["linea-hombres"],
         "sku": "PAL-037",
         "price": "26500",
         "image": "placeholder.jpg"
@@ -1973,9 +1589,7 @@
             "description": "Shampoo masculino anti-caída que fortalece las raíces y previene la pérdida de cabello."
         },
         "brand": "Pal Pluss",
-        "collections": [
-            "linea-hombres"
-        ],
+        "collections": ["linea-hombres"],
         "sku": "PAL-038",
         "price": "29500",
         "image": "placeholder.jpg"
@@ -1986,9 +1600,7 @@
             "description": "Gel fijador de extra fuerte fijación para peinados masculinos duraderos sin residuos."
         },
         "brand": "Pal Pluss",
-        "collections": [
-            "linea-hombres"
-        ],
+        "collections": ["linea-hombres"],
         "sku": "PAL-039",
         "price": "15500",
         "image": "placeholder.jpg"
@@ -1999,9 +1611,7 @@
             "description": "Cera moldeadora con acabado mate para estilos masculinos con control y textura."
         },
         "brand": "Pal Pluss",
-        "collections": [
-            "linea-hombres"
-        ],
+        "collections": ["linea-hombres"],
         "sku": "PAL-040",
         "price": "18900",
         "image": "placeholder.jpg"
@@ -2012,9 +1622,7 @@
             "description": "Loción after shave que calma y refresca la piel después del afeitado."
         },
         "brand": "Pal Pluss",
-        "collections": [
-            "linea-hombres"
-        ],
+        "collections": ["linea-hombres"],
         "sku": "PAL-041",
         "price": "22500",
         "image": "placeholder.jpg"
@@ -2025,9 +1633,7 @@
             "description": "Gel antibacterial con 70% de alcohol que elimina 99.9% de gérmenes y bacterias."
         },
         "brand": "Pal Pluss",
-        "collections": [
-            "linea-antibacterial"
-        ],
+        "collections": ["linea-antibacterial"],
         "sku": "PAL-042",
         "price": "12500",
         "image": "placeholder.jpg"
@@ -2038,9 +1644,7 @@
             "description": "Spray desinfectante que elimina virus y bacterias en superficies del hogar y oficina."
         },
         "brand": "Pal Pluss",
-        "collections": [
-            "linea-antibacterial"
-        ],
+        "collections": ["linea-antibacterial"],
         "sku": "PAL-045",
         "price": "16500",
         "image": "placeholder.jpg"
@@ -2051,9 +1655,7 @@
             "description": "Toallas húmedas antibacteriales en paquete de 50 unidades para limpieza y desinfección."
         },
         "brand": "Pal Pluss",
-        "collections": [
-            "linea-antibacterial"
-        ],
+        "collections": ["linea-antibacterial"],
         "sku": "PAL-046",
         "price": "14500",
         "image": "placeholder.jpg"
@@ -2064,10 +1666,7 @@
             "description": "Acondicionador dream liso sellador que controla el frizz y sella la cutícula para un cabello liso y brillante."
         },
         "brand": "L'Oreal Elvive",
-        "collections": [
-            "cuidado-capilar",
-            "elvive"
-        ],
+        "collections": ["cuidado-capilar", "elvive"],
         "sku": "ELV-001",
         "price": "25740",
         "image": "placeholder.jpg"
@@ -2078,11 +1677,7 @@
             "description": "Acondicionador hidra purificante que limpia profundamente y proporciona hidratación sin apelmazar."
         },
         "brand": "L'Oreal Elvive",
-        "collections": [
-            "cuidado-capilar",
-            "elvive",
-            "hidratacion"
-        ],
+        "collections": ["cuidado-capilar", "elvive", "hidratacion"],
         "sku": "ELV-002",
         "price": "26235",
         "image": "placeholder.jpg"
@@ -2093,11 +1688,7 @@
             "description": "Acondicionador con ácido hialurónico que rellena y revitaliza el cabello para mayor volumen y brillo."
         },
         "brand": "L'Oreal Elvive",
-        "collections": [
-            "cuidado-capilar",
-            "elvive",
-            "hidratacion"
-        ],
+        "collections": ["cuidado-capilar", "elvive", "hidratacion"],
         "sku": "ELV-003",
         "price": "25875",
         "image": "placeholder.jpg"
@@ -2108,10 +1699,7 @@
             "description": "Acondicionador glycolic gloss con tecnología selladora que proporciona brillo intenso y duradero."
         },
         "brand": "L'Oreal Elvive",
-        "collections": [
-            "cuidado-capilar",
-            "elvive"
-        ],
+        "collections": ["cuidado-capilar", "elvive"],
         "sku": "ELV-004",
         "price": "24570",
         "image": "placeholder.jpg"
@@ -2122,11 +1710,7 @@
             "description": "Acondicionador reparación total 5 que repara cabello dañado en 5 dimensiones: puntas, densidad, superficie, suavidad y brillo."
         },
         "brand": "L'Oreal Elvive",
-        "collections": [
-            "cuidado-capilar",
-            "elvive",
-            "reparacion"
-        ],
+        "collections": ["cuidado-capilar", "elvive", "reparacion"],
         "sku": "ELV-005",
         "price": "23760",
         "image": "placeholder.jpg"
@@ -2137,10 +1721,7 @@
             "description": "Acondicionador dream liso sellador en presentación grande para uso frecuente o familiar."
         },
         "brand": "L'Oreal Elvive",
-        "collections": [
-            "cuidado-capilar",
-            "elvive"
-        ],
+        "collections": ["cuidado-capilar", "elvive"],
         "sku": "ELV-006",
         "price": "39060",
         "image": "placeholder.jpg"
@@ -2151,11 +1732,7 @@
             "description": "Acondicionador anti quiebre con aminexil que fortalece el cabello débil y previene la rotura."
         },
         "brand": "L'Oreal Elvive",
-        "collections": [
-            "cuidado-capilar",
-            "elvive",
-            "anti-caida"
-        ],
+        "collections": ["cuidado-capilar", "elvive", "anti-caida"],
         "sku": "ELV-007",
         "price": "25740",
         "image": "placeholder.jpg"
@@ -2166,11 +1743,7 @@
             "description": "Acondicionador color vive con filtro UV que protege y prolonga el color del cabello teñido."
         },
         "brand": "L'Oreal Elvive",
-        "collections": [
-            "cuidado-capilar",
-            "elvive",
-            "cuidado-color"
-        ],
+        "collections": ["cuidado-capilar", "elvive", "cuidado-color"],
         "sku": "ELV-008",
         "price": "25200",
         "image": "placeholder.jpg"
@@ -2181,10 +1754,7 @@
             "description": "Acondicionador con ácido glicólico que elimina residuos y proporciona brillo cristalino al cabello."
         },
         "brand": "L'Oreal Elvive",
-        "collections": [
-            "cuidado-capilar",
-            "elvive"
-        ],
+        "collections": ["cuidado-capilar", "elvive"],
         "sku": "ELV-009",
         "price": "25695",
         "image": "placeholder.jpg"
@@ -2195,10 +1765,7 @@
             "description": "Acondicionador glycolic gloss en presentación grande que potencia el brillo natural del cabello."
         },
         "brand": "L'Oreal Elvive",
-        "collections": [
-            "cuidado-capilar",
-            "elvive"
-        ],
+        "collections": ["cuidado-capilar", "elvive"],
         "sku": "ELV-010",
         "price": "40095",
         "image": "placeholder.jpg"
@@ -2209,10 +1776,7 @@
             "description": "Acondicionador glycolic en formato familiar que limpia y purifica para un brillo cristalino duradero."
         },
         "brand": "L'Oreal Elvive",
-        "collections": [
-            "cuidado-capilar",
-            "elvive"
-        ],
+        "collections": ["cuidado-capilar", "elvive"],
         "sku": "ELV-011",
         "price": "40185",
         "image": "placeholder.jpg"
@@ -2223,10 +1787,7 @@
             "description": "Shampoo dream liso sellador que alisa y controla el frizz desde el primer lavado."
         },
         "brand": "L'Oreal Elvive",
-        "collections": [
-            "cuidado-capilar",
-            "elvive"
-        ],
+        "collections": ["cuidado-capilar", "elvive"],
         "sku": "ELV-012",
         "price": "25740",
         "image": "placeholder.jpg"
@@ -2237,11 +1798,7 @@
             "description": "Shampoo hidra purificante que elimina impurezas sin resecar el cabello."
         },
         "brand": "L'Oreal Elvive",
-        "collections": [
-            "cuidado-capilar",
-            "elvive",
-            "hidratacion"
-        ],
+        "collections": ["cuidado-capilar", "elvive", "hidratacion"],
         "sku": "ELV-013",
         "price": "26235",
         "image": "placeholder.jpg"
@@ -2252,11 +1809,7 @@
             "description": "Shampoo con ácido hialurónico que rellena la fibra capilar y aporta volumen desde la raíz."
         },
         "brand": "L'Oreal Elvive",
-        "collections": [
-            "cuidado-capilar",
-            "elvive",
-            "hidratacion"
-        ],
+        "collections": ["cuidado-capilar", "elvive", "hidratacion"],
         "sku": "ELV-014",
         "price": "25875",
         "image": "placeholder.jpg"
@@ -2267,11 +1820,7 @@
             "description": "Shampoo reparación total 5 que repara y fortalece el cabello dañado."
         },
         "brand": "L'Oreal Elvive",
-        "collections": [
-            "cuidado-capilar",
-            "elvive",
-            "reparacion"
-        ],
+        "collections": ["cuidado-capilar", "elvive", "reparacion"],
         "sku": "ELV-015",
         "price": "23760",
         "image": "placeholder.jpg"
@@ -2282,11 +1831,7 @@
             "description": "Shampoo anti quiebre que refuerza el cabello débil y previene la caída por rotura."
         },
         "brand": "L'Oreal Elvive",
-        "collections": [
-            "cuidado-capilar",
-            "elvive",
-            "anti-caida"
-        ],
+        "collections": ["cuidado-capilar", "elvive", "anti-caida"],
         "sku": "ELV-016",
         "price": "25740",
         "image": "placeholder.jpg"
@@ -2297,11 +1842,7 @@
             "description": "Shampoo color vive que protege el color y previene la decoloración por rayos UV."
         },
         "brand": "L'Oreal Elvive",
-        "collections": [
-            "cuidado-capilar",
-            "elvive",
-            "cuidado-color"
-        ],
+        "collections": ["cuidado-capilar", "elvive", "cuidado-color"],
         "sku": "ELV-017",
         "price": "25200",
         "image": "placeholder.jpg"
@@ -2312,10 +1853,7 @@
             "description": "Shampoo con ácido glicólico que purifica y proporciona brillo transparente al cabello."
         },
         "brand": "L'Oreal Elvive",
-        "collections": [
-            "cuidado-capilar",
-            "elvive"
-        ],
+        "collections": ["cuidado-capilar", "elvive"],
         "sku": "ELV-018",
         "price": "25695",
         "image": "placeholder.jpg"
@@ -2326,11 +1864,7 @@
             "description": "Shampoo de la línea profesional Serie Expert que repara intensamente el cabello dañado. Fórmula con tecnología profesional para salones."
         },
         "brand": "L'Oreal Serie Expert",
-        "collections": [
-            "cuidado-capilar",
-            "serie-expert",
-            "reparacion"
-        ],
+        "collections": ["cuidado-capilar", "serie-expert", "reparacion"],
         "sku": "LSE-001",
         "price": "83000",
         "image": "placeholder.jpg"
@@ -2341,11 +1875,7 @@
             "description": "Acondicionador profesional Absolut Repair que sella y repara las fibras capilares dañadas. Textura sedosa instantánea."
         },
         "brand": "L'Oreal Serie Expert",
-        "collections": [
-            "cuidado-capilar",
-            "serie-expert",
-            "reparacion"
-        ],
+        "collections": ["cuidado-capilar", "serie-expert", "reparacion"],
         "sku": "LSE-002",
         "price": "85975",
         "image": "placeholder.jpg"
@@ -2356,11 +1886,7 @@
             "description": "Shampoo tamaño profesional con tecnología Lipidium que reconstruye la fibra capilar desde el interior. Ideal para salones."
         },
         "brand": "L'Oreal Serie Expert",
-        "collections": [
-            "cuidado-capilar",
-            "serie-expert",
-            "reparacion"
-        ],
+        "collections": ["cuidado-capilar", "serie-expert", "reparacion"],
         "sku": "LSE-003",
         "price": "270000",
         "image": "placeholder.jpg"
@@ -2371,11 +1897,7 @@
             "description": "Shampoo profesional para cabello teñido. Protege el color y previene la decoloración. Tamaño salón 1500ml."
         },
         "brand": "L'Oreal Serie Expert",
-        "collections": [
-            "cuidado-capilar",
-            "serie-expert",
-            "cuidado-color"
-        ],
+        "collections": ["cuidado-capilar", "serie-expert", "cuidado-color"],
         "sku": "LSE-004",
         "price": "270000",
         "image": "placeholder.jpg"
@@ -2386,11 +1908,7 @@
             "description": "Shampoo reparador intensivo en formato profesional 1500ml. Tecnología avanzada para cabello extremadamente dañado."
         },
         "brand": "L'Oreal Serie Expert",
-        "collections": [
-            "cuidado-capilar",
-            "serie-expert",
-            "reparacion"
-        ],
+        "collections": ["cuidado-capilar", "serie-expert", "reparacion"],
         "sku": "LSE-005",
         "price": "226900",
         "image": "placeholder.jpg"
@@ -2401,11 +1919,7 @@
             "description": "Shampoo profesional para cabellos blancos y canosos. Neutraliza tonos amarillos y realza el plateado. Formato salón."
         },
         "brand": "L'Oreal Serie Expert",
-        "collections": [
-            "cuidado-capilar",
-            "serie-expert",
-            "especializados"
-        ],
+        "collections": ["cuidado-capilar", "serie-expert", "especializados"],
         "sku": "LSE-006",
         "price": "190950",
         "image": "placeholder.jpg"
@@ -2416,11 +1930,7 @@
             "description": "Shampoo protector de color con filtro UV. Prolonga la intensidad del color y previene la decoloración."
         },
         "brand": "L'Oreal Serie Expert",
-        "collections": [
-            "cuidado-capilar",
-            "serie-expert",
-            "cuidado-color"
-        ],
+        "collections": ["cuidado-capilar", "serie-expert", "cuidado-color"],
         "sku": "LSE-007",
         "price": "95900",
         "image": "placeholder.jpg"
@@ -2431,11 +1941,7 @@
             "description": "Shampoo protector de color en presentación profesional. Fórmula con tecnología Resveratrol que sella el color."
         },
         "brand": "L'Oreal Serie Expert",
-        "collections": [
-            "cuidado-capilar",
-            "serie-expert",
-            "cuidado-color"
-        ],
+        "collections": ["cuidado-capilar", "serie-expert", "cuidado-color"],
         "sku": "LSE-008",
         "price": "226900",
         "image": "placeholder.jpg"
@@ -2446,11 +1952,7 @@
             "description": "Shampoo profesional con complejo Lipidium para reparación profunda. Restaura la masa capilar perdida."
         },
         "brand": "L'Oreal Serie Expert",
-        "collections": [
-            "cuidado-capilar",
-            "serie-expert",
-            "reparacion"
-        ],
+        "collections": ["cuidado-capilar", "serie-expert", "reparacion"],
         "sku": "LSE-009",
         "price": "143000",
         "image": "placeholder.jpg"
@@ -2461,11 +1963,7 @@
             "description": "Shampoo iluminador para cabellos rubios. Aporta brillo y neutraliza tonos indeseados. Fórmula con ácido poliacético."
         },
         "brand": "L'Oreal Serie Expert",
-        "collections": [
-            "cuidado-capilar",
-            "serie-expert",
-            "especializados"
-        ],
+        "collections": ["cuidado-capilar", "serie-expert", "especializados"],
         "sku": "LSE-010",
         "price": "110000",
         "image": "placeholder.jpg"
@@ -2476,11 +1974,7 @@
             "description": "Acondicionador protector de color que sella las cutículas y prolonga la intensidad del tinte hasta por 8 semanas."
         },
         "brand": "L'Oreal Serie Expert",
-        "collections": [
-            "cuidado-capilar",
-            "serie-expert",
-            "cuidado-color"
-        ],
+        "collections": ["cuidado-capilar", "serie-expert", "cuidado-color"],
         "sku": "LSE-011",
         "price": "104500",
         "image": "placeholder.jpg"
@@ -2491,11 +1985,7 @@
             "description": "Shampoo matizador para cabellos blancos, grises y decolorados. Sistema anti-amarillo con pigmentos violetas."
         },
         "brand": "L'Oreal Serie Expert",
-        "collections": [
-            "cuidado-capilar",
-            "serie-expert",
-            "especializados"
-        ],
+        "collections": ["cuidado-capilar", "serie-expert", "especializados"],
         "sku": "LSE-012",
         "price": "95900",
         "image": "placeholder.jpg"
@@ -2506,12 +1996,7 @@
             "description": "Kit con 2 unidades de shampoo con herbolaria milenaria y jalea real. Fórmula natural que fortalece y previene la caída del cabello."
         },
         "brand": "Tio Nacho",
-        "collections": [
-            "cuidado-capilar",
-            "tio-nacho",
-            "anti-caida",
-            "kit"
-        ],
+        "collections": ["cuidado-capilar", "tio-nacho", "anti-caida", "kit"],
         "sku": "TN-001",
         "price": "61900",
         "image": "placeholder.jpg"
@@ -2522,11 +2007,7 @@
             "description": "Kit con 2 unidades de shampoo engrosador con jalea real. Aumenta el volumen y grosor del cabello débil y fino."
         },
         "brand": "Tio Nacho",
-        "collections": [
-            "cuidado-capilar",
-            "tio-nacho",
-            "kit"
-        ],
+        "collections": ["cuidado-capilar", "tio-nacho", "kit"],
         "sku": "TN-002",
         "price": "60700",
         "image": "placeholder.jpg"
@@ -2537,11 +2018,7 @@
             "description": "Set de shampoo y acondicionador anticanas con henna egipcia. Reduce la apariencia de canas y fortalece el cabello."
         },
         "brand": "Tio Nacho",
-        "collections": [
-            "cuidado-capilar",
-            "tio-nacho",
-            "especializados"
-        ],
+        "collections": ["cuidado-capilar", "tio-nacho", "especializados"],
         "sku": "TN-003",
         "price": "53000",
         "image": "placeholder.jpg"
@@ -2552,11 +2029,7 @@
             "description": "Shampoo antiedad con jalea real que nutre y revitaliza el cabello maduro. Fórmula anti-caida con ingredientes naturales."
         },
         "brand": "Tio Nacho",
-        "collections": [
-            "cuidado-capilar",
-            "tio-nacho",
-            "anti-caida"
-        ],
+        "collections": ["cuidado-capilar", "tio-nacho", "anti-caida"],
         "sku": "TN-004",
         "price": "50700",
         "image": "placeholder.jpg"
@@ -2567,10 +2040,7 @@
             "description": "Shampoo engrosador que aporta cuerpo y volumen al cabello fino. Fórmula con extractos naturales que fortalecen la fibra capilar."
         },
         "brand": "Tio Nacho",
-        "collections": [
-            "cuidado-capilar",
-            "tio-nacho"
-        ],
+        "collections": ["cuidado-capilar", "tio-nacho"],
         "sku": "TN-005",
         "price": "49650",
         "image": "placeholder.jpg"
@@ -2581,11 +2051,7 @@
             "description": "Shampoo aclarante con manzanilla y jalea real. Ilumina naturalmente el cabello y previene la caída."
         },
         "brand": "Tio Nacho",
-        "collections": [
-            "cuidado-capilar",
-            "tio-nacho",
-            "anti-caida"
-        ],
+        "collections": ["cuidado-capilar", "tio-nacho", "anti-caida"],
         "sku": "TN-006",
         "price": "49650",
         "image": "placeholder.jpg"
@@ -2596,11 +2062,7 @@
             "description": "Shampoo con herbolaria milenaria y jalea real. Combina sabiduría ancestral con ingredientes naturales para fortalecer el cabello."
         },
         "brand": "Tio Nacho",
-        "collections": [
-            "cuidado-capilar",
-            "tio-nacho",
-            "anti-caida"
-        ],
+        "collections": ["cuidado-capilar", "tio-nacho", "anti-caida"],
         "sku": "TN-007",
         "price": "49400",
         "image": "placeholder.jpg"
@@ -2611,12 +2073,7 @@
             "description": "Shampoo anticaída con control de caspa y jalea real. Doble acción: fortalece raíces y elimina la caspa."
         },
         "brand": "Tio Nacho",
-        "collections": [
-            "cuidado-capilar",
-            "tio-nacho",
-            "anti-caida",
-            "especializados"
-        ],
+        "collections": ["cuidado-capilar", "tio-nacho", "anti-caida", "especializados"],
         "sku": "TN-008",
         "price": "46750",
         "image": "placeholder.jpg"
@@ -2627,11 +2084,7 @@
             "description": "Shampoo con henna egipcia que reduce la apariencia de canas gradualmente. Fórmula natural sin químicos agresivos."
         },
         "brand": "Tio Nacho",
-        "collections": [
-            "cuidado-capilar",
-            "tio-nacho",
-            "especializados"
-        ],
+        "collections": ["cuidado-capilar", "tio-nacho", "especializados"],
         "sku": "TN-009",
         "price": "45150",
         "image": "placeholder.jpg"
@@ -2642,11 +2095,7 @@
             "description": "Pack especial shampoo anticaida con herbolaria milenaria. Fórmula concentrada para detener la caída excesiva."
         },
         "brand": "Tio Nacho",
-        "collections": [
-            "cuidado-capilar",
-            "tio-nacho",
-            "anti-caida"
-        ],
+        "collections": ["cuidado-capilar", "tio-nacho", "anti-caida"],
         "sku": "TN-010",
         "price": "40550",
         "image": "placeholder.jpg"
@@ -2657,10 +2106,7 @@
             "description": "Shampoo engrosador en presentación de 1 litro. Ideal para uso frecuente, aporta grosor y fortaleza al cabello."
         },
         "brand": "Tio Nacho",
-        "collections": [
-            "cuidado-capilar",
-            "tio-nacho"
-        ],
+        "collections": ["cuidado-capilar", "tio-nacho"],
         "sku": "TN-011",
         "price": "39450",
         "image": "placeholder.jpg"
@@ -2671,11 +2117,7 @@
             "description": "Shampoo con keratina vegetal para reparación profunda del cabello dañado. Restaura y fortalece sin ingredientes de origen animal."
         },
         "brand": "Tio Nacho",
-        "collections": [
-            "cuidado-capilar",
-            "tio-nacho",
-            "reparacion"
-        ],
+        "collections": ["cuidado-capilar", "tio-nacho", "reparacion"],
         "sku": "TN-012",
         "price": "39450",
         "image": "placeholder.jpg"
@@ -2686,11 +2128,7 @@
             "description": "Acondicionador con henna egipcia que complementa el tratamiento anticanas. Suaviza y reduce la apariencia de canas."
         },
         "brand": "Tio Nacho",
-        "collections": [
-            "cuidado-capilar",
-            "tio-nacho",
-            "especializados"
-        ],
+        "collections": ["cuidado-capilar", "tio-nacho", "especializados"],
         "sku": "TN-013",
         "price": "38100",
         "image": "placeholder.jpg"
@@ -2701,11 +2139,7 @@
             "description": "Acondicionador aclarante con manzanilla que ilumina naturalmente. Fórmula anticaída que fortalece mientras aclara."
         },
         "brand": "Tio Nacho",
-        "collections": [
-            "cuidado-capilar",
-            "tio-nacho",
-            "anti-caida"
-        ],
+        "collections": ["cuidado-capilar", "tio-nacho", "anti-caida"],
         "sku": "TN-014",
         "price": "37700",
         "image": "placeholder.jpg"
@@ -2716,11 +2150,7 @@
             "description": "Acondicionador anticaída con células madre vegetales. Tecnología avanzada que regenera y fortalece las raíces."
         },
         "brand": "Tio Nacho",
-        "collections": [
-            "cuidado-capilar",
-            "tio-nacho",
-            "anti-caida"
-        ],
+        "collections": ["cuidado-capilar", "tio-nacho", "anti-caida"],
         "sku": "TN-015",
         "price": "37700",
         "image": "placeholder.jpg"
@@ -2731,11 +2161,7 @@
             "description": "Shampoo anticanas con henna egipcia en presentación personal. Ideal para probar el tratamiento natural anticanas."
         },
         "brand": "Tio Nacho",
-        "collections": [
-            "cuidado-capilar",
-            "tio-nacho",
-            "especializados"
-        ],
+        "collections": ["cuidado-capilar", "tio-nacho", "especializados"],
         "sku": "TN-016",
         "price": "37200",
         "image": "placeholder.jpg"
@@ -2746,11 +2172,7 @@
             "description": "Shampoo engrosador anticaída con herbolaria milenaria en presentación personal. Fortalece el cabello desde la raíz."
         },
         "brand": "Tio Nacho",
-        "collections": [
-            "cuidado-capilar",
-            "tio-nacho",
-            "anti-caida"
-        ],
+        "collections": ["cuidado-capilar", "tio-nacho", "anti-caida"],
         "sku": "TN-017",
         "price": "36600",
         "image": "placeholder.jpg"
@@ -2761,11 +2183,7 @@
             "description": "Shampoo anticaída con células madre naturales en presentación personal. Regenera y protege el cuero cabelludo."
         },
         "brand": "Tio Nacho",
-        "collections": [
-            "cuidado-capilar",
-            "tio-nacho",
-            "anti-caida"
-        ],
+        "collections": ["cuidado-capilar", "tio-nacho", "anti-caida"],
         "sku": "TN-018",
         "price": "36600",
         "image": "placeholder.jpg"
@@ -2776,11 +2194,7 @@
             "description": "Acondicionador engrosador anticaída con extractos naturales. Complemento perfecto para dar volumen y fuerza al cabello."
         },
         "brand": "Tio Nacho",
-        "collections": [
-            "cuidado-capilar",
-            "tio-nacho",
-            "anti-caida"
-        ],
+        "collections": ["cuidado-capilar", "tio-nacho", "anti-caida"],
         "sku": "TN-019",
         "price": "36600",
         "image": "placeholder.jpg"
@@ -2791,11 +2205,7 @@
             "description": "Shampoo anticaída con jalea real en presentación personal. Nutre profundamente y previene la caída del cabello."
         },
         "brand": "Tio Nacho",
-        "collections": [
-            "cuidado-capilar",
-            "tio-nacho",
-            "anti-caida"
-        ],
+        "collections": ["cuidado-capilar", "tio-nacho", "anti-caida"],
         "sku": "TN-020",
         "price": "36600",
         "image": "placeholder.jpg"
@@ -2806,11 +2216,7 @@
             "description": "Shampoo anticaspa con jalea real que elimina la caspa y nutre el cuero cabelludo. Presentación personal."
         },
         "brand": "Tio Nacho",
-        "collections": [
-            "cuidado-capilar",
-            "tio-nacho",
-            "especializados"
-        ],
+        "collections": ["cuidado-capilar", "tio-nacho", "especializados"],
         "sku": "TN-021",
         "price": "36050",
         "image": "placeholder.jpg"
@@ -2821,11 +2227,7 @@
             "description": "Acondicionador con keratina vegetal para reparación profunda. Restaura la fibra capilar dañada."
         },
         "brand": "Tio Nacho",
-        "collections": [
-            "cuidado-capilar",
-            "tio-nacho",
-            "reparacion"
-        ],
+        "collections": ["cuidado-capilar", "tio-nacho", "reparacion"],
         "sku": "TN-022",
         "price": "29900",
         "image": "placeholder.jpg"
@@ -2836,12 +2238,7 @@
             "description": "Shampoo con keratina vegetal para reparación profunda anticaída. Fortalece el cabello débil y quebradizo."
         },
         "brand": "Tio Nacho",
-        "collections": [
-            "cuidado-capilar",
-            "tio-nacho",
-            "reparacion",
-            "anti-caida"
-        ],
+        "collections": ["cuidado-capilar", "tio-nacho", "reparacion", "anti-caida"],
         "sku": "TN-023",
         "price": "29850",
         "image": "placeholder.jpg"
@@ -2852,11 +2249,7 @@
             "description": "Shampoo hidratante con aceite de coco sin sal. Ideal para cabello tratado químicamente. Limpia suavemente sin resecar."
         },
         "brand": "Naissant",
-        "collections": [
-            "cuidado-capilar",
-            "naissant",
-            "hidratacion"
-        ],
+        "collections": ["cuidado-capilar", "naissant", "hidratacion"],
         "sku": "NAS-001",
         "price": "19900",
         "image": "placeholder.jpg"
@@ -2867,13 +2260,7 @@
             "description": "Kit completo con shampoo y mascarilla matizante tono chocolate. Neutraliza tonos no deseados y aporta brillo intenso."
         },
         "brand": "Naissant",
-        "collections": [
-            "cuidado-capilar",
-            "naissant",
-            "matizantes",
-            "cuidado-color",
-            "kit"
-        ],
+        "collections": ["cuidado-capilar", "naissant", "matizantes", "cuidado-color", "kit"],
         "sku": "NAS-002",
         "price": "84000",
         "image": "placeholder.jpg"
@@ -2884,12 +2271,7 @@
             "description": "Elixir de 7 aceites con argán para nutrición profunda. Protege del calor y aporta brillo natural sin engrasar."
         },
         "brand": "Naissant",
-        "collections": [
-            "cuidado-capilar",
-            "naissant",
-            "aceites-capilares",
-            "finalizadores"
-        ],
+        "collections": ["cuidado-capilar", "naissant", "aceites-capilares", "finalizadores"],
         "sku": "NAS-003",
         "price": "41900",
         "image": "placeholder.jpg"
@@ -2900,12 +2282,7 @@
             "description": "Mascarilla matizante tono chocolate para cabellos castaños. Neutraliza reflejos anaranjados y realza tonos cálidos."
         },
         "brand": "Naissant",
-        "collections": [
-            "cuidado-capilar",
-            "naissant",
-            "matizantes",
-            "cuidado-color"
-        ],
+        "collections": ["cuidado-capilar", "naissant", "matizantes", "cuidado-color"],
         "sku": "NAS-004",
         "price": "32900",
         "image": "placeholder.jpg"
@@ -2916,11 +2293,7 @@
             "description": "Shampoo protector de color con tecnología avanzada. Prolonga la duración del tinte y mantiene la intensidad del color."
         },
         "brand": "Naissant",
-        "collections": [
-            "cuidado-capilar",
-            "naissant",
-            "cuidado-color"
-        ],
+        "collections": ["cuidado-capilar", "naissant", "cuidado-color"],
         "sku": "NAS-005",
         "price": "18900",
         "image": "placeholder.jpg"
@@ -2931,12 +2304,7 @@
             "description": "Mascarilla matizante tono rojo fuego. Intensifica y mantiene tonos rojizos vibrantes por más tiempo."
         },
         "brand": "Naissant",
-        "collections": [
-            "cuidado-capilar",
-            "naissant",
-            "matizantes",
-            "cuidado-color"
-        ],
+        "collections": ["cuidado-capilar", "naissant", "matizantes", "cuidado-color"],
         "sku": "NAS-006",
         "price": "32900",
         "image": "placeholder.jpg"
@@ -2947,12 +2315,7 @@
             "description": "Mascarilla revitalizante con aceite de coco. Hidratación profunda y reparación para cabello seco y dañado."
         },
         "brand": "Naissant",
-        "collections": [
-            "cuidado-capilar",
-            "naissant",
-            "hidratacion",
-            "reparacion"
-        ],
+        "collections": ["cuidado-capilar", "naissant", "hidratacion", "reparacion"],
         "sku": "NAS-007",
         "price": "21900",
         "image": "placeholder.jpg"
@@ -2963,12 +2326,7 @@
             "description": "Shampoo matizante tono cobrizo. Realza y mantiene tonos cobrizos brillantes con cada lavado."
         },
         "brand": "Naissant",
-        "collections": [
-            "cuidado-capilar",
-            "naissant",
-            "matizantes",
-            "cuidado-color"
-        ],
+        "collections": ["cuidado-capilar", "naissant", "matizantes", "cuidado-color"],
         "sku": "NAS-008",
         "price": "32900",
         "image": "placeholder.jpg"
@@ -2979,12 +2337,7 @@
             "description": "Mascarilla matizante plata para cabellos blancos y canosos. Elimina tonos amarillentos y aporta brillo platinado."
         },
         "brand": "Naissant",
-        "collections": [
-            "cuidado-capilar",
-            "naissant",
-            "matizantes",
-            "especializados"
-        ],
+        "collections": ["cuidado-capilar", "naissant", "matizantes", "especializados"],
         "sku": "NAS-009",
         "price": "42100",
         "image": "placeholder.jpg"
@@ -2995,11 +2348,7 @@
             "description": "Crema para peinar con aceite de coco. Controla el frizz, facilita el peinado y aporta hidratación sin engrasar."
         },
         "brand": "Naissant",
-        "collections": [
-            "cuidado-capilar",
-            "naissant",
-            "finalizadores"
-        ],
+        "collections": ["cuidado-capilar", "naissant", "finalizadores"],
         "sku": "NAS-010",
         "price": "31900",
         "image": "placeholder.jpg"
@@ -3010,11 +2359,7 @@
             "description": "Shampoo antifrizz con tecnología de control. Disciplina el cabello rebelde y elimina el encrespamiento."
         },
         "brand": "Naissant",
-        "collections": [
-            "cuidado-capilar",
-            "naissant",
-            "especializados"
-        ],
+        "collections": ["cuidado-capilar", "naissant", "especializados"],
         "sku": "NAS-011",
         "price": "18900",
         "image": "placeholder.jpg"
@@ -3025,12 +2370,7 @@
             "description": "Mascarilla matizante tono cobrizo. Neutraliza tonos verdosos e intensifica reflejos cobrizos naturales."
         },
         "brand": "Naissant",
-        "collections": [
-            "cuidado-capilar",
-            "naissant",
-            "matizantes",
-            "cuidado-color"
-        ],
+        "collections": ["cuidado-capilar", "naissant", "matizantes", "cuidado-color"],
         "sku": "NAS-012",
         "price": "35000",
         "image": "placeholder.jpg"
@@ -3041,13 +2381,7 @@
             "description": "Elixir de coco para protección térmica y reparación. Sella las puntas y protege del calor de planchas y secadores."
         },
         "brand": "Naissant",
-        "collections": [
-            "cuidado-capilar",
-            "naissant",
-            "aceites-capilares",
-            "finalizadores",
-            "reparacion"
-        ],
+        "collections": ["cuidado-capilar", "naissant", "aceites-capilares", "finalizadores", "reparacion"],
         "sku": "NAS-013",
         "price": "42900",
         "image": "placeholder.jpg"
@@ -3058,12 +2392,7 @@
             "description": "Shampoo matizante azul plata para cabellos rubios y platinados. Elimina tonos amarillos y aporta brillo frío."
         },
         "brand": "Naissant",
-        "collections": [
-            "cuidado-capilar",
-            "naissant",
-            "matizantes",
-            "cuidado-color"
-        ],
+        "collections": ["cuidado-capilar", "naissant", "matizantes", "cuidado-color"],
         "sku": "NAS-014",
         "price": "38300",
         "image": "placeholder.jpg"
@@ -3074,12 +2403,7 @@
             "description": "Shampoo matizante chocolate para cabellos castaños oscuros. Neutraliza reflejos no deseados y realza el tono."
         },
         "brand": "Naissant",
-        "collections": [
-            "cuidado-capilar",
-            "naissant",
-            "matizantes",
-            "cuidado-color"
-        ],
+        "collections": ["cuidado-capilar", "naissant", "matizantes", "cuidado-color"],
         "sku": "NAS-015",
         "price": "35000",
         "image": "placeholder.jpg"
@@ -3090,12 +2414,7 @@
             "description": "Shampoo matizante negro para cabellos oscuros. Intensifica el color negro y elimina reflejos rojizos indeseados."
         },
         "brand": "Naissant",
-        "collections": [
-            "cuidado-capilar",
-            "naissant",
-            "matizantes",
-            "cuidado-color"
-        ],
+        "collections": ["cuidado-capilar", "naissant", "matizantes", "cuidado-color"],
         "sku": "NAS-016",
         "price": "35000",
         "image": "placeholder.jpg"
@@ -3106,12 +2425,7 @@
             "description": "Serum acondicionador Naissant que proporciona brillo, suavidad y protección térmica. Fórmula ligera para todo tipo de cabello."
         },
         "brand": "Naissant",
-        "collections": [
-            "cuidado-capilar",
-            "naissant",
-            "hidratacion",
-            "finalizadores"
-        ],
+        "collections": ["cuidado-capilar", "naissant", "hidratacion", "finalizadores"],
         "sku": "NAS-017",
         "price": "37500",
         "image": "placeholder.jpg"
@@ -3122,11 +2436,7 @@
             "description": "Shampoo desintoxicante Naissant que elimina impurezas, residuos de productos y contaminación. Limpieza profunda para cabello revitalizado."
         },
         "brand": "Naissant",
-        "collections": [
-            "cuidado-capilar",
-            "naissant",
-            "especializados"
-        ],
+        "collections": ["cuidado-capilar", "naissant", "especializados"],
         "sku": "NAS-018",
         "price": "35000",
         "image": "placeholder.jpg"
@@ -3137,12 +2447,7 @@
             "description": "Mascarilla matizante tono perla beige para cabellos rubios claros. Neutraliza tonos amarillos y aporta reflejos perlados."
         },
         "brand": "Naissant",
-        "collections": [
-            "cuidado-capilar",
-            "naissant",
-            "matizantes",
-            "cuidado-color"
-        ],
+        "collections": ["cuidado-capilar", "naissant", "matizantes", "cuidado-color"],
         "sku": "NAS-019",
         "price": "42000",
         "image": "placeholder.jpg"
@@ -3153,12 +2458,7 @@
             "description": "Tratamiento intensivo Puzanga de Naissant para rehabilitación capilar profunda. Repara daños severos y fortalece la fibra."
         },
         "brand": "Naissant",
-        "collections": [
-            "cuidado-capilar",
-            "naissant",
-            "reparacion",
-            "especializados"
-        ],
+        "collections": ["cuidado-capilar", "naissant", "reparacion", "especializados"],
         "sku": "NAS-020",
         "price": "35000",
         "image": "placeholder.jpg"
@@ -3169,12 +2469,7 @@
             "description": "Mascarilla matizante negro que intensifica y mantiene el color en cabellos oscuros. Elimina reflejos rojizos y cobrizos."
         },
         "brand": "Naissant",
-        "collections": [
-            "cuidado-capilar",
-            "naissant",
-            "matizantes",
-            "cuidado-color"
-        ],
+        "collections": ["cuidado-capilar", "naissant", "matizantes", "cuidado-color"],
         "sku": "NAS-021",
         "price": "35000",
         "image": "placeholder.jpg"
@@ -3185,12 +2480,7 @@
             "description": "Kit energizante Naissant con shampoo y mascarilla revitalizante. Aporta energía, vitalidad y brillo al cabello fatigado."
         },
         "brand": "Naissant",
-        "collections": [
-            "cuidado-capilar",
-            "naissant",
-            "kit",
-            "reparacion"
-        ],
+        "collections": ["cuidado-capilar", "naissant", "kit", "reparacion"],
         "sku": "NAS-022",
         "price": "108224",
         "image": "placeholder.jpg"
@@ -3201,13 +2491,7 @@
             "description": "Kit completo matizante negro con shampoo y mascarilla. Intensifica y mantiene el negro profundo en cabellos oscuros."
         },
         "brand": "Naissant",
-        "collections": [
-            "cuidado-capilar",
-            "naissant",
-            "kit",
-            "matizantes",
-            "cuidado-color"
-        ],
+        "collections": ["cuidado-capilar", "naissant", "kit", "matizantes", "cuidado-color"],
         "sku": "NAS-023",
         "price": "76600",
         "image": "placeholder.jpg"
@@ -3218,13 +2502,7 @@
             "description": "Kit de hidratación y protección del color. Shampoo hidratante coconut sin sal y mascarilla procolor para cabello teñido."
         },
         "brand": "Naissant",
-        "collections": [
-            "cuidado-capilar",
-            "naissant",
-            "kit",
-            "hidratacion",
-            "cuidado-color"
-        ],
+        "collections": ["cuidado-capilar", "naissant", "kit", "hidratacion", "cuidado-color"],
         "sku": "NAS-024",
         "price": "76600",
         "image": "placeholder.jpg"
@@ -3235,12 +2513,7 @@
             "description": "Kit completo línea coconut: shampoo hidratante sin sal, mascarilla revitalizante y elixir protector. Nutrición profunda."
         },
         "brand": "Naissant",
-        "collections": [
-            "cuidado-capilar",
-            "naissant",
-            "kit",
-            "hidratacion"
-        ],
+        "collections": ["cuidado-capilar", "naissant", "kit", "hidratacion"],
         "sku": "NAS-025",
         "price": "113400",
         "image": "placeholder.jpg"
@@ -3251,13 +2524,7 @@
             "description": "Kit matizante cana silver para cabellos blancos y canosos. Neutraliza tonos amarillentos y aporta brillo plateado."
         },
         "brand": "Naissant",
-        "collections": [
-            "cuidado-capilar",
-            "naissant",
-            "kit",
-            "matizantes",
-            "cuidado-color"
-        ],
+        "collections": ["cuidado-capilar", "naissant", "kit", "matizantes", "cuidado-color"],
         "sku": "NAS-026",
         "price": "81400",
         "image": "placeholder.jpg"
@@ -3268,13 +2535,7 @@
             "description": "Kit matizante azul plata para cabellos rubios y platinados. Elimina tonos amarillos y realza reflejos plateados."
         },
         "brand": "Naissant",
-        "collections": [
-            "cuidado-capilar",
-            "naissant",
-            "kit",
-            "matizantes",
-            "cuidado-color"
-        ],
+        "collections": ["cuidado-capilar", "naissant", "kit", "matizantes", "cuidado-color"],
         "sku": "NAS-027",
         "price": "76600",
         "image": "placeholder.jpg"
@@ -3285,12 +2546,7 @@
             "description": "Caja de 12 mascarillas matizantes canasilver para reventa profesional. Ideal para salones de belleza y distribuidores."
         },
         "brand": "Naissant",
-        "collections": [
-            "cuidado-capilar",
-            "naissant",
-            "matizantes",
-            "linea-profesional"
-        ],
+        "collections": ["cuidado-capilar", "naissant", "matizantes", "linea-profesional"],
         "sku": "NAS-028",
         "price": "81400",
         "image": "placeholder.jpg"
@@ -3301,13 +2557,7 @@
             "description": "Kit matizante violeta para cabellos rubios. Neutraliza tonos anaranjados y aporta matices violáceos y cenizos."
         },
         "brand": "Naissant",
-        "collections": [
-            "cuidado-capilar",
-            "naissant",
-            "kit",
-            "matizantes",
-            "cuidado-color"
-        ],
+        "collections": ["cuidado-capilar", "naissant", "kit", "matizantes", "cuidado-color"],
         "sku": "NAS-029",
         "price": "81200",
         "image": "placeholder.jpg"
@@ -3318,13 +2568,7 @@
             "description": "Kit matizante perla beige para rubios claros. Elimina amarillos y aporta tonos perlados beige sofisticados."
         },
         "brand": "Naissant",
-        "collections": [
-            "cuidado-capilar",
-            "naissant",
-            "kit",
-            "matizantes",
-            "cuidado-color"
-        ],
+        "collections": ["cuidado-capilar", "naissant", "kit", "matizantes", "cuidado-color"],
         "sku": "NAS-030",
         "price": "78000",
         "image": "placeholder.jpg"
@@ -3335,13 +2579,7 @@
             "description": "Kit matizante chocolate para cabellos castaños. Neutraliza reflejos rojizos y realza tonos chocolate profundos."
         },
         "brand": "Naissant",
-        "collections": [
-            "cuidado-capilar",
-            "naissant",
-            "kit",
-            "matizantes",
-            "cuidado-color"
-        ],
+        "collections": ["cuidado-capilar", "naissant", "kit", "matizantes", "cuidado-color"],
         "sku": "NAS-031",
         "price": "84000",
         "image": "placeholder.jpg"
@@ -3352,12 +2590,7 @@
             "description": "Shampoo cobrizo para cabellos pelirrojos y cobrizos. Mantiene e intensifica los reflejos cobrizos naturales."
         },
         "brand": "Naissant",
-        "collections": [
-            "cuidado-capilar",
-            "naissant",
-            "matizantes",
-            "cuidado-color"
-        ],
+        "collections": ["cuidado-capilar", "naissant", "matizantes", "cuidado-color"],
         "sku": "NAS-032",
         "price": "32900",
         "image": "placeholder.jpg"
@@ -3368,12 +2601,7 @@
             "description": "Caja de 12 shampoos matizantes perla beige para reventa profesional. Ideal para salones de belleza y distribuidores."
         },
         "brand": "Naissant",
-        "collections": [
-            "cuidado-capilar",
-            "naissant",
-            "matizantes",
-            "linea-profesional"
-        ],
+        "collections": ["cuidado-capilar", "naissant", "matizantes", "linea-profesional"],
         "sku": "NAS-033",
         "price": "81500",
         "image": "placeholder.jpg"
@@ -3384,12 +2612,7 @@
             "description": "Caja de 12 mascarillas matizantes azul plata para reventa profesional. Ideal para salones y distribuidores especializados."
         },
         "brand": "Naissant",
-        "collections": [
-            "cuidado-capilar",
-            "naissant",
-            "matizantes",
-            "linea-profesional"
-        ],
+        "collections": ["cuidado-capilar", "naissant", "matizantes", "linea-profesional"],
         "sku": "NAS-034",
         "price": "81500",
         "image": "placeholder.jpg"
@@ -3400,12 +2623,7 @@
             "description": "Caja de 12 shampoos matizantes azul plata para reventa profesional. Elimina tonos amarillos en cabellos rubios."
         },
         "brand": "Naissant",
-        "collections": [
-            "cuidado-capilar",
-            "naissant",
-            "matizantes",
-            "linea-profesional"
-        ],
+        "collections": ["cuidado-capilar", "naissant", "matizantes", "linea-profesional"],
         "sku": "NAS-035",
         "price": "81500",
         "image": "placeholder.jpg"
@@ -3416,12 +2634,7 @@
             "description": "Caja de 12 mascarillas matizantes negro para reventa profesional. Intensifica el color en cabellos oscuros."
         },
         "brand": "Naissant",
-        "collections": [
-            "cuidado-capilar",
-            "naissant",
-            "matizantes",
-            "linea-profesional"
-        ],
+        "collections": ["cuidado-capilar", "naissant", "matizantes", "linea-profesional"],
         "sku": "NAS-036",
         "price": "81500",
         "image": "placeholder.jpg"
@@ -3432,11 +2645,7 @@
             "description": "Shampoo hidratante con extracto de papaya. Nutre, hidrata y aporta brillo natural al cabello seco."
         },
         "brand": "Naissant",
-        "collections": [
-            "cuidado-capilar",
-            "naissant",
-            "hidratacion"
-        ],
+        "collections": ["cuidado-capilar", "naissant", "hidratacion"],
         "sku": "NAS-037",
         "price": "38300",
         "image": "placeholder.jpg"
@@ -3447,12 +2656,7 @@
             "description": "Shampoo hidratante anticaspa que elimina la caspa mientras hidrata el cuero cabelludo. Fórmula suave de uso diario."
         },
         "brand": "Naissant",
-        "collections": [
-            "cuidado-capilar",
-            "naissant",
-            "hidratacion",
-            "especializados"
-        ],
+        "collections": ["cuidado-capilar", "naissant", "hidratacion", "especializados"],
         "sku": "NAS-038",
         "price": "27300",
         "image": "placeholder.jpg"
@@ -3463,12 +2667,7 @@
             "description": "Mascarilla energizante Naissant que revitaliza cabellos fatigados. Aporta energía, fuerza y brillo intenso."
         },
         "brand": "Naissant",
-        "collections": [
-            "cuidado-capilar",
-            "naissant",
-            "reparacion",
-            "especializados"
-        ],
+        "collections": ["cuidado-capilar", "naissant", "reparacion", "especializados"],
         "sku": "NAS-039",
         "price": "45900",
         "image": "placeholder.jpg"
@@ -3479,12 +2678,7 @@
             "description": "Shampoo matizante violeta para cabellos rubios. Neutraliza tonos anaranjados y aporta reflejos cenizos."
         },
         "brand": "Naissant",
-        "collections": [
-            "cuidado-capilar",
-            "naissant",
-            "matizantes",
-            "cuidado-color"
-        ],
+        "collections": ["cuidado-capilar", "naissant", "matizantes", "cuidado-color"],
         "sku": "NAS-040",
         "price": "32900",
         "image": "placeholder.jpg"
@@ -3495,12 +2689,7 @@
             "description": "Mascarilla matizante tono palo de rosa para cabellos rubios. Neutraliza amarillos y aporta reflejos rosáceos delicados."
         },
         "brand": "Naissant",
-        "collections": [
-            "cuidado-capilar",
-            "naissant",
-            "matizantes",
-            "cuidado-color"
-        ],
+        "collections": ["cuidado-capilar", "naissant", "matizantes", "cuidado-color"],
         "sku": "NAS-041",
         "price": "42100",
         "image": "placeholder.jpg"
@@ -3511,11 +2700,7 @@
             "description": "Leche para peinar Naissant con fórmula nutritiva. Desenreda, suaviza y controla el frizz sin enjuague."
         },
         "brand": "Naissant",
-        "collections": [
-            "cuidado-capilar",
-            "naissant",
-            "finalizadores"
-        ],
+        "collections": ["cuidado-capilar", "naissant", "finalizadores"],
         "sku": "NAS-042",
         "price": "24200",
         "image": "placeholder.jpg"
@@ -3526,11 +2711,7 @@
             "description": "Moldeador capilar con tecnología de hilos de seda. Protección térmica, controla el frizz y aporta brillo natural."
         },
         "brand": "Lehit",
-        "collections": [
-            "cuidado-capilar",
-            "lehit",
-            "finalizadores"
-        ],
+        "collections": ["cuidado-capilar", "lehit", "finalizadores"],
         "sku": "LEH-001",
         "price": "44700",
         "image": "placeholder.jpg"
@@ -3541,12 +2722,7 @@
             "description": "Super acondicionador multifuncional con 15 beneficios en un solo producto. Hidrata, repara, desenreda y protege el cabello."
         },
         "brand": "Lehit",
-        "collections": [
-            "cuidado-capilar",
-            "lehit",
-            "hidratacion",
-            "reparacion"
-        ],
+        "collections": ["cuidado-capilar", "lehit", "hidratacion", "reparacion"],
         "sku": "LEH-002",
         "price": "29500",
         "image": "placeholder.jpg"
@@ -3557,12 +2733,7 @@
             "description": "Tratamiento intensivo multibeneficios con 18 funciones. Reconstruye, hidrata, protege y devuelve la vitalidad al cabello."
         },
         "brand": "Lehit",
-        "collections": [
-            "cuidado-capilar",
-            "lehit",
-            "reparacion",
-            "hidratacion"
-        ],
+        "collections": ["cuidado-capilar", "lehit", "reparacion", "hidratacion"],
         "sku": "LEH-003",
         "price": "29500",
         "image": "placeholder.jpg"
@@ -3573,12 +2744,7 @@
             "description": "Tratamiento intensivo con semillas de lino. 12 ampollas de 13ml con ácidos grasos omega que nutren y fortalecen."
         },
         "brand": "Lehit",
-        "collections": [
-            "cuidado-capilar",
-            "lehit",
-            "ampolletas",
-            "reparacion"
-        ],
+        "collections": ["cuidado-capilar", "lehit", "ampolletas", "reparacion"],
         "sku": "LEH-004",
         "price": "59800",
         "image": "placeholder.jpg"
@@ -3589,11 +2755,7 @@
             "description": "Shampoo libre de sal enriquecido con queratina. Limpia sin resecar, ideal para cabellos tratados químicamente."
         },
         "brand": "Lehit",
-        "collections": [
-            "cuidado-capilar",
-            "lehit",
-            "reparacion"
-        ],
+        "collections": ["cuidado-capilar", "lehit", "reparacion"],
         "sku": "LEH-005",
         "price": "48200",
         "image": "placeholder.jpg"
@@ -3604,12 +2766,7 @@
             "description": "Tratamiento acondicionador con colágeno que aporta elasticidad y firmeza. Revitaliza y fortalece el cabello."
         },
         "brand": "Lehit",
-        "collections": [
-            "cuidado-capilar",
-            "lehit",
-            "reparacion",
-            "hidratacion"
-        ],
+        "collections": ["cuidado-capilar", "lehit", "reparacion", "hidratacion"],
         "sku": "LEH-006",
         "price": "34200",
         "image": "placeholder.jpg"
@@ -3620,11 +2777,7 @@
             "description": "Shampoo sin sal enriquecido con proteínas de leche. Limpieza suave, nutre e hidrata profundamente."
         },
         "brand": "Lehit",
-        "collections": [
-            "cuidado-capilar",
-            "lehit",
-            "hidratacion"
-        ],
+        "collections": ["cuidado-capilar", "lehit", "hidratacion"],
         "sku": "LEH-007",
         "price": "26000",
         "image": "placeholder.jpg"
@@ -3635,11 +2788,7 @@
             "description": "Shampoo sin sal con extracto de cerveza. Rico en vitamina B, fortalece y aporta volumen al cabello."
         },
         "brand": "Lehit",
-        "collections": [
-            "cuidado-capilar",
-            "lehit",
-            "especializados"
-        ],
+        "collections": ["cuidado-capilar", "lehit", "especializados"],
         "sku": "LEH-008",
         "price": "23500",
         "image": "placeholder.jpg"
@@ -3650,13 +2799,7 @@
             "description": "Kit completo de hidratación con tratamiento de argán y ácido hialurónico. Nutrición intensa y retención de humedad."
         },
         "brand": "Lehit",
-        "collections": [
-            "cuidado-capilar",
-            "lehit",
-            "kit",
-            "hidratacion",
-            "reparacion"
-        ],
+        "collections": ["cuidado-capilar", "lehit", "kit", "hidratacion", "reparacion"],
         "sku": "LEH-009",
         "price": "123500",
         "image": "placeholder.jpg"
@@ -3667,11 +2810,7 @@
             "description": "Shampoo reconstructor con tecnología Plex. Reconstruye enlaces rotos, fortalece y previene la rotura capilar."
         },
         "brand": "Lehit",
-        "collections": [
-            "cuidado-capilar",
-            "lehit",
-            "reparacion"
-        ],
+        "collections": ["cuidado-capilar", "lehit", "reparacion"],
         "sku": "LEH-010",
         "price": "26000",
         "image": "placeholder.jpg"
@@ -3682,12 +2821,7 @@
             "description": "Ampolletas especializadas para cabello crespo. Controla el volumen, define rizos y aporta hidratación."
         },
         "brand": "Lehit",
-        "collections": [
-            "cuidado-capilar",
-            "lehit",
-            "ampolletas",
-            "especializados"
-        ],
+        "collections": ["cuidado-capilar", "lehit", "ampolletas", "especializados"],
         "sku": "LEH-011",
         "price": "14500",
         "image": "placeholder.jpg"
@@ -3698,12 +2832,7 @@
             "description": "Ampolla con aceite de argán puro. Nutrición intensa, restaura el brillo y suavidad natural del cabello."
         },
         "brand": "Lehit",
-        "collections": [
-            "cuidado-capilar",
-            "lehit",
-            "ampolletas",
-            "aceites-capilares"
-        ],
+        "collections": ["cuidado-capilar", "lehit", "ampolletas", "aceites-capilares"],
         "sku": "LEH-012",
         "price": "8000",
         "image": "placeholder.jpg"
@@ -3714,12 +2843,7 @@
             "description": "Gotas capilares con ácido hialurónico. 3 unidades de 10g, hidratación profunda y retención de humedad prolongada."
         },
         "brand": "Lehit",
-        "collections": [
-            "cuidado-capilar",
-            "lehit",
-            "ampolletas",
-            "hidratacion"
-        ],
+        "collections": ["cuidado-capilar", "lehit", "ampolletas", "hidratacion"],
         "sku": "LEH-013",
         "price": "12500",
         "image": "placeholder.jpg"
@@ -3730,12 +2854,7 @@
             "description": "Ampolla reconstructora con queratina y germen de trigo. Fortalece, reconstruye y protege el cabello dañado."
         },
         "brand": "Lehit",
-        "collections": [
-            "cuidado-capilar",
-            "lehit",
-            "ampolletas",
-            "reparacion"
-        ],
+        "collections": ["cuidado-capilar", "lehit", "ampolletas", "reparacion"],
         "sku": "LEH-014",
         "price": "9800",
         "image": "placeholder.jpg"
@@ -3746,12 +2865,7 @@
             "description": "Tratamiento acondicionador con semillas de lino que nutre, suaviza y fortalece el cabello."
         },
         "brand": "Lehit",
-        "collections": [
-            "cuidado-capilar",
-            "lehit",
-            "reparacion",
-            "hidratacion"
-        ],
+        "collections": ["cuidado-capilar", "lehit", "reparacion", "hidratacion"],
         "sku": "LEH-015",
         "price": "29500",
         "image": "placeholder.jpg"
@@ -3762,13 +2876,7 @@
             "description": "Tratamiento capilar con aceite de marula y omega. Repara, hidrata y protege el cabello post-alisado."
         },
         "brand": "Lehit",
-        "collections": [
-            "cuidado-capilar",
-            "lehit",
-            "reparacion",
-            "hidratacion",
-            "aceites-capilares"
-        ],
+        "collections": ["cuidado-capilar", "lehit", "reparacion", "hidratacion", "aceites-capilares"],
         "sku": "LEH-016",
         "price": "29500",
         "image": "placeholder.jpg"
@@ -3779,13 +2887,7 @@
             "description": "Tratamiento capilar premium con células madre de argán. Regenera, repara y revitaliza el cabello desde la raíz."
         },
         "brand": "Lehit",
-        "collections": [
-            "cuidado-capilar",
-            "lehit",
-            "reparacion",
-            "especializados",
-            "aceites-capilares"
-        ],
+        "collections": ["cuidado-capilar", "lehit", "reparacion", "especializados", "aceites-capilares"],
         "sku": "LEH-017",
         "price": "40000",
         "image": "placeholder.jpg"
@@ -3796,12 +2898,7 @@
             "description": "Tratamiento acondicionador con queratina que reconstruye, fortalece y alisa el cabello."
         },
         "brand": "Lehit",
-        "collections": [
-            "cuidado-capilar",
-            "lehit",
-            "reparacion",
-            "alisado"
-        ],
+        "collections": ["cuidado-capilar", "lehit", "reparacion", "alisado"],
         "sku": "LEH-018",
         "price": "29500",
         "image": "placeholder.jpg"
@@ -3812,12 +2909,7 @@
             "description": "Shampoo sin sal enriquecido con coco. Limpia suavemente, hidrata y protege el cabello tratado."
         },
         "brand": "Lehit",
-        "collections": [
-            "cuidado-capilar",
-            "lehit",
-            "shampoos",
-            "hidratacion"
-        ],
+        "collections": ["cuidado-capilar", "lehit", "shampoos", "hidratacion"],
         "sku": "LEH-019",
         "price": "29500",
         "image": "placeholder.jpg"
@@ -3828,12 +2920,7 @@
             "description": "Tratamiento capilar con aceite de coco que nutre, hidrata profundamente y repara el cabello."
         },
         "brand": "Lehit",
-        "collections": [
-            "cuidado-capilar",
-            "lehit",
-            "hidratacion",
-            "aceites-capilares"
-        ],
+        "collections": ["cuidado-capilar", "lehit", "hidratacion", "aceites-capilares"],
         "sku": "LEH-020",
         "price": "34200",
         "image": "placeholder.jpg"
@@ -3844,12 +2931,7 @@
             "description": "Tratamiento con cerveza que aporta brillo, volumen y fortalece el cabello."
         },
         "brand": "Lehit",
-        "collections": [
-            "cuidado-capilar",
-            "lehit",
-            "reparacion",
-            "brillo"
-        ],
+        "collections": ["cuidado-capilar", "lehit", "reparacion", "brillo"],
         "sku": "LEH-021",
         "price": "29500",
         "image": "placeholder.jpg"
@@ -3860,12 +2942,7 @@
             "description": "Tratamiento con complejo biológico y queratina que repara, nutre y reconstruye el cabello."
         },
         "brand": "Lehit",
-        "collections": [
-            "cuidado-capilar",
-            "lehit",
-            "reparacion",
-            "especializados"
-        ],
+        "collections": ["cuidado-capilar", "lehit", "reparacion", "especializados"],
         "sku": "LEH-022",
         "price": "29500",
         "image": "placeholder.jpg"
@@ -3876,12 +2953,7 @@
             "description": "Tratamiento acondicionador con carbón activado. Purifica, desintoxica y revitaliza el cabello."
         },
         "brand": "Lehit",
-        "collections": [
-            "cuidado-capilar",
-            "lehit",
-            "especializados",
-            "limpieza-profunda"
-        ],
+        "collections": ["cuidado-capilar", "lehit", "especializados", "limpieza-profunda"],
         "sku": "LEH-023",
         "price": "29500",
         "image": "placeholder.jpg"
@@ -3892,12 +2964,7 @@
             "description": "Tratamiento con placenta vegetal que regenera, fortalece y estimula el crecimiento capilar."
         },
         "brand": "Lehit",
-        "collections": [
-            "cuidado-capilar",
-            "lehit",
-            "reparacion",
-            "anti-caida"
-        ],
+        "collections": ["cuidado-capilar", "lehit", "reparacion", "anti-caida"],
         "sku": "LEH-024",
         "price": "29500",
         "image": "placeholder.jpg"
@@ -3908,13 +2975,7 @@
             "description": "Gotas de aceite de marula para cuidado post-alisado. Sella cutículas, aporta brillo y protege."
         },
         "brand": "Lehit",
-        "collections": [
-            "cuidado-capilar",
-            "lehit",
-            "aceites-capilares",
-            "alisado",
-            "brillo"
-        ],
+        "collections": ["cuidado-capilar", "lehit", "aceites-capilares", "alisado", "brillo"],
         "sku": "LEH-025",
         "price": "31000",
         "image": "placeholder.jpg"
@@ -3925,13 +2986,7 @@
             "description": "Caja con 12 ampollas de aceite de argán puro. Tratamiento intensivo para hidratar, nutrir y dar brillo."
         },
         "brand": "Lehit",
-        "collections": [
-            "cuidado-capilar",
-            "lehit",
-            "ampolletas",
-            "aceites-capilares",
-            "hidratacion"
-        ],
+        "collections": ["cuidado-capilar", "lehit", "ampolletas", "aceites-capilares", "hidratacion"],
         "sku": "LEH-026",
         "price": "59800",
         "image": "placeholder.jpg"
@@ -3942,12 +2997,7 @@
             "description": "Caja con 12 ampollas de queratina y germen de trigo. Reconstruye, fortalece y protege el cabello."
         },
         "brand": "Lehit",
-        "collections": [
-            "cuidado-capilar",
-            "lehit",
-            "ampolletas",
-            "reparacion"
-        ],
+        "collections": ["cuidado-capilar", "lehit", "ampolletas", "reparacion"],
         "sku": "LEH-027",
         "price": "59800",
         "image": "placeholder.jpg"
@@ -3958,12 +3008,7 @@
             "description": "Tratamiento especializado para cabello afro y con frizz. Controla, define y nutre los rizos."
         },
         "brand": "Lehit",
-        "collections": [
-            "cuidado-capilar",
-            "lehit",
-            "anti-frizz",
-            "rizos"
-        ],
+        "collections": ["cuidado-capilar", "lehit", "anti-frizz", "rizos"],
         "sku": "LEH-028",
         "price": "29500",
         "image": "placeholder.jpg"
@@ -3974,13 +3019,7 @@
             "description": "Caja con 12 ampollas de placenta vegetal. Regenera, fortalece y estimula el crecimiento."
         },
         "brand": "Lehit",
-        "collections": [
-            "cuidado-capilar",
-            "lehit",
-            "ampolletas",
-            "anti-caida",
-            "reparacion"
-        ],
+        "collections": ["cuidado-capilar", "lehit", "ampolletas", "anti-caida", "reparacion"],
         "sku": "LEH-029",
         "price": "59800",
         "image": "placeholder.jpg"
@@ -3991,13 +3030,7 @@
             "description": "Cápsulas antihorquilla que nutren, hidratan y previenen las puntas abiertas."
         },
         "brand": "Lehit",
-        "collections": [
-            "cuidado-capilar",
-            "lehit",
-            "ampolletas",
-            "reparacion",
-            "hidratacion"
-        ],
+        "collections": ["cuidado-capilar", "lehit", "ampolletas", "reparacion", "hidratacion"],
         "sku": "LEH-030",
         "price": "28800",
         "image": "placeholder.jpg"
@@ -4008,13 +3041,7 @@
             "description": "Caja con 12 ampollas de complejo biológico y queratina. Repara intensamente el cabello dañado."
         },
         "brand": "Lehit",
-        "collections": [
-            "cuidado-capilar",
-            "lehit",
-            "ampolletas",
-            "reparacion",
-            "especializados"
-        ],
+        "collections": ["cuidado-capilar", "lehit", "ampolletas", "reparacion", "especializados"],
         "sku": "LEH-031",
         "price": "59800",
         "image": "placeholder.jpg"
@@ -4025,12 +3052,7 @@
             "description": "Tratamiento capilar con ultra biotina. Fortalece, previene la caída y estimula el crecimiento."
         },
         "brand": "Lehit",
-        "collections": [
-            "cuidado-capilar",
-            "lehit",
-            "anti-caida",
-            "reparacion"
-        ],
+        "collections": ["cuidado-capilar", "lehit", "anti-caida", "reparacion"],
         "sku": "LEH-032",
         "price": "29500",
         "image": "placeholder.jpg"
@@ -4041,13 +3063,7 @@
             "description": "Caja con 12 ampollas de keratine, ADN y botrox. Efecto botox capilar instantáneo."
         },
         "brand": "Lehit",
-        "collections": [
-            "cuidado-capilar",
-            "lehit",
-            "ampolletas",
-            "reparacion",
-            "especializados"
-        ],
+        "collections": ["cuidado-capilar", "lehit", "ampolletas", "reparacion", "especializados"],
         "sku": "LEH-033",
         "price": "59800",
         "image": "placeholder.jpg"
@@ -4058,12 +3074,7 @@
             "description": "Loción capilar Keracrece en 12 ampollas. Estimula el crecimiento y fortalece desde la raíz."
         },
         "brand": "Lehit",
-        "collections": [
-            "cuidado-capilar",
-            "lehit",
-            "ampolletas",
-            "anti-caida"
-        ],
+        "collections": ["cuidado-capilar", "lehit", "ampolletas", "anti-caida"],
         "sku": "LEH-034",
         "price": "59800",
         "image": "placeholder.jpg"
@@ -4074,12 +3085,7 @@
             "description": "Cóctel multivitamínico repolarizador 8 en 1. Nutrición completa, repara y revitaliza el cabello."
         },
         "brand": "Lehit",
-        "collections": [
-            "cuidado-capilar",
-            "lehit",
-            "especializados",
-            "reparacion"
-        ],
+        "collections": ["cuidado-capilar", "lehit", "especializados", "reparacion"],
         "sku": "LEH-035",
         "price": "10950",
         "image": "placeholder.jpg"
@@ -4090,12 +3096,7 @@
             "description": "Tratamiento con células madre para regeneración capilar. Repara y revitaliza el cabello."
         },
         "brand": "Lehit",
-        "collections": [
-            "cuidado-capilar",
-            "lehit",
-            "reparacion",
-            "especializados"
-        ],
+        "collections": ["cuidado-capilar", "lehit", "reparacion", "especializados"],
         "sku": "LEH-036",
         "price": "29500",
         "image": "placeholder.jpg"
@@ -4106,12 +3107,7 @@
             "description": "Tratamiento profesional con cebolla y jengibre. Estimula el crecimiento y fortalece el cabello."
         },
         "brand": "Lehit",
-        "collections": [
-            "cuidado-capilar",
-            "lehit",
-            "anti-caida",
-            "especializados"
-        ],
+        "collections": ["cuidado-capilar", "lehit", "anti-caida", "especializados"],
         "sku": "LEH-037",
         "price": "95000",
         "image": "placeholder.jpg"
@@ -4122,12 +3118,7 @@
             "description": "Tratamiento bioenergético con aceite de argán en 30 sobres. Nutre, repara y revitaliza."
         },
         "brand": "Lehit",
-        "collections": [
-            "cuidado-capilar",
-            "lehit",
-            "aceites-capilares",
-            "reparacion"
-        ],
+        "collections": ["cuidado-capilar", "lehit", "aceites-capilares", "reparacion"],
         "sku": "LEH-038",
         "price": "69300",
         "image": "placeholder.jpg"
@@ -4138,13 +3129,7 @@
             "description": "Caja con 12 ampollas de gusano de seda y vitamina E. Nutre, suaviza y da brillo."
         },
         "brand": "Lehit",
-        "collections": [
-            "cuidado-capilar",
-            "lehit",
-            "ampolletas",
-            "hidratacion",
-            "brillo"
-        ],
+        "collections": ["cuidado-capilar", "lehit", "ampolletas", "hidratacion", "brillo"],
         "sku": "LEH-039",
         "price": "59800",
         "image": "placeholder.jpg"
@@ -4155,12 +3140,7 @@
             "description": "Caja con 12 ampollas de cebolla. Estimula el crecimiento, fortalece y previene la caída."
         },
         "brand": "Lehit",
-        "collections": [
-            "cuidado-capilar",
-            "lehit",
-            "ampolletas",
-            "anti-caida"
-        ],
+        "collections": ["cuidado-capilar", "lehit", "ampolletas", "anti-caida"],
         "sku": "LEH-040",
         "price": "59800",
         "image": "placeholder.jpg"
@@ -4171,12 +3151,7 @@
             "description": "Tratamiento con cebolla y jengibre. Estimula el crecimiento y fortalece el cabello."
         },
         "brand": "Lehit",
-        "collections": [
-            "cuidado-capilar",
-            "lehit",
-            "anti-caida",
-            "reparacion"
-        ],
+        "collections": ["cuidado-capilar", "lehit", "anti-caida", "reparacion"],
         "sku": "LEH-041",
         "price": "24500",
         "image": "placeholder.jpg"
@@ -4187,11 +3162,7 @@
             "description": "Perfume para cabello con fragancia Green. Deja el cabello con aroma fresco y duradero."
         },
         "brand": "Lehit",
-        "collections": [
-            "cuidado-capilar",
-            "lehit",
-            "especializados"
-        ],
+        "collections": ["cuidado-capilar", "lehit", "especializados"],
         "sku": "LEH-042",
         "price": "23500",
         "image": "placeholder.jpg"
@@ -4202,13 +3173,7 @@
             "description": "Gotas de aceite de argán puro. Nutre, hidrata y da brillo al cabello."
         },
         "brand": "Lehit",
-        "collections": [
-            "cuidado-capilar",
-            "lehit",
-            "aceites-capilares",
-            "hidratacion",
-            "brillo"
-        ],
+        "collections": ["cuidado-capilar", "lehit", "aceites-capilares", "hidratacion", "brillo"],
         "sku": "LEH-043",
         "price": "32600",
         "image": "placeholder.jpg"
@@ -4219,12 +3184,7 @@
             "description": "Tratamiento acondicionador especialmente formulado para niños. Suave, desenreda y protege."
         },
         "brand": "Lehit",
-        "collections": [
-            "cuidado-capilar",
-            "lehit",
-            "kids",
-            "hidratacion"
-        ],
+        "collections": ["cuidado-capilar", "lehit", "kids", "hidratacion"],
         "sku": "LEH-044",
         "price": "34200",
         "image": "placeholder.jpg"
@@ -4235,12 +3195,7 @@
             "description": "Tratamiento termoprotector que protege el cabello del calor de planchas y secadores."
         },
         "brand": "Lehit",
-        "collections": [
-            "cuidado-capilar",
-            "lehit",
-            "especializados",
-            "alisado"
-        ],
+        "collections": ["cuidado-capilar", "lehit", "especializados", "alisado"],
         "sku": "LEH-045",
         "price": "30500",
         "image": "placeholder.jpg"
@@ -4251,12 +3206,7 @@
             "description": "Gotas de aceite de coco puro. Hidrata profundamente y nutre el cabello."
         },
         "brand": "Lehit",
-        "collections": [
-            "cuidado-capilar",
-            "lehit",
-            "aceites-capilares",
-            "hidratacion"
-        ],
+        "collections": ["cuidado-capilar", "lehit", "aceites-capilares", "hidratacion"],
         "sku": "LEH-046",
         "price": "32600",
         "image": "placeholder.jpg"
@@ -4267,12 +3217,7 @@
             "description": "Shampoo con cebolla y jengibre que estimula el crecimiento y fortalece el cabello."
         },
         "brand": "Lehit",
-        "collections": [
-            "cuidado-capilar",
-            "lehit",
-            "shampoos",
-            "anti-caida"
-        ],
+        "collections": ["cuidado-capilar", "lehit", "shampoos", "anti-caida"],
         "sku": "LEH-047",
         "price": "42300",
         "image": "placeholder.jpg"
@@ -4283,12 +3228,7 @@
             "description": "Shampoo sin sal para niños. Fórmula suave que limpia y protege el cabello delicado."
         },
         "brand": "Lehit",
-        "collections": [
-            "cuidado-capilar",
-            "lehit",
-            "shampoos",
-            "kids"
-        ],
+        "collections": ["cuidado-capilar", "lehit", "shampoos", "kids"],
         "sku": "LEH-048",
         "price": "26000",
         "image": "placeholder.jpg"
@@ -4299,12 +3239,7 @@
             "description": "Tratamiento Keracrece 10 que estimula el crecimiento y fortalece el cabello."
         },
         "brand": "Lehit",
-        "collections": [
-            "cuidado-capilar",
-            "lehit",
-            "anti-caida",
-            "reparacion"
-        ],
+        "collections": ["cuidado-capilar", "lehit", "anti-caida", "reparacion"],
         "sku": "LEH-049",
         "price": "29500",
         "image": "placeholder.jpg"
@@ -4315,13 +3250,7 @@
             "description": "Tratamiento capilar con aceite de argán. Repara, hidrata y da brillo intenso."
         },
         "brand": "Lehit",
-        "collections": [
-            "cuidado-capilar",
-            "lehit",
-            "aceites-capilares",
-            "reparacion",
-            "brillo"
-        ],
+        "collections": ["cuidado-capilar", "lehit", "aceites-capilares", "reparacion", "brillo"],
         "sku": "LEH-050",
         "price": "29500",
         "image": "placeholder.jpg"
@@ -4332,11 +3261,7 @@
             "description": "Perfume para cabello con fragancia Golden. Aroma elegante y duradero."
         },
         "brand": "Lehit",
-        "collections": [
-            "cuidado-capilar",
-            "lehit",
-            "especializados"
-        ],
+        "collections": ["cuidado-capilar", "lehit", "especializados"],
         "sku": "LEH-051",
         "price": "20000",
         "image": "placeholder.jpg"
@@ -4347,12 +3272,7 @@
             "description": "Shampoo con semillas de lino que aporta luminosidad y brillo al cabello."
         },
         "brand": "Lehit",
-        "collections": [
-            "cuidado-capilar",
-            "lehit",
-            "shampoos",
-            "brillo"
-        ],
+        "collections": ["cuidado-capilar", "lehit", "shampoos", "brillo"],
         "sku": "LEH-052",
         "price": "23500",
         "image": "placeholder.jpg"
@@ -4363,13 +3283,7 @@
             "description": "Tratamiento acondicionador con 5 óleos que nutren, reparan y suavizan el cabello."
         },
         "brand": "Lehit",
-        "collections": [
-            "cuidado-capilar",
-            "lehit",
-            "aceites-capilares",
-            "reparacion",
-            "hidratacion"
-        ],
+        "collections": ["cuidado-capilar", "lehit", "aceites-capilares", "reparacion", "hidratacion"],
         "sku": "LEH-053",
         "price": "29500",
         "image": "placeholder.jpg"
@@ -4380,12 +3294,7 @@
             "description": "Crema para peinar y definir rizos. Controla el frizz y da forma a los rizos."
         },
         "brand": "Lehit",
-        "collections": [
-            "cuidado-capilar",
-            "lehit",
-            "rizos",
-            "anti-frizz"
-        ],
+        "collections": ["cuidado-capilar", "lehit", "rizos", "anti-frizz"],
         "sku": "LEH-054",
         "price": "34200",
         "image": "placeholder.jpg"
@@ -4396,12 +3305,7 @@
             "description": "Tratamiento con aceite de cebolla. Estimula el crecimiento y fortalece el cabello."
         },
         "brand": "Lehit",
-        "collections": [
-            "cuidado-capilar",
-            "lehit",
-            "aceites-capilares",
-            "anti-caida"
-        ],
+        "collections": ["cuidado-capilar", "lehit", "aceites-capilares", "anti-caida"],
         "sku": "LEH-055",
         "price": "29500",
         "image": "placeholder.jpg"
@@ -4412,12 +3316,7 @@
             "description": "Tratamiento acondicionador con gusano de seda. Suaviza, nutre y da brillo."
         },
         "brand": "Lehit",
-        "collections": [
-            "cuidado-capilar",
-            "lehit",
-            "reparacion",
-            "brillo"
-        ],
+        "collections": ["cuidado-capilar", "lehit", "reparacion", "brillo"],
         "sku": "LEH-056",
         "price": "29500",
         "image": "placeholder.jpg"
@@ -4428,13 +3327,7 @@
             "description": "Shampoo especial para cabello afro y con frizz. Controla, hidrata y define."
         },
         "brand": "Lehit",
-        "collections": [
-            "cuidado-capilar",
-            "lehit",
-            "shampoos",
-            "anti-frizz",
-            "rizos"
-        ],
+        "collections": ["cuidado-capilar", "lehit", "shampoos", "anti-frizz", "rizos"],
         "sku": "LEH-057",
         "price": "23500",
         "image": "placeholder.jpg"
@@ -4445,12 +3338,7 @@
             "description": "Shampoo sin sal con queratina. Limpia suavemente y alisa el cabello."
         },
         "brand": "Lehit",
-        "collections": [
-            "cuidado-capilar",
-            "lehit",
-            "shampoos",
-            "alisado"
-        ],
+        "collections": ["cuidado-capilar", "lehit", "shampoos", "alisado"],
         "sku": "LEH-058",
         "price": "23500",
         "image": "placeholder.jpg"
@@ -4461,12 +3349,7 @@
             "description": "Tratamiento con ortiga, limón y menta. Refresca, limpia profundamente y equilibra el cabello."
         },
         "brand": "Lehit",
-        "collections": [
-            "cuidado-capilar",
-            "lehit",
-            "especializados",
-            "limpieza-profunda"
-        ],
+        "collections": ["cuidado-capilar", "lehit", "especializados", "limpieza-profunda"],
         "sku": "LEH-059",
         "price": "30200",
         "image": "placeholder.jpg"
@@ -4477,13 +3360,7 @@
             "description": "Repolarizador capilar con queratina y efecto botox. Repara, alisa y rejuvenece el cabello."
         },
         "brand": "Lehit",
-        "collections": [
-            "cuidado-capilar",
-            "lehit",
-            "especializados",
-            "reparacion",
-            "alisado"
-        ],
+        "collections": ["cuidado-capilar", "lehit", "especializados", "reparacion", "alisado"],
         "sku": "LEH-060",
         "price": "29500",
         "image": "placeholder.jpg"
@@ -4494,13 +3371,7 @@
             "description": "Serum nutritivo con omega plus que aporta brillo intenso y nutrición."
         },
         "brand": "Lehit",
-        "collections": [
-            "cuidado-capilar",
-            "lehit",
-            "especializados",
-            "brillo",
-            "hidratacion"
-        ],
+        "collections": ["cuidado-capilar", "lehit", "especializados", "brillo", "hidratacion"],
         "sku": "LEH-061",
         "price": "29500",
         "image": "placeholder.jpg"
@@ -4511,12 +3382,7 @@
             "description": "Shampoo con ortiga, limón y menta. Limpia profundamente, refresca y revitaliza."
         },
         "brand": "Lehit",
-        "collections": [
-            "cuidado-capilar",
-            "lehit",
-            "shampoos",
-            "limpieza-profunda"
-        ],
+        "collections": ["cuidado-capilar", "lehit", "shampoos", "limpieza-profunda"],
         "sku": "LEH-062",
         "price": "23500",
         "image": "placeholder.jpg"
@@ -4527,13 +3393,7 @@
             "description": "Tratamiento con aceite de aguacate. Nutre profundamente, suaviza y repara."
         },
         "brand": "Lehit",
-        "collections": [
-            "cuidado-capilar",
-            "lehit",
-            "aceites-capilares",
-            "hidratacion",
-            "reparacion"
-        ],
+        "collections": ["cuidado-capilar", "lehit", "aceites-capilares", "hidratacion", "reparacion"],
         "sku": "LEH-063",
         "price": "29500",
         "image": "placeholder.jpg"
@@ -4544,12 +3404,7 @@
             "description": "Shampoo con gusano de seda. Limpia suavemente, nutre y da brillo."
         },
         "brand": "Lehit",
-        "collections": [
-            "cuidado-capilar",
-            "lehit",
-            "shampoos",
-            "brillo"
-        ],
+        "collections": ["cuidado-capilar", "lehit", "shampoos", "brillo"],
         "sku": "LEH-064",
         "price": "21500",
         "image": "placeholder.jpg"
@@ -4560,11 +3415,7 @@
             "description": "Perfume para cabello con fragancia Violet. Aroma delicado y duradero en presentación de 120ml."
         },
         "brand": "Lehit",
-        "collections": [
-            "cuidado-capilar",
-            "lehit",
-            "especializados"
-        ],
+        "collections": ["cuidado-capilar", "lehit", "especializados"],
         "sku": "LEH-065",
         "price": "20000",
         "image": "placeholder.jpg"
@@ -4575,13 +3426,7 @@
             "description": "Kit de shampoo y acondicionador Liss para control del frizz. Deja el cabello liso y manejable."
         },
         "brand": "Recamier",
-        "collections": [
-            "cuidado-capilar",
-            "recamier",
-            "shampoos",
-            "alisado",
-            "anti-frizz"
-        ],
+        "collections": ["cuidado-capilar", "recamier", "shampoos", "alisado", "anti-frizz"],
         "sku": "REC-001",
         "price": "109900",
         "image": "placeholder.jpg"
@@ -4592,12 +3437,7 @@
             "description": "Shampoo y acondicionador con keratina vegana. Fortalece y suaviza el cabello."
         },
         "brand": "Recamier",
-        "collections": [
-            "cuidado-capilar",
-            "recamier",
-            "shampoos",
-            "reparacion"
-        ],
+        "collections": ["cuidado-capilar", "recamier", "shampoos", "reparacion"],
         "sku": "REC-002",
         "price": "84900",
         "image": "placeholder.jpg"
@@ -4608,12 +3448,7 @@
             "description": "Shampoo Green Forest de la línea profesional Salon In. Fórmula profesional de 300ml."
         },
         "brand": "Recamier",
-        "collections": [
-            "cuidado-capilar",
-            "recamier",
-            "shampoos",
-            "especializados"
-        ],
+        "collections": ["cuidado-capilar", "recamier", "shampoos", "especializados"],
         "sku": "REC-003",
         "price": "42900",
         "image": "placeholder.jpg"
@@ -4624,12 +3459,7 @@
             "description": "Tratamiento intensivo Hydra Repair para cabellos secos. Hidratación profunda en 300g."
         },
         "brand": "Recamier",
-        "collections": [
-            "cuidado-capilar",
-            "recamier",
-            "reparacion",
-            "hidratacion"
-        ],
+        "collections": ["cuidado-capilar", "recamier", "reparacion", "hidratacion"],
         "sku": "REC-004",
         "price": "41900",
         "image": "placeholder.jpg"
@@ -4640,12 +3470,7 @@
             "description": "Kit completo Vegan Keratin con shampoo y tratamiento. Sistema de keratina vegana."
         },
         "brand": "Recamier",
-        "collections": [
-            "cuidado-capilar",
-            "recamier",
-            "reparacion",
-            "especializados"
-        ],
+        "collections": ["cuidado-capilar", "recamier", "reparacion", "especializados"],
         "sku": "REC-005",
         "price": "104900",
         "image": "placeholder.jpg"
@@ -4656,12 +3481,7 @@
             "description": "Acondicionador para rizos y ondas en presentación profesional de 1 litro."
         },
         "brand": "Recamier",
-        "collections": [
-            "cuidado-capilar",
-            "recamier",
-            "rizos",
-            "hidratacion"
-        ],
+        "collections": ["cuidado-capilar", "recamier", "rizos", "hidratacion"],
         "sku": "REC-006",
         "price": "54900",
         "image": "placeholder.jpg"
@@ -4672,12 +3492,7 @@
             "description": "Acondicionador Liss Control en formato profesional de 1 litro. Control del frizz."
         },
         "brand": "Recamier",
-        "collections": [
-            "cuidado-capilar",
-            "recamier",
-            "alisado",
-            "anti-frizz"
-        ],
+        "collections": ["cuidado-capilar", "recamier", "alisado", "anti-frizz"],
         "sku": "REC-007",
         "price": "54900",
         "image": "placeholder.jpg"
@@ -4688,13 +3503,7 @@
             "description": "Shampoo Liss Control en presentación profesional de 1 litro. Cabello liso y controlado."
         },
         "brand": "Recamier",
-        "collections": [
-            "cuidado-capilar",
-            "recamier",
-            "shampoos",
-            "alisado",
-            "anti-frizz"
-        ],
+        "collections": ["cuidado-capilar", "recamier", "shampoos", "alisado", "anti-frizz"],
         "sku": "REC-008",
         "price": "54900",
         "image": "placeholder.jpg"
@@ -4705,13 +3514,7 @@
             "description": "Kit Ultra Force con shampoo y acondicionador. Fuerza y resistencia para el cabello."
         },
         "brand": "Recamier",
-        "collections": [
-            "cuidado-capilar",
-            "recamier",
-            "shampoos",
-            "anti-caida",
-            "reparacion"
-        ],
+        "collections": ["cuidado-capilar", "recamier", "shampoos", "anti-caida", "reparacion"],
         "sku": "REC-009",
         "price": "114900",
         "image": "placeholder.jpg"
@@ -4722,13 +3525,7 @@
             "description": "Shampoo Hydra Repair en formato profesional de 1 litro. Hidratación y reparación."
         },
         "brand": "Recamier",
-        "collections": [
-            "cuidado-capilar",
-            "recamier",
-            "shampoos",
-            "hidratacion",
-            "reparacion"
-        ],
+        "collections": ["cuidado-capilar", "recamier", "shampoos", "hidratacion", "reparacion"],
         "sku": "REC-010",
         "price": "54900",
         "image": "placeholder.jpg"
@@ -4739,12 +3536,7 @@
             "description": "Acondicionador Pro Fortex para fortalecer el cabello. Presentación de 300ml."
         },
         "brand": "Recamier",
-        "collections": [
-            "cuidado-capilar",
-            "recamier",
-            "anti-caida",
-            "reparacion"
-        ],
+        "collections": ["cuidado-capilar", "recamier", "anti-caida", "reparacion"],
         "sku": "REC-011",
         "price": "32900",
         "image": "placeholder.jpg"
@@ -4755,11 +3547,7 @@
             "description": "Laca de fijación media Medium Finishing. Presentación de 280ml."
         },
         "brand": "Recamier",
-        "collections": [
-            "cuidado-capilar",
-            "recamier",
-            "especializados"
-        ],
+        "collections": ["cuidado-capilar", "recamier", "especializados"],
         "sku": "REC-012",
         "price": "43900",
         "image": "placeholder.jpg"
@@ -4770,12 +3558,7 @@
             "description": "Kit Platinum con shampoo y tratamiento de 1 litro. Para cabellos blancos y rubios."
         },
         "brand": "Recamier",
-        "collections": [
-            "cuidado-capilar",
-            "recamier",
-            "shampoos",
-            "especializados"
-        ],
+        "collections": ["cuidado-capilar", "recamier", "shampoos", "especializados"],
         "sku": "REC-013",
         "price": "104900",
         "image": "placeholder.jpg"
@@ -4786,12 +3569,7 @@
             "description": "Kit para rizos con shampoo y acondicionador de 1 litro. Define y controla rizos."
         },
         "brand": "Recamier",
-        "collections": [
-            "cuidado-capilar",
-            "recamier",
-            "shampoos",
-            "rizos"
-        ],
+        "collections": ["cuidado-capilar", "recamier", "shampoos", "rizos"],
         "sku": "REC-014",
         "price": "114900",
         "image": "placeholder.jpg"
@@ -4802,12 +3580,7 @@
             "description": "Acondicionador con keratina Ultra Force. Formato profesional de 1 litro."
         },
         "brand": "Recamier",
-        "collections": [
-            "cuidado-capilar",
-            "recamier",
-            "reparacion",
-            "anti-caida"
-        ],
+        "collections": ["cuidado-capilar", "recamier", "reparacion", "anti-caida"],
         "sku": "REC-015",
         "price": "54900",
         "image": "placeholder.jpg"
@@ -4818,12 +3591,7 @@
             "description": "Acondicionador con keratina Ultra Force en presentación de 300ml."
         },
         "brand": "Recamier",
-        "collections": [
-            "cuidado-capilar",
-            "recamier",
-            "reparacion",
-            "anti-caida"
-        ],
+        "collections": ["cuidado-capilar", "recamier", "reparacion", "anti-caida"],
         "sku": "REC-016",
         "price": "31900",
         "image": "placeholder.jpg"
@@ -4834,13 +3602,7 @@
             "description": "Shampoo profesional Braziliss con keratina vegana. Alisado brasileño en 500ml."
         },
         "brand": "Recamier",
-        "collections": [
-            "cuidado-capilar",
-            "recamier",
-            "shampoos",
-            "alisado",
-            "reparacion"
-        ],
+        "collections": ["cuidado-capilar", "recamier", "shampoos", "alisado", "reparacion"],
         "sku": "REC-017",
         "price": "53900",
         "image": "placeholder.jpg"
@@ -4851,12 +3613,7 @@
             "description": "Shampoo con keratina vegana y colágeno. Presentación de 1000ml."
         },
         "brand": "Recamier",
-        "collections": [
-            "cuidado-capilar",
-            "recamier",
-            "shampoos",
-            "reparacion"
-        ],
+        "collections": ["cuidado-capilar", "recamier", "shampoos", "reparacion"],
         "sku": "REC-018",
         "price": "39500",
         "image": "placeholder.jpg"
@@ -4867,12 +3624,7 @@
             "description": "Kit Hydra para cabello seco con shampoo y acondicionador. Hidratación intensiva."
         },
         "brand": "Recamier",
-        "collections": [
-            "cuidado-capilar",
-            "recamier",
-            "shampoos",
-            "hidratacion"
-        ],
+        "collections": ["cuidado-capilar", "recamier", "shampoos", "hidratacion"],
         "sku": "REC-019",
         "price": "114900",
         "image": "placeholder.jpg"
@@ -4883,11 +3635,7 @@
             "description": "Kit Vitane para hombres con shampoo 400ml y gel 110g gratis. Línea masculina."
         },
         "brand": "Recamier",
-        "collections": [
-            "cuidado-capilar",
-            "recamier",
-            "shampoos"
-        ],
+        "collections": ["cuidado-capilar", "recamier", "shampoos"],
         "sku": "REC-020",
         "price": "34900",
         "image": "placeholder.jpg"
@@ -4898,12 +3646,7 @@
             "description": "Shampoo Vitane Men para control de caspa. Presentación de 400ml."
         },
         "brand": "Recamier",
-        "collections": [
-            "cuidado-capilar",
-            "recamier",
-            "shampoos",
-            "especializados"
-        ],
+        "collections": ["cuidado-capilar", "recamier", "shampoos", "especializados"],
         "sku": "REC-021",
         "price": "34900",
         "image": "placeholder.jpg"
@@ -4914,12 +3657,7 @@
             "description": "Shampoo Vitane Men anti-caída en presentación de 220ml. Línea masculina."
         },
         "brand": "Recamier",
-        "collections": [
-            "cuidado-capilar",
-            "recamier",
-            "shampoos",
-            "anti-caida"
-        ],
+        "collections": ["cuidado-capilar", "recamier", "shampoos", "anti-caida"],
         "sku": "REC-022",
         "price": "22900",
         "image": "placeholder.jpg"
@@ -4930,12 +3668,7 @@
             "description": "Kit Green Forest completo con shampoo y acondicionador. Línea verde profesional."
         },
         "brand": "Recamier",
-        "collections": [
-            "cuidado-capilar",
-            "recamier",
-            "shampoos",
-            "especializados"
-        ],
+        "collections": ["cuidado-capilar", "recamier", "shampoos", "especializados"],
         "sku": "REC-023",
         "price": "119900",
         "image": "placeholder.jpg"
@@ -4946,12 +3679,7 @@
             "description": "Shampoo con keratina vegana y colágeno. Formato de 1 litro."
         },
         "brand": "Recamier",
-        "collections": [
-            "cuidado-capilar",
-            "recamier",
-            "shampoos",
-            "reparacion"
-        ],
+        "collections": ["cuidado-capilar", "recamier", "shampoos", "reparacion"],
         "sku": "REC-024",
         "price": "41900",
         "image": "placeholder.jpg"
@@ -4962,11 +3690,7 @@
             "description": "Acondicionador Color Guard para proteger el color. Presentación de 1 litro."
         },
         "brand": "Recamier",
-        "collections": [
-            "cuidado-capilar",
-            "recamier",
-            "especializados"
-        ],
+        "collections": ["cuidado-capilar", "recamier", "especializados"],
         "sku": "REC-025",
         "price": "54900",
         "image": "placeholder.jpg"
@@ -4977,12 +3701,7 @@
             "description": "Acondicionador Hydra Repair en formato profesional de 1 litro. Hidratación profunda."
         },
         "brand": "Recamier",
-        "collections": [
-            "cuidado-capilar",
-            "recamier",
-            "hidratacion",
-            "reparacion"
-        ],
+        "collections": ["cuidado-capilar", "recamier", "hidratacion", "reparacion"],
         "sku": "REC-026",
         "price": "54900",
         "image": "placeholder.jpg"
@@ -4993,11 +3712,7 @@
             "description": "Acondicionador con keratina vegana y colágeno. Presentación de 1 litro."
         },
         "brand": "Recamier",
-        "collections": [
-            "cuidado-capilar",
-            "recamier",
-            "reparacion"
-        ],
+        "collections": ["cuidado-capilar", "recamier", "reparacion"],
         "sku": "REC-027",
         "price": "42900",
         "image": "placeholder.jpg"
@@ -5008,11 +3723,7 @@
             "description": "Tratamiento Platinum para cabellos blancos y rubios. Presentación de 250ml."
         },
         "brand": "Recamier",
-        "collections": [
-            "cuidado-capilar",
-            "recamier",
-            "especializados"
-        ],
+        "collections": ["cuidado-capilar", "recamier", "especializados"],
         "sku": "REC-028",
         "price": "35900",
         "image": "placeholder.jpg"
@@ -5023,12 +3734,7 @@
             "description": "Mascarilla de keratina vegana para tratamiento intensivo. Presentación de 500g."
         },
         "brand": "Recamier",
-        "collections": [
-            "cuidado-capilar",
-            "recamier",
-            "reparacion",
-            "hidratacion"
-        ],
+        "collections": ["cuidado-capilar", "recamier", "reparacion", "hidratacion"],
         "sku": "REC-029",
         "price": "47900",
         "image": "placeholder.jpg"
@@ -5039,12 +3745,7 @@
             "description": "Tratamiento profesional para rizos y ondas. Define y controla."
         },
         "brand": "Recamier",
-        "collections": [
-            "cuidado-capilar",
-            "recamier",
-            "rizos",
-            "especializados"
-        ],
+        "collections": ["cuidado-capilar", "recamier", "rizos", "especializados"],
         "sku": "REC-030",
         "price": "31900",
         "image": "placeholder.jpg"
@@ -5055,11 +3756,7 @@
             "description": "Termoprotector con keratina vegana y colágeno. Protege del calor."
         },
         "brand": "Recamier",
-        "collections": [
-            "cuidado-capilar",
-            "recamier",
-            "especializados"
-        ],
+        "collections": ["cuidado-capilar", "recamier", "especializados"],
         "sku": "REC-031",
         "price": "37500",
         "image": "placeholder.jpg"
@@ -5070,12 +3767,7 @@
             "description": "Shot de keratina individual de 15ml. Tratamiento intensivo express."
         },
         "brand": "Recamier",
-        "collections": [
-            "cuidado-capilar",
-            "recamier",
-            "ampolletas",
-            "reparacion"
-        ],
+        "collections": ["cuidado-capilar", "recamier", "ampolletas", "reparacion"],
         "sku": "REC-032",
         "price": "12000",
         "image": "placeholder.jpg"
@@ -5086,12 +3778,7 @@
             "description": "Shampoo Green Forest en presentación profesional de 1 litro."
         },
         "brand": "Recamier",
-        "collections": [
-            "cuidado-capilar",
-            "recamier",
-            "shampoos",
-            "especializados"
-        ],
+        "collections": ["cuidado-capilar", "recamier", "shampoos", "especializados"],
         "sku": "REC-033",
         "price": "54900",
         "image": "placeholder.jpg"
@@ -5102,13 +3789,7 @@
             "description": "Tratamiento de keratina paso 2 profesional. Presentación de 1000ml para salón."
         },
         "brand": "Recamier",
-        "collections": [
-            "cuidado-capilar",
-            "recamier",
-            "reparacion",
-            "alisado",
-            "especializados"
-        ],
+        "collections": ["cuidado-capilar", "recamier", "reparacion", "alisado", "especializados"],
         "sku": "REC-034",
         "price": "259900",
         "image": "placeholder.jpg"
@@ -5119,12 +3800,7 @@
             "description": "Tratamiento Hydra sin enjuague para hidratación continua. Presentación de 300ml."
         },
         "brand": "Recamier",
-        "collections": [
-            "cuidado-capilar",
-            "recamier",
-            "hidratacion",
-            "especializados"
-        ],
+        "collections": ["cuidado-capilar", "recamier", "hidratacion", "especializados"],
         "sku": "REC-035",
         "price": "31900",
         "image": "placeholder.jpg"
@@ -5135,12 +3811,7 @@
             "description": "Spray de brillo Hair Gloss. Aporta luminosidad instantánea en 280ml."
         },
         "brand": "Recamier",
-        "collections": [
-            "cuidado-capilar",
-            "recamier",
-            "brillo",
-            "especializados"
-        ],
+        "collections": ["cuidado-capilar", "recamier", "brillo", "especializados"],
         "sku": "REC-036",
         "price": "44000",
         "image": "placeholder.jpg"
@@ -5151,11 +3822,7 @@
             "description": "Tratamiento intensificador de color Platinum para rubios. Presentación de 1 litro."
         },
         "brand": "Recamier",
-        "collections": [
-            "cuidado-capilar",
-            "recamier",
-            "especializados"
-        ],
+        "collections": ["cuidado-capilar", "recamier", "especializados"],
         "sku": "REC-037",
         "price": "54900",
         "image": "placeholder.jpg"
@@ -5166,11 +3833,7 @@
             "description": "Cera mate para acabado despeinado y texturizado. Presentación de 150g."
         },
         "brand": "Recamier",
-        "collections": [
-            "cuidado-capilar",
-            "recamier",
-            "especializados"
-        ],
+        "collections": ["cuidado-capilar", "recamier", "especializados"],
         "sku": "REC-038",
         "price": "41900",
         "image": "placeholder.jpg"
@@ -5181,12 +3844,7 @@
             "description": "Mascarilla capilar intensiva nivel 3. Tratamiento profundo en 500ml."
         },
         "brand": "Recamier",
-        "collections": [
-            "cuidado-capilar",
-            "recamier",
-            "reparacion",
-            "hidratacion"
-        ],
+        "collections": ["cuidado-capilar", "recamier", "reparacion", "hidratacion"],
         "sku": "REC-039",
         "price": "69900",
         "image": "placeholder.jpg"
@@ -5197,12 +3855,7 @@
             "description": "Tratamiento de keratina Ultra Force. Presentación de 300ml."
         },
         "brand": "Recamier",
-        "collections": [
-            "cuidado-capilar",
-            "recamier",
-            "reparacion",
-            "anti-caida"
-        ],
+        "collections": ["cuidado-capilar", "recamier", "reparacion", "anti-caida"],
         "sku": "REC-040",
         "price": "31900",
         "image": "placeholder.jpg"
@@ -5213,12 +3866,7 @@
             "description": "Tratamiento Keratin Force sin enjuague. Presentación de 300g."
         },
         "brand": "Recamier",
-        "collections": [
-            "cuidado-capilar",
-            "recamier",
-            "reparacion",
-            "especializados"
-        ],
+        "collections": ["cuidado-capilar", "recamier", "reparacion", "especializados"],
         "sku": "REC-041",
         "price": "31900",
         "image": "placeholder.jpg"
@@ -5229,11 +3877,7 @@
             "description": "Cera mate clásica para peinado y textura. Presentación de 70g."
         },
         "brand": "Recamier",
-        "collections": [
-            "cuidado-capilar",
-            "recamier",
-            "especializados"
-        ],
+        "collections": ["cuidado-capilar", "recamier", "especializados"],
         "sku": "REC-042",
         "price": "29900",
         "image": "placeholder.jpg"
@@ -5244,11 +3888,7 @@
             "description": "Tratamiento Green Forest de la línea profesional Salon In. Presentación de 250ml."
         },
         "brand": "Recamier",
-        "collections": [
-            "cuidado-capilar",
-            "recamier",
-            "especializados"
-        ],
+        "collections": ["cuidado-capilar", "recamier", "especializados"],
         "sku": "REC-043",
         "price": "45900",
         "image": "placeholder.jpg"
@@ -5259,11 +3899,7 @@
             "description": "Tratamiento intensificador de color negro Salon In. Presentación de 250ml."
         },
         "brand": "Recamier",
-        "collections": [
-            "cuidado-capilar",
-            "recamier",
-            "especializados"
-        ],
+        "collections": ["cuidado-capilar", "recamier", "especializados"],
         "sku": "REC-044",
         "price": "40900",
         "image": "placeholder.jpg"
@@ -5274,12 +3910,7 @@
             "description": "Tratamiento sin enjuague con keratina vegana y colágeno. Presentación de 500ml."
         },
         "brand": "Recamier",
-        "collections": [
-            "cuidado-capilar",
-            "recamier",
-            "reparacion",
-            "especializados"
-        ],
+        "collections": ["cuidado-capilar", "recamier", "reparacion", "especializados"],
         "sku": "REC-045",
         "price": "42900",
         "image": "placeholder.jpg"
@@ -5290,11 +3921,7 @@
             "description": "Espuma moldeadora Adapta Foam nivel 2. Fijación media en 280ml."
         },
         "brand": "Recamier",
-        "collections": [
-            "cuidado-capilar",
-            "recamier",
-            "especializados"
-        ],
+        "collections": ["cuidado-capilar", "recamier", "especializados"],
         "sku": "REC-046",
         "price": "68200",
         "image": "placeholder.jpg"
@@ -5305,11 +3932,7 @@
             "description": "Cera profesional Salon In para volumen y acabado. Presentación de 70g."
         },
         "brand": "Recamier",
-        "collections": [
-            "cuidado-capilar",
-            "recamier",
-            "especializados"
-        ],
+        "collections": ["cuidado-capilar", "recamier", "especializados"],
         "sku": "REC-047",
         "price": "39900",
         "image": "placeholder.jpg"
@@ -5320,172 +3943,14 @@
             "description": "Tinte Green Forest Salon In color 5.42 castaño claro cobrizo irisado."
         },
         "brand": "Recamier",
-        "collections": [
-            "cuidado-capilar",
-            "recamier",
-            "especializados"
-        ],
+        "collections": ["cuidado-capilar", "recamier", "especializados"],
         "sku": "REC-048",
         "price": "36900",
         "image": "placeholder.jpg"
-    },
-    {
-        "attributes": {
-            "name": "Schwarzkopf Igora Royal Tintura Permanente",
-            "description": "Coloración profesional permanente con tecnología de pigmentos de alta definición. Cobertura 100% de canas, color intenso y duradero con máximo brillo. Fórmula con agentes acondicionadores que protegen el cabello durante la coloración. Contenido: 60ml."
-        },
-        "brand": "Schwarzkopf",
-        "collections": [
-            "cuidado-capilar",
-            "schwarzkopf",
-            "tinturas"
-        ],
-        "sku": "IGR-BASE",
-        "image": "placeholder.jpg",
-        "options": [
-            {
-                "name": "Tonalidad",
-                "values": [
-                    "1-1 Azul Negro",
-                    "2-1 Negro Azulado",
-                    "3-0 Castaño Oscuro",
-                    "3-65 Castaño Oscuro Chocolate Oro",
-                    "4-0 Castaño Medio",
-                    "4-88 Castaño Medio Rojo Extra",
-                    "5-0 Castaño Claro",
-                    "5-65 Castaño Claro Chocolate Oro",
-                    "6-0 Rubio Oscuro",
-                    "6-77 Rubio Oscuro Cobre Extra",
-                    "7-0 Rubio Medio",
-                    "7-77 Rubio Medio Cobre Extra",
-                    "8-0 Rubio Claro",
-                    "9-0 Rubio Muy Claro",
-                    "9-5-18 Rubio Perla Cendre",
-                    "10-0 Rubio Ultra Claro",
-                    "12-19 Especial Rubia Cendre Violeta"
-                ]
-            }
-        ],
-        "variants": [
-            {
-                "sku": "IGR-001",
-                "price": "32900",
-                "values": [
-                    "1-1 Azul Negro"
-                ]
-            },
-            {
-                "sku": "IGR-002",
-                "price": "32900",
-                "values": [
-                    "2-1 Negro Azulado"
-                ]
-            },
-            {
-                "sku": "IGR-003",
-                "price": "32900",
-                "values": [
-                    "3-0 Castaño Oscuro"
-                ]
-            },
-            {
-                "sku": "IGR-004",
-                "price": "32900",
-                "values": [
-                    "3-65 Castaño Oscuro Chocolate Oro"
-                ]
-            },
-            {
-                "sku": "IGR-005",
-                "price": "32900",
-                "values": [
-                    "4-0 Castaño Medio"
-                ]
-            },
-            {
-                "sku": "IGR-006",
-                "price": "32900",
-                "values": [
-                    "4-88 Castaño Medio Rojo Extra"
-                ]
-            },
-            {
-                "sku": "IGR-007",
-                "price": "32900",
-                "values": [
-                    "5-0 Castaño Claro"
-                ]
-            },
-            {
-                "sku": "IGR-008",
-                "price": "32900",
-                "values": [
-                    "5-65 Castaño Claro Chocolate Oro"
-                ]
-            },
-            {
-                "sku": "IGR-009",
-                "price": "32900",
-                "values": [
-                    "6-0 Rubio Oscuro"
-                ]
-            },
-            {
-                "sku": "IGR-010",
-                "price": "32900",
-                "values": [
-                    "6-77 Rubio Oscuro Cobre Extra"
-                ]
-            },
-            {
-                "sku": "IGR-011",
-                "price": "32900",
-                "values": [
-                    "7-0 Rubio Medio"
-                ]
-            },
-            {
-                "sku": "IGR-012",
-                "price": "32900",
-                "values": [
-                    "7-77 Rubio Medio Cobre Extra"
-                ]
-            },
-            {
-                "sku": "IGR-013",
-                "price": "32900",
-                "values": [
-                    "8-0 Rubio Claro"
-                ]
-            },
-            {
-                "sku": "IGR-014",
-                "price": "32900",
-                "values": [
-                    "9-0 Rubio Muy Claro"
-                ]
-            },
-            {
-                "sku": "IGR-015",
-                "price": "32900",
-                "values": [
-                    "9-5-18 Rubio Perla Cendre"
-                ]
-            },
-            {
-                "sku": "IGR-016",
-                "price": "32900",
-                "values": [
-                    "10-0 Rubio Ultra Claro"
-                ]
-            },
-            {
-                "sku": "IGR-017",
-                "price": "32900",
-                "values": [
-                    "12-19 Especial Rubia Cendre Violeta"
-                ]
-            }
-        ]
     }
 ]
+        
+
+
+
+

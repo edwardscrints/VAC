@@ -1,22 +1,46 @@
-<footer class="bg-cyber-dark/80 backdrop-blur-sm border-t-2 border-cyber-pink relative overflow-hidden">
-    <!-- Efectos de brillo en el borde superior -->
-    <div class="absolute top-0 left-0 w-full h-0.5 bg-gradient-to-r from-cyber-yellow via-cyber-pink to-cyber-bright-yellow"></div>
-    
-    <div class="max-w-screen-xl px-4 py-12 mx-auto sm:px-6 lg:px-8 relative z-10">
-        <x-brand.logo class="w-auto h-8 text-cyber-pink drop-shadow-cyber-pink" />
+<footer class="bg-white border-t border-gray-200">
+    <div class="max-w-screen-xl px-4 py-12 mx-auto sm:px-6 lg:px-8">
+        <div class="grid grid-cols-1 gap-8 lg:grid-cols-3">
+            <!-- Logo y descripción -->
+            <div>
+                <x-brand.logo class="w-auto h-8 text-gray-800" />
+                <p class="max-w-sm mt-4 text-sm text-gray-600 leading-relaxed">
+                    @vacultura
+                    <br>
+                    🌐 Agenciamiento Cultural
+                    <br> 
+                    Divulgamos, Creamos, Producimos y Circulamos Saberes
+                </p>
+            </div>
 
-        <p class="max-w-sm mt-4 text-cyber-yellow drop-shadow-cyber-yellow">
-            @vacultura
-            🌐Agenciamiento Cultural.
-            <br> 
-            Divulgamos, Creamos, Producimos y Circulamos Saberes
-        </p>
+            <!-- Enlaces rápidos -->
+            <div class="grid grid-cols-2 gap-8 lg:col-span-2">
+                <div>
+                    <p class="font-semibold text-gray-900 text-sm uppercase tracking-wider">Productos</p>
+                    <nav class="flex flex-col mt-4 space-y-2 text-sm text-gray-600">
+                        <a class="hover:text-gray-900 transition-colors" href="/collections/cuidado-capilar">Cuidado Capilar</a>
+                        <a class="hover:text-gray-900 transition-colors" href="/collections/tintes">Tintes</a>
+                        <a class="hover:text-gray-900 transition-colors" href="/collections/hidratacion">Hidratación</a>
+                        <a class="hover:text-gray-900 transition-colors" href="/collections/reparacion">Reparación</a>
+                    </nav>
+                </div>
 
-        <p class="pt-4 mt-4 text-sm text-cyber-pink/80 border-t border-cyber-pink/30">
-            &copy; {{ now()->year }} VAC - Todos los derechos reservados.
-        </p>
+                <div>
+                    <p class="font-semibold text-gray-900 text-sm uppercase tracking-wider">Información</p>
+                    <nav class="flex flex-col mt-4 space-y-2 text-sm text-gray-600">
+                        <a class="hover:text-gray-900 transition-colors" href="#">Sobre Nosotros</a>
+                        <a class="hover:text-gray-900 transition-colors" href="#">Términos y Condiciones</a>
+                        <a class="hover:text-gray-900 transition-colors" href="#">Política de Privacidad</a>
+                        <a class="hover:text-gray-900 transition-colors" href="#">Contacto</a>
+                    </nav>
+                </div>
+            </div>
+        </div>
+
+        <div class="pt-8 mt-8 border-t border-gray-200">
+            <p class="text-xs text-center text-gray-500">
+                &copy; {{ now()->year }} VAC - Vida Arte y Cultura. Todos los derechos reservados.
+            </p>
+        </div>
     </div>
-    
-    <!-- Efecto de brillo sutil en el fondo -->
-    <div class="absolute bottom-0 right-1/4 w-64 h-64 bg-cyber-pink/10 rounded-full filter blur-[100px] pointer-events-none"></div>
 </footer>

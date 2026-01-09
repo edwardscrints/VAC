@@ -1,0 +1,157 @@
+RECAMIER - URLs de Imágenes de Productos
+==========================================
+
+REC-001 - Shampoo + Acondicionador Liss
+https://media.falabella.com.co/falabellaCO/145053719_01/width=480,height=480,quality=70,format=webp,fit=pad
+
+REC-002 - Shampoo Acondicionador Vegan Keratin
+https://media.falabella.com.co/falabellaCO/144199879_01/width=480,height=480,quality=70,format=webp,fit=pad
+
+REC-003 - Shampoo Green Forest Salon In 300ml
+https://media.falabella.com.co/falabellaCO/147224338_01/width=480,height=480,quality=70,format=webp,fit=pad
+
+REC-004 - Tratamiento Hydra Repair 300g
+https://media.falabella.com.co/falabellaCO/140481437_01/width=480,height=480,quality=70,format=webp,fit=pad
+
+REC-005 - Kit Vegan Keratin
+https://media.falabella.com.co/falabellaCO/146297485_01/width=480,height=480,quality=70,format=webp,fit=pad
+
+REC-006 - Acondicionador Curls & Waves 1L
+https://media.falabella.com.co/falabellaCO/144199914_01/width=480,height=480,quality=70,format=webp,fit=pad
+
+REC-007 - Acondicionador Liss Control 1L
+https://media.falabella.com.co/falabellaCO/139000602_01/width=480,height=480,quality=70,format=webp,fit=pad
+
+REC-008 - Shampoo Liss Control 1L
+https://media.falabella.com.co/falabellaCO/139000555_01/width=480,height=480,quality=70,format=webp,fit=pad
+
+REC-009 - Shampoo + Acondicionador Ultra Force
+https://media.falabella.com.co/falabellaCO/146894163_01/width=480,height=480,quality=70,format=webp,fit=pad
+
+REC-010 - Shampoo Hydra Repair 1L
+https://media.falabella.com.co/falabellaCO/139000449_01/width=480,height=480,quality=70,format=webp,fit=pad
+
+REC-011 - Acondicionador Pro Fortex 300ml
+https://media.falabella.com.co/falabellaCO/128333364_01/width=480,height=480,quality=70,format=webp,fit=pad
+
+REC-012 - Laca 2 Medium Finishing 280ml
+https://media.falabella.com.co/falabellaCO/135065450_01/width=480,height=480,quality=70,format=webp,fit=pad
+
+REC-013 - Shampoo + Tratamiento Platinum 1L
+https://media.falabella.com.co/falabellaCO/127152398_01/width=480,height=480,quality=70,format=webp,fit=pad
+
+REC-014 - Shampoo + Acondicionador Curl 1L
+https://media.falabella.com.co/falabellaCO/138492917_01/width=480,height=480,quality=70,format=webp,fit=pad
+
+REC-015 - Acondicionador Keratin Ultra Force 1L
+https://media.falabella.com.co/falabellaCO/144199958_01/width=480,height=480,quality=70,format=webp,fit=pad
+
+REC-016 - Acondicionador Kerat Ultra Force 300ml
+https://media.falabella.com.co/falabellaCO/127173732_01/width=480,height=480,quality=70,format=webp,fit=pad
+
+REC-017 - Shampoo Braziliss Vegan Keratin Professional 500ml
+https://media.falabella.com.co/falabellaCO/144951814_01/width=480,height=480,quality=70,format=webp,fit=pad
+
+REC-018 - Shampoo Vegan Keratin & Collagen 1000ml
+https://media.falabella.com.co/falabellaCO/147192842_01/width=480,height=480,quality=70,format=webp,fit=pad
+
+REC-019 - Kit Hydra Shampoo + Acond Cabello Seco
+https://media.falabella.com.co/falabellaCO/144200049_01/width=480,height=480,quality=70,format=webp,fit=pad
+
+REC-020 - Kit Vitane Shampoo Men 400ml + Gel 110g
+https://media.falabella.com.co/falabellaCO/144860096_01/width=480,height=480,quality=70,format=webp,fit=pad
+
+REC-021 - Shampoo Control Caspa Vitane Men 400ml
+https://media.falabella.com.co/falabellaCO/144696992_01/width=480,height=480,quality=70,format=webp,fit=pad
+
+REC-022 - Shampoo Control Caida Vitane Men 220ml
+https://media.falabella.com.co/falabellaCO/144696750_01/width=480,height=480,quality=70,format=webp,fit=pad
+
+REC-023 - Kit Green Forest Shampoo + Acondicionador
+https://media.falabella.com.co/falabellaCO/147049704_01/width=480,height=480,quality=70,format=webp,fit=pad
+
+REC-024 - Shampoo Vegan Keratin Collagen 1L
+https://media.falabella.com.co/falabellaCO/138345114_01/width=480,height=480,quality=70,format=webp,fit=pad
+
+REC-025 - Acondicionador Color Guard 1L
+https://media.falabella.com.co/falabellaCO/139000540_01/width=480,height=480,quality=70,format=webp,fit=pad
+
+REC-026 - Acondicionador Hydra Repair 1L
+https://media.falabella.com.co/falabellaCO/139000496_01/width=480,height=480,quality=70,format=webp,fit=pad
+
+REC-027 - Vegan Keratin Collagen Acondicionador 1L
+https://media.falabella.com.co/falabellaCO/138303888_01/width=480,height=480,quality=70,format=webp,fit=pad
+
+REC-028 - Tratamiento Platinum 250ml
+https://media.falabella.com.co/falabellaCO/135302473_01/width=480,height=480,quality=70,format=webp,fit=pad
+
+REC-029 - Mask Vegan Keratin 500g
+https://media.falabella.com.co/falabellaCO/133880698_01/width=480,height=480,quality=70,format=webp,fit=pad
+
+REC-030 - Tratamiento +Pro Curls & Waves
+https://media.falabella.com.co/falabellaCO/130132192_01/width=480,height=480,quality=70,format=webp,fit=pad
+
+REC-031 - Vegan Keratin & Collagen Termoprotector
+https://media.falabella.com.co/falabellaCO/145805466_01/width=480,height=480,quality=70,format=webp,fit=pad
+
+REC-032 - Shot Keratin Unidad 15ml
+https://media.falabella.com.co/falabellaCO/127071646_01/width=480,height=480,quality=70,format=webp,fit=pad
+
+REC-033 - Shampoo Green Forest 1L
+https://media.falabella.com.co/falabellaCO/126191146_01/width=480,height=480,quality=70,format=webp,fit=pad
+
+REC-034 - Tratamiento Keratina Paso 2 1000ml
+https://media.falabella.com.co/falabellaCO/148825461_01/width=480,height=480,quality=70,format=webp,fit=pad
+
+REC-035 - Tratamiento Hydra Leave On 300ml
+https://media.falabella.com.co/falabellaCO/127173563_01/width=480,height=480,quality=70,format=webp,fit=pad
+
+REC-036 - Spray Hair Gloss 280ml
+https://media.falabella.com.co/falabellaCO/149559488_01/width=480,height=480,quality=70,format=webp,fit=pad
+
+REC-037 - Color Intensifier Treatment Platinum 1L
+https://media.falabella.com.co/falabellaCO/144200012_01/width=480,height=480,quality=70,format=webp,fit=pad
+
+REC-038 - Cera 2 Matte Y Messy 150g
+https://media.falabella.com.co/falabellaCO/126335632_01/width=480,height=480,quality=70,format=webp,fit=pad
+
+REC-039 - Mascarilla Capilar Intensiva 3 500ml
+https://media.falabella.com.co/falabellaCO/144952039_01/width=480,height=480,quality=70,format=webp,fit=pad
+
+REC-040 - Tratamiento Kerat Ultra Force 300ml
+https://media.falabella.com.co/falabellaCO/127173771_01/width=480,height=480,quality=70,format=webp,fit=pad
+
+REC-041 - Tratamiento Keratin Force Leave On 300g
+https://media.falabella.com.co/falabellaCO/127173994_01/width=480,height=480,quality=70,format=webp,fit=pad
+
+REC-042 - Cera 1 Classic Matte Wax 70g
+https://media.falabella.com.co/falabellaCO/126331024_01/width=480,height=480,quality=70,format=webp,fit=pad
+
+REC-043 - Tratamiento Green Forest Salon In 250ml
+https://media.falabella.com.co/falabellaCO/147072562_01/width=480,height=480,quality=70,format=webp,fit=pad
+
+REC-044 - Tratamiento Color Intensifier Black Salon In 250ml
+https://media.falabella.com.co/falabellaCO/147212238_01/width=480,height=480,quality=70,format=webp,fit=pad
+
+REC-045 - Tratamiento Vegan Keratin Collagen Leave On 500ml
+https://media.falabella.com.co/falabellaCO/147043767_01/width=480,height=480,quality=70,format=webp,fit=pad
+
+REC-046 - Adapta Foam Mousse #2 Espuma Moldeadora 280ml
+https://media.falabella.com.co/falabellaCO/147154140_01/width=480,height=480,quality=70,format=webp,fit=pad
+
+REC-047 - Cera Professional Salon In Finishing Volumen Wax 1 70g
+https://media.falabella.com.co/falabellaCO/147387454_01/width=480,height=480,quality=70,format=webp,fit=pad
+
+REC-048 - Tinte Green Forest SalonIn 5.42 Castaño Claro Cobrizo Irisado
+https://media.falabella.com.co/falabellaCO/137435717_01/width=480,height=480,quality=70,format=webp,fit=pad
+
+==========================================
+Total: 48 productos Recamier
+Formato de imagen: WebP 480x480px
+Fuente: Falabella Colombia
+
+INSTRUCCIONES PARA DESCARGAR:
+1. Puedes usar estas URLs directamente en un navegador
+2. Para descarga masiva, puedes usar un script de PowerShell o un descargador de imágenes
+3. Las imágenes están en formato WebP de alta calidad (480x480px)
+4. Guarda las imágenes con el nombre del SKU para facilitar la identificación

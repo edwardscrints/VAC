@@ -2,10 +2,11 @@
 @tailwind components;
 @tailwind utilities;
 
-/* Estilos Cyberpunk Globales */
+/* Estilos Cyberpunk con fondo claro */
 @layer base {
     body {
-        @apply bg-cyber-dark text-white;
+        background-color: rgb(240 242 250 / 95%) !important;
+        color: #1a1a2e;
     }
 }
 
@@ -21,38 +22,40 @@
     
     /* Card Cyberpunk */
     .cyber-card {
-        @apply bg-cyber-blue/90 backdrop-blur-sm rounded-3xl shadow-2xl border-2 border-cyber-pink;
+        @apply bg-white/90 backdrop-blur-sm rounded-3xl shadow-2xl border-2 border-cyber-pink;
         @apply transform hover:scale-105 transition duration-300 relative overflow-hidden;
-        box-shadow: 0 0 30px rgba(255, 0, 255, 0.55), 0 0 60px rgba(255, 0, 255, 0.1);
+        box-shadow: 0 0 30px rgba(235, 37, 14, 0.55), 0 0 60px rgba(235, 37, 14, 0.1);
     }
     
     .cyber-card-yellow {
-        @apply bg-cyber-blue/90 backdrop-blur-sm rounded-3xl shadow-2xl border-2 border-cyber-yellow;
+        @apply bg-white/85 backdrop-blur-sm rounded-3xl shadow-2xl border-2 border-cyber-yellow;
         @apply transform hover:scale-105 transition duration-300 relative overflow-hidden;
-        box-shadow: 0 0 30px rgba(204, 255, 0, 0.87), 0 0 60px rgba(255, 0, 255, 0.1);
+        box-shadow: 0 0 30px rgba(204, 255, 0, 0.87), 0 0 60px rgba(235, 37, 14, 0.1);
     }
     
     /* Texto Cyberpunk */
     .cyber-text-pink {
-        @apply text-cyber-pink font-extrabold tracking-widest uppercase;
-        text-shadow: 0 0 10px rgba(255, 0, 255, 0.8);
+        @apply font-extrabold tracking-widest uppercase;
+        color: rgb(235 37 14);
+        text-shadow: 0 0 10px rgba(235, 37, 14, 0.8);
     }
     
     .cyber-text-yellow {
-        @apply text-cyber-yellow font-extrabold tracking-widest uppercase;
-        text-shadow: 0 0 10px rgba(204, 255, 0, 0.8);
+        @apply font-extrabold tracking-widest uppercase;
+        color: rgb(12 10 10);
+        text-shadow: none;
     }
     
     /* Botón Cyberpunk */
     .cyber-button {
         @apply bg-cyber-pink text-white font-bold py-3 px-8 rounded-xl;
         @apply border-2 border-cyber-pink transform hover:scale-105 transition duration-300;
-        box-shadow: 0 0 20px rgba(255, 0, 255, 0.6);
+        box-shadow: 0 0 20px rgba(235, 37, 14, 0.6);
     }
     
     .cyber-button:hover {
-        @apply bg-cyber-pink/80;
-        box-shadow: 0 0 30px rgba(255, 0, 255, 0.9);
+        @apply bg-cyber-pink/90 text-white;
+        box-shadow: 0 0 30px rgba(235, 37, 14, 0.9);
     }
     
     /* Efectos de brillo */

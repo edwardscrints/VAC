@@ -1,18 +1,146 @@
 [
     {
-        "name": "Arte",
-        "description": "Colección de productos de arte."
+        "name": "Cuidado Capilar",
+        "description": "Línea completa de productos para el cuidado y tratamiento del cabello. Incluye shampoos, tratamientos, aceites y productos especializados."
     },
     {
-        "name": "La Revista",
-        "description": "Colección de nuestra revista."
+        "name": "Reparación",
+        "description": "Productos reparadores intensivos para cabello dañado y maltratado. Restaura la fibra capilar desde el interior."
     },
     {
-        "name": "Tecnología",
-        "description": "Colección de productos de tecnología."
+        "name": "Hidratación",
+        "description": "Fórmulas hidratantes profundas que nutren y suavizan el cabello seco. Devuelve la sedosidad y brillo natural."
     },
     {
-        "name": "Belleza",
-        "description": "Colección de productos de belleza."
+        "name": "Anti-Caída",
+        "description": "Tratamientos especializados que fortalecen las raíces y previenen la caída del cabello. Estimulan el crecimiento capilar."
+    },
+    {
+        "name": "Especializados",
+        "description": "Productos especializados para necesidades específicas del cabello. Incluye tratamientos para caspa, crecimiento, rizos y más."
+    },
+    {
+        "name": "Aceites Capilares",
+        "description": "Aceites naturales que nutren, protegen y fortalecen el cabello. Fórmulas con ingredientes 100% naturales."
+    },
+    {
+        "name": "Finalizadores",
+        "description": "Productos finalizadores que perfeccionan el peinado y controlan el frizz. Dan el toque final perfecto."
+    },
+    {
+        "name": "Relajante",
+        "description": "Tratamientos relajantes con ingredientes naturales que calman el cuero cabelludo y suavizan el cabello."
+    },
+    {
+        "name": "Antioxidante",
+        "description": "Fórmulas antioxidantes que protegen el cabello del envejecimiento prematuro y daños ambientales."
+    },
+    {
+        "name": "Baby Puchini",
+        "description": "Línea especializada para bebés y niños con fórmulas suaves, hipoalergénicas y libres de lágrimas."
+    },
+    {
+        "name": "Ampolletas",
+        "description": "Ampolletas de tratamiento intensivo concentrado para resultados rápidos y efectivos."
+    },
+    {
+        "name": "Cuidado Corporal",
+        "description": "Productos para el cuidado e hidratación de la piel corporal. Cremas, desodorantes y talcos."
+    },
+    {
+        "name": "Cremas",
+        "description": "Cremas corporales hidratantes con ingredientes nutritivos para piel suave y saludable."
+    },
+    {
+        "name": "Desodorantes",
+        "description": "Desodorantes de larga duración con fragancias frescas para hombres y mujeres."
+    },
+    {
+        "name": "Talcos",
+        "description": "Talcos perfumados que mantienen la piel seca y fresca todo el día."
+    },
+    {
+        "name": "Cuidado de Uñas",
+        "description": "Tratamientos fortalecedores y nutritivos para uñas débiles y quebradizas."
+    },
+    {
+        "name": "Color",
+        "description": "Línea completa de coloración capilar. Incluye tintes, decolorantes y productos para el cuidado del color."
+    },
+    {
+        "name": "Tintes",
+        "description": "Tintes permanentes y semi-permanentes en diversos colores y presentaciones. Cobertura total y color vibrante."
+    },
+    {
+        "name": "Decoloración",
+        "description": "Polvos decolorantes profesionales que aclaran el cabello hasta 7 tonos con protección."
+    },
+    {
+        "name": "Cuidado Color",
+        "description": "Productos especializados que protegen, sellan y prolongan la duración del color en cabello teñido."
+    },
+    {
+        "name": "Kit",
+        "description": "Kits completos con productos combinados para tratamientos integrales. Soluciones todo-en-uno."
+    },
+    {
+        "name": "Linea Capilar",
+        "description": "Productos especializados para el cuidado y tratamiento del cabello. Soluciones profesionales para todo tipo de cabello."
+    },
+    {
+        "name": "Linea Shampoo",
+        "description": "Shampoos especializados con diferentes ingredientes activos para cada necesidad capilar."
+    },
+    {
+        "name": "Linea Lociones Capilares",
+        "description": "Lociones y ampollas capilares intensivas con ingredientes concentrados para tratamiento profesional."
+    },
+    {
+        "name": "Linea Profesional",
+        "description": "Productos de uso profesional para salones de belleza con resultados de calidad superior."
+    },
+    {
+        "name": "Linea Fijadores",
+        "description": "Fijadores y lacas para peinados duraderos con diferentes niveles de fijación."
+    },
+    {
+        "name": "Linea Colors",
+        "description": "Línea completa de coloración capilar con tintes permanentes, decolorantes y oxidantes."
+    },
+    {
+        "name": "Linea Facial",
+        "description": "Productos para el cuidado facial con ingredientes activos anti-edad, hidratantes y nutritivos."
+    },
+    {
+        "name": "Linea Antibacterial",
+        "description": "Productos antibacteriales y desinfectantes para protección e higiene diaria."
+    },
+    {
+        "name": "Elvive",
+        "description": "Línea premium L'Oreal Elvive con tecnologías avanzadas para el cuidado profesional del cabello. Fórmulas especializadas para cada necesidad capilar."
+    },
+    {
+        "name": "Serie Expert",
+        "description": "Línea profesional L'Oreal Serie Expert diseñada para salones de belleza. Tecnologías de vanguardia con resultados de alta performance para reparación, color y tratamientos especializados."
+    },
+    {
+        "name": "Tio Nacho",
+        "description": "Marca natural mexicana con fórmulas basadas en herbolaria milenaria y jalea real. Productos anticaída, anticanas y fortalecedores con ingredientes 100% naturales que respetan la salud del cabello."
+    },
+    {
+        "name": "Naissant",
+        "description": "Marca brasileña especializada en tratamientos capilares profesionales. Línea completa de shampoos, mascarillas matizantes y elixires para todo tipo de cabello con tecnología avanzada de coloración y cuidado."
+    },
+    {
+        "name": "Lehit",
+        "description": "Marca colombiana de productos capilares multifuncionales. Tratamientos innovadores con fórmulas concentradas que combinan múltiples beneficios en un solo producto."
+    },
+    {
+        "name": "Matizantes",
+        "description": "Productos matizantes para neutralizar tonos no deseados y mantener el color vibrante. Disponibles en tonos chocolate, cobrizo, plata, negro y rojo fuego para cada necesidad de coloración."
+    },
+    {
+        "name": "Descuentos",
+        "description": "Productos seleccionados con descuentos especiales y ofertas exclusivas. ¡Aprovecha los mejores precios en productos de alta calidad!"
     }
 ]

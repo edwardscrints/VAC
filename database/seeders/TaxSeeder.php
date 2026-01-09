@@ -42,23 +42,28 @@ class TaxSeeder extends Seeder
             ]
         );
 
-        $colombiaTaxZone = TaxZone::factory()->create([
-            'name' => 'Colombia',
-            'active' => true,
-            'default' => true,
-            'zone_type' => 'country',
-        ]);
+        $colombiaTaxZone = TaxZone::firstOrCreate(
+            ['name' => 'Colombia'],
+            [
+                'active' => true,
+                'default' => true,
+                'zone_type' => 'country',
+                'price_display' => 'tax_inclusive',
+            ]
+        );
 
-        TaxZoneCountry::factory()->create([
+        TaxZoneCountry::firstOrCreate([
             'country_id' => $colombia->id,
             'tax_zone_id' => $colombiaTaxZone->id,
         ]);
 
-        $colombiaRate = TaxRate::factory()->create([
-            'name' => 'IVA',
-            'tax_zone_id' => $colombiaTaxZone->id,
-            'priority' => 1,
-        ]);
+        $colombiaRate = TaxRate::firstOrCreate(
+            [
+                'name' => 'IVA',
+                'tax_zone_id' => $colombiaTaxZone->id,
+            ],
+            ['priority' => 1]
+        );
 
         $colombiaRate->taxRateAmounts()->createMany([
             [

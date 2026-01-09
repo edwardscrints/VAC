@@ -1,0 +1,132 @@
+[
+    {
+        "comment": "=== EJEMPLO 1: L'Oreal ELVIVE consolidado por presentación ===",
+        "attributes": {
+            "name": "L'Oreal ELVIVE Dream Liso Sellador Acondicionador",
+            "description": "Acondicionador sellador para cabello liso perfecto. Fórmula con queratina que controla el frizz y sella la cutícula para un acabado sedoso."
+        },
+        "brand": "L'Oreal",
+        "collections": ["cuidado-capilar", "loreal", "alisado", "anti-frizz"],
+        "sku": "LOR-BASE-001",
+        "image": "placeholder.jpg",
+        "options": [
+            {
+                "name": "Presentación",
+                "values": ["370ml", "680ml"]
+            }
+        ],
+        "variants": [
+            {"sku": "LOR-001", "price": "24500", "values": ["370ml"]},
+            {"sku": "LOR-002", "price": "42900", "values": ["680ml"]}
+        ]
+    },
+    {
+        "comment": "=== EJEMPLO 2: Tío Nacho consolidado - mismo producto, múltiples presentaciones ===",
+        "attributes": {
+            "name": "Tío Nacho Shampoo Engrosador",
+            "description": "Shampoo engrosador con extracto de ginseng y jalea real que fortalece y aumenta el grosor del cabello. Ideal para cabello fino y sin volumen."
+        },
+        "brand": "Tío Nacho",
+        "collections": ["cuidado-capilar", "tio-nacho", "shampoos", "anti-caida"],
+        "sku": "TNA-BASE-002",
+        "image": "placeholder.jpg",
+        "options": [
+            {
+                "name": "Presentación",
+                "values": ["415ml", "950ml", "1000ml"]
+            }
+        ],
+        "variants": [
+            {"sku": "TNA-020", "price": "19900", "values": ["415ml"]},
+            {"sku": "TNA-005", "price": "34900", "values": ["950ml"]},
+            {"sku": "TNA-011", "price": "39900", "values": ["1000ml"]}
+        ]
+    },
+    {
+        "comment": "=== EJEMPLO 3: Recamier con múltiples presentaciones ===",
+        "attributes": {
+            "name": "Recamier Shampoo Green Forest",
+            "description": "Shampoo Green Forest con extractos botánicos naturales. Limpieza profunda con aroma fresco de bosque. Ideal para uso profesional."
+        },
+        "brand": "Recamier",
+        "collections": ["cuidado-capilar", "recamier", "shampoos", "especializados"],
+        "sku": "REC-BASE-003",
+        "image": "placeholder.jpg",
+        "options": [
+            {
+                "name": "Presentación",
+                "values": ["300ml", "1L"]
+            }
+        ],
+        "variants": [
+            {"sku": "REC-005", "price": "34900", "values": ["300ml"]},
+            {"sku": "REC-033", "price": "54900", "values": ["1L"]}
+        ]
+    },
+    {
+        "comment": "=== EJEMPLO 4: Producto SIMPLE sin variantes (mantiene formato original) ===",
+        "attributes": {
+            "name": "Shampoo La Bomba",
+            "description": "Shampoo reparador intensivo con fórmula enriquecida que devuelve la vida al cabello dañado. Repara profundamente las fibras capilares."
+        },
+        "brand": "Lissia",
+        "collections": ["cuidado-capilar", "reparacion"],
+        "sku": "LIS-001",
+        "price": "35000",
+        "image": "placeholder.jpg"
+    },
+    {
+        "comment": "=== EJEMPLO 5: IGORA ROYAL - Producto con variantes de COLOR ===",
+        "attributes": {
+            "name": "Schwarzkopf Igora Royal Tintura Permanente",
+            "description": "Coloración profesional permanente con tecnología de pigmentos de alta definición. Cobertura 100% de canas, color intenso y duradero con máximo brillo. Fórmula con agentes acondicionadores que protegen el cabello durante la coloración."
+        },
+        "brand": "Schwarzkopf",
+        "collections": ["cuidado-capilar", "schwarzkopf", "tinturas"],
+        "sku": "IGR-BASE",
+        "image": "placeholder.jpg",
+        "options": [
+            {
+                "name": "Tonalidad",
+                "values": [
+                    "1-1 Azul Negro",
+                    "2-1 Negro Azulado",
+                    "3-0 Castaño Oscuro",
+                    "3-65 Castaño Oscuro Chocolate Oro",
+                    "4-0 Castaño Medio",
+                    "4-88 Castaño Medio Rojo Extra",
+                    "5-0 Castaño Claro",
+                    "5-65 Castaño Claro Chocolate Oro",
+                    "6-0 Rubio Oscuro",
+                    "6-77 Rubio Oscuro Cobre Extra",
+                    "7-0 Rubio Medio",
+                    "7-77 Rubio Medio Cobre Extra",
+                    "8-0 Rubio Claro",
+                    "9-0 Rubio Muy Claro",
+                    "9-5-18 Rubio Perla Cendre",
+                    "10-0 Rubio Ultra Claro",
+                    "12-19 Especial Rubia Cendre Violeta"
+                ]
+            }
+        ],
+        "variants": [
+            {"sku": "IGR-001", "price": "32900", "values": ["1-1 Azul Negro"]},
+            {"sku": "IGR-002", "price": "32900", "values": ["2-1 Negro Azulado"]},
+            {"sku": "IGR-003", "price": "32900", "values": ["3-0 Castaño Oscuro"]},
+            {"sku": "IGR-004", "price": "32900", "values": ["3-65 Castaño Oscuro Chocolate Oro"]},
+            {"sku": "IGR-005", "price": "32900", "values": ["4-0 Castaño Medio"]},
+            {"sku": "IGR-006", "price": "32900", "values": ["4-88 Castaño Medio Rojo Extra"]},
+            {"sku": "IGR-007", "price": "32900", "values": ["5-0 Castaño Claro"]},
+            {"sku": "IGR-008", "price": "32900", "values": ["5-65 Castaño Claro Chocolate Oro"]},
+            {"sku": "IGR-009", "price": "32900", "values": ["6-0 Rubio Oscuro"]},
+            {"sku": "IGR-010", "price": "32900", "values": ["6-77 Rubio Oscuro Cobre Extra"]},
+            {"sku": "IGR-011", "price": "32900", "values": ["7-0 Rubio Medio"]},
+            {"sku": "IGR-012", "price": "32900", "values": ["7-77 Rubio Medio Cobre Extra"]},
+            {"sku": "IGR-013", "price": "32900", "values": ["8-0 Rubio Claro"]},
+            {"sku": "IGR-014", "price": "32900", "values": ["9-0 Rubio Muy Claro"]},
+            {"sku": "IGR-015", "price": "32900", "values": ["9-5-18 Rubio Perla Cendre"]},
+            {"sku": "IGR-016", "price": "32900", "values": ["10-0 Rubio Ultra Claro"]},
+            {"sku": "IGR-017", "price": "32900", "values": ["12-19 Especial Rubia Cendre Violeta"]}
+        ]
+    }
+]

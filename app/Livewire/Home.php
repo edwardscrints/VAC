@@ -47,7 +47,14 @@ class Home extends Component
             $collections = $collections->where('element_id', '!=', $this->getSaleCollectionProperty()?->id);
         }
 
-        return $collections->inRandomOrder()->first()?->element;
+        $collection = $collections->inRandomOrder()->first()?->element;
+        
+        // Limitar productos a 4 por colección
+        if ($collection) {
+            $collection->setRelation('products', $collection->products()->limit(4)->get());
+        }
+        
+        return $collection;
     }
 
     public function render(): View
